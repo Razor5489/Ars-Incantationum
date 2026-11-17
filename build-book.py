@@ -178,6 +178,7 @@ for i in range(38):
 (OUT/name).write_text(svg(body));PAGES.append({'image':'pages/'+name,'text':'Controguardia posteriore marmorizzata.','title':'Controguardia posteriore','folio':'Controguardia','kind':'endpaper'})
 cover(True)
 assert len(PAGES)==82,len(PAGES)
+for item in PAGES:item['image']+='?v=20261117-catalog3'
 (ROOT/'book-data.json').write_text(json.dumps({'pages':PAGES,'chapters':CHAPTERS,'sections':SECTIONS},ensure_ascii=False,indent=2))
 index=ROOT/'index.html'
 if index.exists() and 'id="book-data"' in index.read_text():
