@@ -1,0 +1,784 @@
+{
+  "pages": [
+    {
+      "image": "pages/page-01.svg",
+      "text": "ARS INCANTATIONUM\nTractatus de Arte Incantatoria\nEdmund Valemont\nHogwarts · 1890",
+      "title": "Copertina",
+      "folio": "Copertina",
+      "kind": "cover"
+    },
+    {
+      "image": "pages/page-02.svg",
+      "text": "ARS INCANTATIONUM\nPraefatio\nLa volontà e il metodo\nPrefazione di Edmund Valemont\nUn incantesimo comincia prima della formula. Il buon incantatore riconosce il bersaglio, definisce un risultato e prepara il controllo con cui potrà giudicarlo. La volontà dà direzione alla magia; il metodo rende leggibile il suo esito.\nQuesto volume accompagna sette annualità. Ogni anno si svolge in due settimane, con due lezioni per settimana: quattro incontri prima di procedere all’anno successivo.\nIl metodo comune\nLe pagine teoriche introducono principi e formule. La scheda successiva organizza preparazione, attività e controllo. Ogni incontro ha un obiettivo riconoscibile e termina con una domanda ragionata.\nLa sequenza di lavoro\nOsservare. Visualizzare. Eseguire con controllo. Confrontare. Correggere.\nLa teoria non conferisce automaticamente abilità speciali. Gli argomenti avanzati si affrontano secondo la preparazione degli allievi e le indicazioni della scuola.\nEdmund Valemont",
+      "title": "La volontà e il metodo",
+      "folio": "02",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-03.svg",
+      "text": "ARS INCANTATIONUM\nTabula Materiarum\nIndice del volume\nSette anni, un solo metodo.\nPrefazione 02\nIl percorso delle due settimane 04\nFondamenti degli Incantesimi 05\nAnno I · I primi incanti 06\nAnno II · L’ordine degli oggetti 16\nAnno III · Interrompere e riconoscere 26\nAnno IV · Il governo degli elementi 36\nAnno V · Precisione e indagine 46\nAnno VI · Disciplina avanzata 56\nAnno VII · Il giudizio dell’incantatore 66\nLessico essenziale 76\nLezioni e formule della scuola 77\nFinis 78\nL’indice ricercabile permette di trovare anche una singola formula. Le linguette laterali aprono le annualità. Una pagina può essere segnata e ritrovata nello stesso browser.",
+      "title": "Indice del volume",
+      "folio": "03",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-04.svg",
+      "text": "ARS INCANTATIONUM\nCursus Septem Annorum\nDue settimane per anno\nIl ritmo didattico del volume\nSettimana I\nLezione 1: principi e osservazione. Lezione 2: sviluppo e confronto. Ogni incontro presenta una pratica centrale o un caso da interpretare.\nSettimana II\nLezione 3: applicazione guidata. Lezione 4: sintesi e ripasso. Concluso il quarto incontro, si prosegue con la prima lezione dell’anno successivo.\nQuindici minuti\n2 minuti per obiettivo e preparazione; 3 per la lettura guidata; 7 per attività o dimostrazione; 3 per confronto e ripasso.\nConoscenza e applicazione\nIl programma conserva nome, materia e anno delle formule documentate dalla scuola. Le attività del libro accompagnano l’insegnamento senza inventare meccaniche, durate o potenziamenti.\nLe lezioni mancanti possono essere recuperate consultando teoria e scheda operativa. Non è previsto un esame finale.",
+      "title": "Due settimane per anno",
+      "folio": "04",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-05.svg",
+      "text": "ARS INCANTATIONUM\nFondamenti\nQuattro elementi del controllo\nPreparare prima di eseguire\nConcentrazione\nRivolgere l’attenzione al bersaglio e al risultato, riconoscendo ciò che può distrarre.\nVolontà\nDefinire quale effetto si intende produrre, senza sostituire il progetto con una richiesta vaga di maggiore potenza.\nMovimento e formula\nCoordinare il gesto appreso con la formula pronunciata chiaramente. Una variazione non conosciuta non è un miglioramento dimostrato.\nPredisposizione ed esercizio\nL’affinità con una pratica può facilitare l’apprendimento; non sostituisce preparazione, costanza e riscontro del docente.\nMagia involontaria\nUn fenomeno spontaneo non equivale a un’esecuzione intenzionale. Il corso sviluppa controllo, non la ricerca di manifestazioni incontrollate.",
+      "title": "Quattro elementi del controllo",
+      "folio": "05",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-06.svg",
+      "text": "ARS INCANTATIONUM\nAnno I\nI primi incanti\nAnnus Primus\nConsolidare Lumos, Ferio, Verdimilius, Periculum e Wingardium Leviosa, collegando formula, intenzione e controllo.\nIl ciclo dell’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri prima del passaggio all’anno successivo.\nLe formule già svolte: Lumos, Ferio, Verdimilius, Periculum e Wingardium Leviosa.",
+      "title": "I primi incanti",
+      "folio": "06",
+      "kind": "divider"
+    },
+    {
+      "image": "pages/page-07.svg",
+      "text": "ARS INCANTATIONUM\nAnno I\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · Lumos e Nox 08\nLa luce come primo esercizio di controllo\nLezione 2 · Ferio 10\nRipresa dell’esercizio e scelta del bersaglio\nSettimana II\nLezione 3 · Verdimilius e Periculum 12\nScintille e segnalazione\nLezione 4 · Wingardium Leviosa 14\nSollevare, guidare, deporre\nTraguardo\nConsolidare Lumos, Ferio, Verdimilius, Periculum e Wingardium Leviosa, collegando formula, intenzione e controllo.\nLeggere la teoria, preparare il compito e confrontare il risultato. La quarta lezione chiude il ciclo e raccoglie il ripasso dell’annualità.",
+      "title": "Il programma dell’anno",
+      "folio": "07",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-08.svg",
+      "text": "ARS INCANTATIONUM\nAnno I · Settimana I\nLumos e Nox\nLa luce come primo esercizio di controllo\nLumos produce luce sulla punta della bacchetta. Nox ne conclude l’effetto: i due incanti permettono di studiare insieme esecuzione e cessazione. Illuminare un bersaglio concordato è un compito diverso dal cercare la massima luminosità possibile.\nConcentrazione, volontà, movimento e predisposizione sono i quattro elementi discussi dal riferimento. La predisposizione non sostituisce l’esercizio. La formula pronunciata con chiarezza accompagna un’intenzione definita e un gesto appreso nella dimostrazione.\nIl primo incontro riprende l’incanto già studiato e lo usa come misura della regolarità. L’allievo deve saper riconoscere l’avvio, la continuità della luce e la sua conclusione, senza attribuirle capacità ulteriori soltanto perché la bacchetta si illumina.\nObiettivo\nLa luce rende riconoscibile il bersaglio e viene conclusa intenzionalmente.\nRiferimento: pp. 7–8; assegnazione di Lumos al primo anno documentata dalla scuola.",
+      "title": "Lumos e Nox",
+      "folio": "08",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-09.svg",
+      "text": "ARS INCANTATIONUM\nAnno I · Lectio 1\nL’esercizio e il giudizio\nLumos e Nox · Scheda operativa\nPreparazione\nBacchetta, testo da illuminare e area di lavoro predisposta.\n1. Definisci quale riga o oggetto deve essere visibile.\n2. Esegui Lumos secondo la dimostrazione e mantieni il compito assegnato.\n3. Concludi con Nox; descrivi se l’effetto è cessato come previsto.\nControllo\nLa luce rende riconoscibile il bersaglio e viene conclusa intenzionalmente.\nDomanda di ripasso\nLa luce si accende, ma non sai interromperla: il compito è completo?\nRagionamento\nNo. In questa esercitazione il controllo comprende sia l’esecuzione sia la cessazione con Nox.",
+      "title": "Lumos e Nox · Esercizio e ripasso",
+      "folio": "09",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-10.svg",
+      "text": "ARS INCANTATIONUM\nAnno I · Settimana I\nFerio\nRipresa dell’esercizio e scelta del bersaglio\nFerio appartiene agli incanti già affrontati nel primo anno. La revisione riprende l’effetto e il gesto insegnati in aula: una formula ricordata a memoria non dimostra, da sola, che il bersaglio sia stato scelto correttamente.\nPrima del tentativo occorre indicare il bersaglio, descrivere il risultato atteso e distinguere ciò che si osserva da ciò che si presume. L’intenzione deve essere concreta; le distrazioni e un movimento impreciso rendono difficile attribuire l’esito al progetto iniziale.\nIl lavoro di oggi è una verifica del metodo su un bersaglio inanimato predisposto. Non si aggiungono proprietà all’incanto per giustificare un risultato inatteso: si ricostruisce l’esecuzione e si confronta l’osservazione con la dimostrazione del docente.\nObiettivo\nLo studente riconosce il proprio bersaglio e motiva il confronto senza inventare nuovi effetti.\nRiferimento: Fondamenti metodologici: pp. 4–7. Ferio: precedente lezione della scuola.",
+      "title": "Ferio",
+      "folio": "10",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-11.svg",
+      "text": "ARS INCANTATIONUM\nAnno I · Lectio 2\nL’esercizio e il giudizio\nFerio · Scheda operativa\nPreparazione\nBersaglio inanimato utilizzato nella lezione di Ferio e scheda del risultato atteso.\n1. Richiama con il docente l’effetto e il movimento già appresi.\n2. Individua il bersaglio senza ambiguità; svolgi un solo tentativo guidato.\n3. Registra risultato previsto, risultato osservato e una possibile correzione della preparazione.\nControllo\nLo studente riconosce il proprio bersaglio e motiva il confronto senza inventare nuovi effetti.\nDomanda di ripasso\nUn risultato inatteso dimostra che hai scoperto una nuova proprietà di Ferio?\nRagionamento\nNo. Occorre prima verificare bersaglio, intenzione ed esecuzione confrontandoli con l’insegnamento ricevuto.",
+      "title": "Ferio · Esercizio e ripasso",
+      "folio": "11",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-12.svg",
+      "text": "ARS INCANTATIONUM\nAnno I · Settimana II\nVerdimilius e Periculum\nScintille e segnalazione\nVerdimilius riprende lo studio delle scintille verdi. Il colore permette di riconoscere un aspetto dell’effetto, ma non autorizza a confondere ogni manifestazione luminosa con un incantesimo di illuminazione o di rivelazione.\nPericulum produce un segnale di scintille rosse diretto verso l’alto. Il suo scopo è rendere individuabile una posizione, non illuminare stabilmente un ambiente. Prima dell’esecuzione si controlla il percorso del segnale e l’assenza di ostacoli sopra il punto scelto.\nLa lezione collega Incantesimi e Difesa contro le Arti Oscure. Si distinguono la produzione di scintille, la scelta di una direzione e il significato di una richiesta di aiuto. Le applicazioni più complesse di Verdimilius restano separate dalla prova elementare.\nObiettivo\nLo studente distingue scintille verdi e segnalazione rossa senza confondere le rispettive finalità.\nRiferimento: pp. 22–24. Nomi e collocazione al primo anno seguono le lezioni della scuola.",
+      "title": "Verdimilius e Periculum",
+      "folio": "12",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-13.svg",
+      "text": "ARS INCANTATIONUM\nAnno I · Lectio 3\nL’esercizio e il giudizio\nVerdimilius e Periculum · Scheda operativa\nPreparazione\nArea di dimostrazione autorizzata e schema di una posizione da segnalare.\n1. Confronta colore, direzione e finalità dei due effetti.\n2. Riprendi Verdimilius sul bersaglio predisposto, limitandoti al compito indicato.\n3. Studia un caso di Periculum: individua un punto libero verso l’alto e spiega a chi deve essere visibile.\nControllo\nLo studente distingue scintille verdi e segnalazione rossa senza confondere le rispettive finalità.\nDomanda di ripasso\nUna luce visibile basta a rendere appropriato un segnale di emergenza?\nRagionamento\nNo. Il segnale deve avere una finalità chiara, una direzione utile e un percorso non ostruito.",
+      "title": "Verdimilius e Periculum · Esercizio e ripasso",
+      "folio": "13",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-14.svg",
+      "text": "ARS INCANTATIONUM\nAnno I · Settimana II\nWingardium Leviosa\nSollevare, guidare, deporre\nWingardium Leviosa permette di far levitare un oggetto e guidarlo nello spazio. Il primo bersaglio deve essere semplice e leggero: una traiettoria breve e verificabile è più utile di un sollevamento appariscente ma poco controllato.\nLa levitazione non coincide con qualunque movimento. Locomotor verrà studiato per lo spostamento degli oggetti; Wingardium Leviosa richiede invece di governare sospensione, direzione e deposizione. Il percorso si prepara prima dell’esecuzione.\nLa quarta lezione raccoglie il lavoro delle due settimane: Lumos, Ferio, Verdimilius, Periculum e levitazione hanno effetti diversi ma richiedono un’intenzione riconoscibile. Concluso l’incontro si procede al secondo anno, conservando le schede utili al ripasso.\nObiettivo\nIl bersaglio viene sollevato, guidato e deposto senza perdere la corrispondenza con il progetto.\nRiferimento: pp. 9–10; formula già svolta nel primo anno della scuola.",
+      "title": "Wingardium Leviosa",
+      "folio": "14",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-15.svg",
+      "text": "ARS INCANTATIONUM\nAnno I · Lectio 4\nL’esercizio e il giudizio\nWingardium Leviosa · Scheda operativa\nPreparazione\nPiuma o oggetto leggero, due punti di appoggio e percorso libero.\n1. Descrivi partenza, altezza concordata e punto di arrivo.\n2. Solleva l’oggetto con Wingardium Leviosa e segui una traiettoria semplice.\n3. Deponilo nel punto previsto; confronta un esito controllato con uno soltanto spettacolare.\nControllo\nIl bersaglio viene sollevato, guidato e deposto senza perdere la corrispondenza con il progetto.\nDomanda di ripasso\nIl bersaglio sale molto in alto ma non arriva dove previsto: il risultato è efficace?\nRagionamento\nNon rispetto al compito assegnato. L’altezza non sostituisce direzione e controllo della deposizione.\nFine del ciclo di due settimane. Si prosegue con il II anno.",
+      "title": "Wingardium Leviosa · Esercizio e ripasso",
+      "folio": "15",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-16.svg",
+      "text": "ARS INCANTATIONUM\nAnno II\nL’ordine degli oggetti\nAnnus Secundus\nAprire, muovere, richiamare e riparare un oggetto attraverso una scelta motivata della formula.\nIl ciclo dell’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri prima del passaggio all’anno successivo.",
+      "title": "L’ordine degli oggetti",
+      "folio": "16",
+      "kind": "divider"
+    },
+    {
+      "image": "pages/page-17.svg",
+      "text": "ARS INCANTATIONUM\nAnno II\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · Alohomora e Colloportus 18\nApertura, chiusura e condizioni del bersaglio\nLezione 2 · Locomotor 20\nMuovere senza confondere gli effetti\nSettimana II\nLezione 3 · Accio e Depulso 22\nRichiamo e allontanamento\nLezione 4 · Reparo 24\nRicostruire senza inventare\nTraguardo\nAprire, muovere, richiamare e riparare un oggetto attraverso una scelta motivata della formula.\nLeggere la teoria, preparare il compito e confrontare il risultato. La quarta lezione chiude il ciclo e raccoglie il ripasso dell’annualità.",
+      "title": "Il programma dell’anno",
+      "folio": "17",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-18.svg",
+      "text": "ARS INCANTATIONUM\nAnno II · Settimana I\nAlohomora e Colloportus\nApertura, chiusura e condizioni del bersaglio\nAlohomora agisce sull’apertura; Colloportus sulla chiusura. Sono formule da studiare sullo stato concreto del bersaglio: una porta accostata, una serratura e una protezione magica non rappresentano la stessa condizione.\nIl riferimento descrive limiti all’apertura quando il bersaglio è protetto da magia specifica. Una mancata apertura non dimostra quindi automaticamente una cattiva pronuncia. Prima di ripetere occorre riconoscere quale compito sia stato effettivamente assegnato.\nIl laboratorio utilizza un contenitore didattico autorizzato. Il valore della prova sta nell’osservare il passaggio fra gli stati, senza considerare la conoscenza di una formula un permesso di accedere a qualsiasi luogo.\nObiettivo\nLo studente confronta gli stati del bersaglio e riconosce che l’apertura può incontrare limiti specifici.\nRiferimento: pp. 8–9.",
+      "title": "Alohomora e Colloportus",
+      "folio": "18",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-19.svg",
+      "text": "ARS INCANTATIONUM\nAnno II · Lectio 1\nL’esercizio e il giudizio\nAlohomora e Colloportus · Scheda operativa\nPreparazione\nContenitore didattico e scheda dello stato iniziale.\n1. Descrivi il meccanismo o la chiusura preparati dal docente.\n2. Osserva Colloportus e il successivo intervento di Alohomora sullo stesso bersaglio.\n3. Distingui mancata esecuzione e presenza di una condizione che richieda un altro intervento.\nControllo\nLo studente confronta gli stati del bersaglio e riconosce che l’apertura può incontrare limiti specifici.\nDomanda di ripasso\nAlohomora non apre una chiusura protetta: sai già quale sia la causa?\nRagionamento\nNo. Bisogna verificare protezione, bersaglio e condizioni dell’esercizio prima di attribuire l’esito alla formula.",
+      "title": "Alohomora e Colloportus · Esercizio e ripasso",
+      "folio": "19",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-20.svg",
+      "text": "ARS INCANTATIONUM\nAnno II · Settimana I\nLocomotor\nMuovere senza confondere gli effetti\nLocomotor governa il movimento di un oggetto lungo una direzione assegnata. Il lavoro comincia con un solo bersaglio e un percorso semplice: moltiplicare gli oggetti prima di saperne guidare uno rende poco leggibile il risultato.\nLa formula si confronta con Wingardium Leviosa. Non basta osservare che qualcosa si sposta per concludere che le due operazioni siano identiche. Si descrivono invece il modo del movimento, il sostegno e la corrispondenza con il percorso.\nIl compito assegnato all’oggetto deve rimanere elementare. Un ordine come seguire una breve linea è diverso da attribuire al bersaglio giudizio o iniziativa. Movimento governato dalla magia non significa volontà autonoma.\nObiettivo\nIl percorso è riconoscibile e lo studente distingue movimento, levitazione e autonomia.\nRiferimento: p. 9.",
+      "title": "Locomotor",
+      "folio": "20",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-21.svg",
+      "text": "ARS INCANTATIONUM\nAnno II · Lectio 2\nL’esercizio e il giudizio\nLocomotor · Scheda operativa\nPreparazione\nOggetto semplice e percorso segnato fra due appoggi.\n1. Indica una sola direzione e un punto nel quale arrestare il movimento.\n2. Applica Locomotor sotto guida a un unico oggetto.\n3. Confronta il movimento osservato con la levitazione già studiata.\nControllo\nIl percorso è riconoscibile e lo studente distingue movimento, levitazione e autonomia.\nDomanda di ripasso\nUn oggetto segue una direzione impartita: è diventato capace di decidere da solo?\nRagionamento\nNo. L’esecuzione di un compito imposto non dimostra iniziativa o coscienza.",
+      "title": "Locomotor · Esercizio e ripasso",
+      "folio": "21",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-22.svg",
+      "text": "ARS INCANTATIONUM\nAnno II · Settimana II\nAccio e Depulso\nRichiamo e allontanamento\nAccio richiama un oggetto; Depulso lo allontana con una spinta magica. Le finalità sono opposte, ma questo non rende ogni esecuzione di Depulso un controincantesimo di Accio: direzione contraria e annullamento sono concetti distinti.\nIl richiamo richiede un oggetto identificato e una posizione sufficientemente chiara. Nel laboratorio la visibilità del bersaglio permette di osservare il percorso e il punto d’arrivo, evitando di attribuire al successo capacità di ricerca non dimostrate.\nL’allontanamento richiede la stessa attenzione alla destinazione. Il compito non consiste nel far viaggiare il bersaglio più lontano possibile, ma nel portarlo entro un’area concordata senza coinvolgere ciò che gli sta intorno.\nObiettivo\nOrigine, direzione e destinazione vengono indicate prima della formula.\nRiferimento: pp. 13–14.",
+      "title": "Accio e Depulso",
+      "folio": "22",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-23.svg",
+      "text": "ARS INCANTATIONUM\nAnno II · Lectio 3\nL’esercizio e il giudizio\nAccio e Depulso · Scheda operativa\nPreparazione\nOggetto leggero, zona di raccolta e percorso sgombro.\n1. Identifica l’oggetto e il punto nel quale deve arrivare.\n2. Richiamalo con Accio in una dimostrazione o prova guidata.\n3. Confronta con Depulso verso una destinazione distinta, spiegando perché gli effetti non sono equivalenti.\nControllo\nOrigine, direzione e destinazione vengono indicate prima della formula.\nDomanda di ripasso\nDue effetti spostano lo stesso oggetto in direzioni opposte: sono necessariamente controincantesimi?\nRagionamento\nNo. Per annullare occorre intervenire sull’effetto magico, non soltanto produrre un movimento contrario.",
+      "title": "Accio e Depulso · Esercizio e ripasso",
+      "folio": "23",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-24.svg",
+      "text": "ARS INCANTATIONUM\nAnno II · Settimana II\nReparo\nRicostruire senza inventare\nReparo ricompone un oggetto danneggiato. La preparazione parte dal riconoscimento della sua struttura originaria: i frammenti presenti devono corrispondere a un insieme conoscibile, non a una forma immaginata senza riferimento.\nIl manuale distingue la ricomposizione materiale dalla restituzione di ogni proprietà magica. Un manufatto complesso o una bacchetta non possono essere giudicati soltanto dall’aspetto esterno. Una superficie integra non dimostra il recupero delle funzioni nascoste.\nL’esercizio conclude il secondo anno su un oggetto ordinario e documentato prima del danno. Reparo non viene presentato come cura per esseri viventi né come soluzione universale: il giudizio finale deve esplicitare ciò che è stato effettivamente verificato.\nObiettivo\nLa ricostruzione corrisponde al riferimento e il giudizio non promette il recupero di poteri non osservabili.\nRiferimento: pp. 15–16.",
+      "title": "Reparo",
+      "folio": "24",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-25.svg",
+      "text": "ARS INCANTATIONUM\nAnno II · Lectio 4\nL’esercizio e il giudizio\nReparo · Scheda operativa\nPreparazione\nOggetto semplice predisposto in frammenti e disegno della forma originaria.\n1. Confronta i frammenti con il disegno e individua le parti da ricomporre.\n2. Osserva o esegui Reparo secondo la dimostrazione.\n3. Controlla forma e funzione ordinaria, separandole da proprietà che non hai verificato.\nControllo\nLa ricostruzione corrisponde al riferimento e il giudizio non promette il recupero di poteri non osservabili.\nDomanda di ripasso\nUn oggetto incantato torna integro alla vista: hai dimostrato che ogni suo incanto funziona?\nRagionamento\nNo. La ricomposizione visibile non dimostra il ripristino di tutte le proprietà magiche.\nFine del ciclo di due settimane. Si prosegue con il III anno.",
+      "title": "Reparo · Esercizio e ripasso",
+      "folio": "25",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-26.svg",
+      "text": "ARS INCANTATIONUM\nAnno III\nInterrompere e riconoscere\nAnnus Tertius\nDistinguere controincantesimi, rivelazione, pulizia e modificazione del suono.\nIl ciclo dell’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri prima del passaggio all’anno successivo.",
+      "title": "Interrompere e riconoscere",
+      "folio": "26",
+      "kind": "divider"
+    },
+    {
+      "image": "pages/page-27.svg",
+      "text": "ARS INCANTATIONUM\nAnno III\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · Finite e Finite Incantatem 28\nRiconoscere prima di interrompere\nLezione 2 · Aparecium 30\nFar emergere una scrittura\nSettimana II\nLezione 3 · Tergeo e Skurge 32\nPulizia e identificazione della sostanza\nLezione 4 · Sonorus, Quietus e Silencio 34\nIntensità della voce e cessazione\nTraguardo\nDistinguere controincantesimi, rivelazione, pulizia e modificazione del suono.\nLeggere la teoria, preparare il compito e confrontare il risultato. La quarta lezione chiude il ciclo e raccoglie il ripasso dell’annualità.",
+      "title": "Il programma dell’anno",
+      "folio": "27",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-28.svg",
+      "text": "ARS INCANTATIONUM\nAnno III · Settimana I\nFinite e Finite Incantatem\nRiconoscere prima di interrompere\nUn controincantesimo interviene sull’effetto di un altro incanto. Nox ha già mostrato un esempio specifico; Finite e Finite Incantatem introducono una riflessione più ampia su bersaglio, estensione e natura dell’intervento.\nIl riferimento distingue Finite, concentrato su un bersaglio, da Finite Incantatem, descritto come intervento più generale. Questa distinzione non permette di considerarli infallibili: complessità e preparazione restano determinanti.\nLa Detrasfigurazione e i rimedi alle maledizioni richiedono competenze proprie. Il laboratorio usa un effetto semplice predisposto dal docente e osserva se è cessato; non si prova una successione di formule a caso per ottenere una scomparsa apparente.\nObiettivo\nLa scelta della formula è motivata e la cessazione viene osservata, non soltanto supposta.\nRiferimento: p. 20.",
+      "title": "Finite e Finite Incantatem",
+      "folio": "28",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-29.svg",
+      "text": "ARS INCANTATIONUM\nAnno III · Lectio 1\nL’esercizio e il giudizio\nFinite e Finite Incantatem · Scheda operativa\nPreparazione\nOggetto sottoposto a un effetto semplice noto alla classe.\n1. Descrivi l’effetto e distinguilo dal normale stato del bersaglio.\n2. Osserva l’intervento indicato dal docente scegliendo fra bersaglio singolo e area.\n3. Confronta lo stato successivo con quello iniziale e dichiara che cosa puoi verificare.\nControllo\nLa scelta della formula è motivata e la cessazione viene osservata, non soltanto supposta.\nDomanda di ripasso\nUna formula generale è per questo capace di risolvere ogni maledizione?\nRagionamento\nNo. La generalità del campo d’uso non elimina limiti, complessità o competenze specialistiche.",
+      "title": "Finite e Finite Incantatem · Esercizio e ripasso",
+      "folio": "29",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-30.svg",
+      "text": "ARS INCANTATIONUM\nAnno III · Settimana I\nAparecium\nFar emergere una scrittura\nAparecium è presentato come formula rivelatrice di messaggi nascosti o scritti con inchiostro invisibile. La sua utilità non consiste nell’inventare parole, ma nel rendere leggibile un contenuto che era già presente.\nPrima dell’esecuzione occorre distinguere un supporto apparentemente vuoto da un supporto effettivamente privo di scrittura. Il docente prepara il caso di studio, così che il confronto fra prima e dopo possa essere verificato.\nLa rivelazione non coincide con la comprensione. Un testo reso visibile può restare in una lingua sconosciuta, incompleto o ambiguo. Il giudizio dell’allievo deve separare il ritrovamento delle tracce dalla loro interpretazione.\nObiettivo\nLa trascrizione distingue ciò che è visibile da ciò che viene soltanto ipotizzato.\nRiferimento: p. 14.",
+      "title": "Aparecium",
+      "folio": "30",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-31.svg",
+      "text": "ARS INCANTATIONUM\nAnno III · Lectio 2\nL’esercizio e il giudizio\nAparecium · Scheda operativa\nPreparazione\nPergamena didattica con messaggio nascosto e copia di riscontro del docente.\n1. Descrivi il supporto senza attribuirgli già un contenuto preciso.\n2. Esegui o osserva Aparecium sul foglio predisposto.\n3. Trascrivi soltanto i segni emersi e confrontali con il riscontro.\nControllo\nLa trascrizione distingue ciò che è visibile da ciò che viene soltanto ipotizzato.\nDomanda di ripasso\nIl messaggio diventa visibile: questo lo rende automaticamente vero?\nRagionamento\nNo. L’incanto può rivelare la scrittura, non garantirne la verità o l’interpretazione.",
+      "title": "Aparecium · Esercizio e ripasso",
+      "folio": "31",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-32.svg",
+      "text": "ARS INCANTATIONUM\nAnno III · Settimana II\nTergeo e Skurge\nPulizia e identificazione della sostanza\nTergeo viene descritto come incanto aspirante per residui e liquidi. Skurge riguarda invece l’ectoplasma. La scelta non dipende soltanto dalla presenza di qualcosa da rimuovere: occorre conoscere la natura del residuo.\nUna sostanza scomparsa dalla superficie non prova che sia stata identificata correttamente. Per il lavoro in aula si usano materiali predisposti e noti; i casi relativi a presenze spiritiche vengono osservati o discussi con il docente.\nLa revisione insegna a scegliere un effetto proporzionato. Non si estende un incantesimo di pulizia alla cura di una ferita o alla neutralizzazione di una sostanza sconosciuta senza una competenza distinta.\nObiettivo\nLo studente motiva la scelta in base al residuo e limita il giudizio alla superficie osservata.\nRiferimento: pp. 14–15.",
+      "title": "Tergeo e Skurge",
+      "folio": "32",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-33.svg",
+      "text": "ARS INCANTATIONUM\nAnno III · Lectio 3\nL’esercizio e il giudizio\nTergeo e Skurge · Scheda operativa\nPreparazione\nSuperficie didattica con residuo noto e scheda di confronto con ectoplasma.\n1. Identifica il materiale indicato dal docente e delimita la zona da trattare.\n2. Osserva Tergeo su un residuo semplice e confronta l’aspetto della superficie.\n3. Spiega in quale caso il riferimento distingue l’impiego di Skurge.\nControllo\nLo studente motiva la scelta in base al residuo e limita il giudizio alla superficie osservata.\nDomanda di ripasso\nRimuovere una sostanza basta a dimostrare che era innocua?\nRagionamento\nNo. Rimozione e identificazione sono operazioni diverse.",
+      "title": "Tergeo e Skurge · Esercizio e ripasso",
+      "folio": "33",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-34.svg",
+      "text": "ARS INCANTATIONUM\nAnno III · Settimana II\nSonorus, Quietus e Silencio\nIntensità della voce e cessazione\nSonorus amplifica il suono; Quietus ne accompagna il ritorno a un’intensità minore. Il compito è rendere comprensibile una breve frase entro uno spazio concordato, non produrre il maggior rumore possibile.\nSilencio è distinto dall’amplificazione: riguarda la soppressione temporanea della voce del bersaglio. La conoscenza di effetti sul suono non autorizza a considerarli intercambiabili o a confondere silenzio e magia non verbale.\nLa pratica centrale usa una dimostrazione controllata di amplificazione e ripristino. Silencio resta oggetto di confronto teorico. La conclusione del terzo anno richiede di motivare bersaglio, effetto e modo del controllo.\nObiettivo\nL’allievo distingue amplificazione, quiete e silenziamento e sa valutarne lo scopo.\nRiferimento: pp. 22–23.",
+      "title": "Sonorus, Quietus e Silencio",
+      "folio": "34",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-35.svg",
+      "text": "ARS INCANTATIONUM\nAnno III · Lectio 4\nL’esercizio e il giudizio\nSonorus, Quietus e Silencio · Scheda operativa\nPreparazione\nBreve frase preparata e area di ascolto delimitata dal docente.\n1. Definisci chi deve udire il messaggio e a quale distanza concordata.\n2. Osserva Sonorus e il successivo Quietus confrontando chiarezza e intensità.\n3. Distingui il silenziamento del bersaglio dalla scelta di eseguire un incanto senza voce.\nControllo\nL’allievo distingue amplificazione, quiete e silenziamento e sa valutarne lo scopo.\nDomanda di ripasso\nQuietus e Silencio svolgono necessariamente lo stesso compito?\nRagionamento\nNo. Ridurre un’amplificazione e sopprimere temporaneamente la voce sono effetti distinti.\nFine del ciclo di due settimane. Si prosegue con il IV anno.",
+      "title": "Sonorus, Quietus e Silencio · Esercizio e ripasso",
+      "folio": "35",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-36.svg",
+      "text": "ARS INCANTATIONUM\nAnno IV\nIl governo degli elementi\nAnnus Quartus\nOsservare fuoco, freddo, vento e crescita vegetale, riconoscendo limiti e condizioni dell’esercizio.\nIl ciclo dell’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri prima del passaggio all’anno successivo.",
+      "title": "Il governo degli elementi",
+      "folio": "36",
+      "kind": "divider"
+    },
+    {
+      "image": "pages/page-37.svg",
+      "text": "ARS INCANTATIONUM\nAnno IV\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · Incendio e Inflamare 38\nLa fiamma e il progetto\nLezione 2 · Glacius e Impervius 40\nFreddo e impermeabilità\nSettimana II\nLezione 3 · Ventus, Fumos e Nebulus 42\nDirezione e visibilità\nLezione 4 · Herbivicus 44\nLa crescita e il suo limite\nTraguardo\nOsservare fuoco, freddo, vento e crescita vegetale, riconoscendo limiti e condizioni dell’esercizio.\nLeggere la teoria, preparare il compito e confrontare il risultato. La quarta lezione chiude il ciclo e raccoglie il ripasso dell’annualità.",
+      "title": "Il programma dell’anno",
+      "folio": "37",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-38.svg",
+      "text": "ARS INCANTATIONUM\nAnno IV · Settimana I\nIncendio e Inflamare\nLa fiamma e il progetto\nIncendio produce fuoco; Inflamare viene descritto nel riferimento come una manifestazione più circoscritta. Il loro studio prende avvio dalla destinazione della fiamma e dal materiale sul quale essa dovrà agire.\nUn effetto elementale non si giudica soltanto dall’apparizione. Vanno considerate estensione, continuità e relazione con l’ambiente. La dimostrazione prepara anche l’interruzione del compito e l’intervento del docente.\nIl laboratorio usa un punto predisposto per osservare una fiamma contenuta. Non si ampliano bersaglio e intensità per esibire potenza: l’obiettivo è conservare il limite concordato e registrare eventuali deviazioni.\nObiettivo\nIl giudizio riguarda direzione, estensione e controllo, senza equiparare grandezza e riuscita.\nRiferimento: pp. 27–28.",
+      "title": "Incendio e Inflamare",
+      "folio": "38",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-39.svg",
+      "text": "ARS INCANTATIONUM\nAnno IV · Lectio 1\nL’esercizio e il giudizio\nIncendio e Inflamare · Scheda operativa\nPreparazione\nPunto di dimostrazione predisposto dal docente; scheda del limite dell’effetto.\n1. Indica il solo punto nel quale è previsto l’effetto.\n2. Osserva l’incanto selezionato dal docente e descrivi l’estensione della fiamma.\n3. Confronta un effetto circoscritto con uno che supera il progetto.\nControllo\nIl giudizio riguarda direzione, estensione e controllo, senza equiparare grandezza e riuscita.\nDomanda di ripasso\nUna fiamma più grande del previsto è per questo un risultato migliore?\nRagionamento\nNo. Superare il limite assegnato costituisce una deviazione dal compito.",
+      "title": "Incendio e Inflamare · Esercizio e ripasso",
+      "folio": "39",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-40.svg",
+      "text": "ARS INCANTATIONUM\nAnno IV · Settimana I\nGlacius e Impervius\nFreddo e impermeabilità\nGlacius riguarda il raffreddamento e il congelamento del bersaglio. Impervius agisce invece sull’impermeabilità di un oggetto. I due effetti mostrano che intervenire sull’acqua non significa sempre modificarne lo stato.\nIl confronto riprende conoscenze elementali senza cambiare la collocazione di Aguamenti, già studiato in Trasfigurazione. Si osservano materia presente, superficie trattata ed effetto richiesto, evitando sovrapposizioni inutili.\nLa pratica centrale usa un piccolo campione predisposto. L’allievo deve saper dire se sta osservando ghiaccio o una superficie che respinge l’acqua: il solo fatto che il bersaglio resti asciutto non dimostra un congelamento.\nObiettivo\nIl confronto distingue cambiamento di stato e proprietà della superficie.\nRiferimento: pp. 25–26.",
+      "title": "Glacius e Impervius",
+      "folio": "40",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-41.svg",
+      "text": "ARS INCANTATIONUM\nAnno IV · Lectio 2\nL’esercizio e il giudizio\nGlacius e Impervius · Scheda operativa\nPreparazione\nCampione d’acqua, superficie didattica e scheda di confronto.\n1. Descrivi lo stato iniziale del campione e l’effetto che si intende ottenere.\n2. Osserva Glacius sul bersaglio predisposto dal docente.\n3. Confronta con una superficie trattata con Impervius e separa i due risultati.\nControllo\nIl confronto distingue cambiamento di stato e proprietà della superficie.\nDomanda di ripasso\nUna superficie non si bagna: hai dimostrato che l’acqua è diventata ghiaccio?\nRagionamento\nNo. L’impermeabilità non equivale al congelamento.",
+      "title": "Glacius e Impervius · Esercizio e ripasso",
+      "folio": "41",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-42.svg",
+      "text": "ARS INCANTATIONUM\nAnno IV · Settimana II\nVentus, Fumos e Nebulus\nDirezione e visibilità\nVentus produce un effetto di vento governato dalla bacchetta. Fumos e Nebulus riguardano rispettivamente fumo e nebbia. Il confronto considera tanto il risultato quanto ciò che l’incantatore può ancora osservare dopo l’esecuzione.\nRidurre la visibilità può ostacolare anche chi ha lanciato l’incanto. Un effetto diffuso rende perciò più importante definire confini, comunicazione e punto di conclusione, senza presumere di conoscere ogni posizione nell’area.\nLa prova centrale riguarda un movimento d’aria limitato su un indicatore inanimato. Fumo e nebbia si studiano mediante un caso scritto o una dimostrazione del docente, senza riempire gli ambienti scolastici.\nObiettivo\nLo studente riconosce che un ostacolo alla vista limita anche il controllo del proprio intervento.\nRiferimento: p. 14; pp. 26–27.",
+      "title": "Ventus, Fumos e Nebulus",
+      "folio": "42",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-43.svg",
+      "text": "ARS INCANTATIONUM\nAnno IV · Lectio 3\nL’esercizio e il giudizio\nVentus, Fumos e Nebulus · Scheda operativa\nPreparazione\nIndicatore leggero e schema di un’area di osservazione.\n1. Indica da dove deve arrivare il vento e dove deve terminare il suo compito.\n2. Osserva Ventus sul bersaglio predisposto, registrando la direzione del movimento.\n3. Risolvi un caso di visibilità ridotta indicando quali informazioni vengono perse.\nControllo\nLo studente riconosce che un ostacolo alla vista limita anche il controllo del proprio intervento.\nDomanda di ripasso\nCreare nebbia significa conoscere automaticamente ciò che essa nasconde?\nRagionamento\nNo. L’occultamento e la conoscenza delle posizioni sono capacità distinte.",
+      "title": "Ventus, Fumos e Nebulus · Esercizio e ripasso",
+      "folio": "43",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-44.svg",
+      "text": "ARS INCANTATIONUM\nAnno IV · Settimana II\nHerbivicus\nLa crescita e il suo limite\nHerbivicus viene presentato come formula che accelera la crescita vegetale. L’effetto non va confuso con l’ingrandimento arbitrario della pianta o con l’attribuzione di proprietà nuove a una specie.\nOsservare il bersaglio significa conoscere almeno lo stadio di partenza e le parti che dovrebbero svilupparsi. La materia vegetale mantiene caratteristiche proprie: una crescita apparente non garantisce il riconoscimento della specie o l’idoneità a ogni impiego.\nLa conclusione del quarto anno collega la formula allo studio di Erbologia, conservando distinti gli insegnamenti. L’incanto accompagna una pianta identificata e un compito definito, non sostituisce la conoscenza del vegetale.\nObiettivo\nLo studente descrive lo sviluppo senza inventare caratteristiche nuove del vegetale.\nRiferimento: p. 28.",
+      "title": "Herbivicus",
+      "folio": "44",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-45.svg",
+      "text": "ARS INCANTATIONUM\nAnno IV · Lectio 4\nL’esercizio e il giudizio\nHerbivicus · Scheda operativa\nPreparazione\nEsemplare identificato dal docente e disegno dello stadio iniziale.\n1. Descrivi la specie indicata e il suo stadio di sviluppo.\n2. Osserva la dimostrazione di Herbivicus confrontando le parti della pianta.\n3. Distingui crescita, aumento di dimensioni e cambiamento di proprietà.\nControllo\nLo studente descrive lo sviluppo senza inventare caratteristiche nuove del vegetale.\nDomanda di ripasso\nUna pianta cresce più rapidamente: ne cambia automaticamente la specie?\nRagionamento\nNo. Il tasso di crescita non equivale alla trasformazione dell’identità vegetale.\nFine del ciclo di due settimane. Si prosegue con il V anno.",
+      "title": "Herbivicus · Esercizio e ripasso",
+      "folio": "45",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-46.svg",
+      "text": "ARS INCANTATIONUM\nAnno V\nPrecisione e indagine\nAnnus Quintus\nLavorare su taglio, forma dei materiali, rivelazione e compiti assegnati agli oggetti.\nIl ciclo dell’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri prima del passaggio all’anno successivo.",
+      "title": "Precisione e indagine",
+      "folio": "46",
+      "kind": "divider"
+    },
+    {
+      "image": "pages/page-47.svg",
+      "text": "ARS INCANTATIONUM\nAnno V\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · Diffindo 48\nIl taglio come prova di precisione\nLezione 2 · Defodio e Circumrota 50\nScavare non è far ruotare\nSettimana II\nLezione 3 · Revelio e Specialis Revelio 52\nIndizio, interpretazione e certezza\nLezione 4 · Autoscribo ed Erecto 54\nUn compito per un oggetto\nTraguardo\nLavorare su taglio, forma dei materiali, rivelazione e compiti assegnati agli oggetti.\nLeggere la teoria, preparare il compito e confrontare il risultato. La quarta lezione chiude il ciclo e raccoglie il ripasso dell’annualità.",
+      "title": "Il programma dell’anno",
+      "folio": "47",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-48.svg",
+      "text": "ARS INCANTATIONUM\nAnno V · Settimana I\nDiffindo\nIl taglio come prova di precisione\nDiffindo separa o taglia il materiale bersagliato. Il compito preparatorio non è la recitazione della formula, ma la definizione di una linea e di un limite oltre il quale l’effetto non deve proseguire.\nLa precisione comprende il riconoscimento della superficie, il percorso del gesto e l’osservazione dell’esito. Un materiale separato in molti frammenti non dimostra una riuscita migliore se il progetto richiedeva una sola divisione.\nIl laboratorio usa esclusivamente un campione inanimato predisposto. La valutazione confronta il bordo ottenuto con il disegno iniziale: le parti rimaste integre contano quanto quelle separate.\nObiettivo\nIl taglio segue il compito assegnato e non modifica le parti da conservare.\nRiferimento: p. 36.",
+      "title": "Diffindo",
+      "folio": "48",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-49.svg",
+      "text": "ARS INCANTATIONUM\nAnno V · Lectio 1\nL’esercizio e il giudizio\nDiffindo · Scheda operativa\nPreparazione\nCampione didattico e linea di taglio concordata.\n1. Traccia sulla scheda la divisione prevista e le zone da conservare.\n2. Osserva o esegui Diffindo sul campione secondo la dimostrazione.\n3. Confronta il risultato con il progetto e individua eventuali deviazioni.\nControllo\nIl taglio segue il compito assegnato e non modifica le parti da conservare.\nDomanda di ripasso\nIl materiale è stato separato, ma lungo una linea diversa: il compito è riuscito?\nRagionamento\nNon pienamente. La separazione deve corrispondere anche al percorso previsto.",
+      "title": "Diffindo · Esercizio e ripasso",
+      "folio": "49",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-50.svg",
+      "text": "ARS INCANTATIONUM\nAnno V · Settimana I\nDefodio e Circumrota\nScavare non è far ruotare\nDefodio interviene sul materiale per scavarlo o scolpirlo. Circumrota riguarda invece la rotazione di un oggetto. Entrambi richiedono di visualizzare un risultato, ma modificano aspetti differenti del bersaglio.\nPer scavare occorre definire quale porzione rimuovere e quale conservare. Per ruotare servono asse e posizione finale. Confondere questi progetti rende impossibile spiegare perché un effetto sia appropriato alla situazione.\nIl laboratorio principale usa Circumrota su un piccolo oggetto. Defodio viene confrontato mediante una dimostrazione su un campione separato, senza intervenire sulle strutture della scuola.\nObiettivo\nL’allievo distingue movimento del bersaglio e rimozione di materiale.\nRiferimento: pp. 14–15.",
+      "title": "Defodio e Circumrota",
+      "folio": "50",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-51.svg",
+      "text": "ARS INCANTATIONUM\nAnno V · Lectio 2\nL’esercizio e il giudizio\nDefodio e Circumrota · Scheda operativa\nPreparazione\nOggetto ruotabile, riferimento di posizione e campione da dimostrazione.\n1. Definisci asse e orientamento finale dell’oggetto.\n2. Segui una prova guidata di Circumrota e confronta la posizione raggiunta.\n3. Disegna un progetto di scavo semplice, indicando ciò che deve rimanere intatto.\nControllo\nL’allievo distingue movimento del bersaglio e rimozione di materiale.\nDomanda di ripasso\nCambiare l’orientamento di un oggetto significa averne scolpito la materia?\nRagionamento\nNo. La rotazione modifica la posizione; lo scavo interviene sul materiale.",
+      "title": "Defodio e Circumrota · Esercizio e ripasso",
+      "folio": "51",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-52.svg",
+      "text": "ARS INCANTATIONUM\nAnno V · Settimana II\nRevelio e Specialis Revelio\nIndizio, interpretazione e certezza\nRevelio porta allo scoperto elementi celati. Il risultato va descritto prima di essere interpretato: una traccia emersa non autorizza a ricostruire un’intera vicenda senza altri elementi.\nSpecialis Revelio viene presentato come approfondimento rivolto alla lettura degli incanti su un oggetto o su una preparazione. La sua complessità ricorda che riconoscere la presenza di magia è diverso dal comprenderne ogni proprietà.\nLa pratica centrale usa un oggetto didattico dal contenuto noto al docente. I casi complessi restano oggetto di confronto: un risultato incompleto va dichiarato, senza riempire le lacune con una spiegazione inventata.\nObiettivo\nL’analisi distingue presenza di un indizio, sua lettura e limiti della conoscenza.\nRiferimento: p. 38.",
+      "title": "Revelio e Specialis Revelio",
+      "folio": "52",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-53.svg",
+      "text": "ARS INCANTATIONUM\nAnno V · Lectio 3\nL’esercizio e il giudizio\nRevelio e Specialis Revelio · Scheda operativa\nPreparazione\nOggetto di dimostrazione e scheda con colonne “osservato” e “interpretato”.\n1. Descrivi l’oggetto prima dell’intervento, senza anticiparne il segreto.\n2. Osserva Revelio e registra soltanto ciò che emerge.\n3. Confronta indizio e interpretazione; spiega quali ulteriori verifiche richiederebbe Specialis Revelio.\nControllo\nL’analisi distingue presenza di un indizio, sua lettura e limiti della conoscenza.\nDomanda di ripasso\nNon osservi un effetto nascosto: puoi garantire che non esista?\nRagionamento\nNo. Un esito non conclusivo può dipendere anche dai limiti della ricerca e dell’esecutore.",
+      "title": "Revelio e Specialis Revelio · Esercizio e ripasso",
+      "folio": "53",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-54.svg",
+      "text": "ARS INCANTATIONUM\nAnno V · Settimana II\nAutoscribo ed Erecto\nUn compito per un oggetto\nAutoscribo anima uno strumento di scrittura per trascrivere parole; Erecto assembla o dispone strutture quando i componenti necessari sono presenti. I due casi mostrano l’importanza di un compito preciso e di materiali adeguati.\nUna piuma che si muove non dimostra che stia trascrivendo il discorso desiderato. Occorre stabilire quale voce seguire e confrontare il testo prodotto. Allo stesso modo una struttura montata va valutata rispetto al progetto e ai componenti disponibili.\nIl lavoro centrale consiste in una trascrizione breve. La conclusione del quinto anno richiede di distinguere l’azione imposta all’oggetto dalla sua apparente iniziativa: un compito magico non equivale a un giudizio autonomo.\nObiettivo\nIl giudizio riguarda il compito assegnato e non il semplice movimento dello strumento.\nRiferimento: p. 21; p. 23.",
+      "title": "Autoscribo ed Erecto",
+      "folio": "54",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-55.svg",
+      "text": "ARS INCANTATIONUM\nAnno V · Lectio 4\nL’esercizio e il giudizio\nAutoscribo ed Erecto · Scheda operativa\nPreparazione\nPiuma o penna, pergamena e breve frase predisposta.\n1. Definisci quale frase e quale voce devono essere trascritte.\n2. Osserva Autoscribo e confronta la trascrizione con l’originale.\n3. Analizza un caso di Erecto indicando i componenti mancanti e il risultato atteso.\nControllo\nIl giudizio riguarda il compito assegnato e non il semplice movimento dello strumento.\nDomanda di ripasso\nUna penna produce parole diverse da quelle richieste: basta che scriva per considerarla efficace?\nRagionamento\nNo. Il risultato deve corrispondere alla trascrizione concordata.\nFine del ciclo di due settimane. Si prosegue con il VI anno.",
+      "title": "Autoscribo ed Erecto · Esercizio e ripasso",
+      "folio": "55",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-56.svg",
+      "text": "ARS INCANTATIONUM\nAnno VI\nDisciplina avanzata\nAnnus Sextus\nStudiare magia non verbale, immobilizzazione, occultamento e varianti senza confondere conoscenza e padronanza.\nIl ciclo dell’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri prima del passaggio all’anno successivo.",
+      "title": "Disciplina avanzata",
+      "folio": "56",
+      "kind": "divider"
+    },
+    {
+      "image": "pages/page-57.svg",
+      "text": "ARS INCANTATIONUM\nAnno VI\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · La magia non verbale 58\nPensare la formula senza pronunciarla\nLezione 2 · Immobulus ed Emancipare 60\nFermare, legare, liberare\nSettimana II\nLezione 3 · Disilludo e Dissimulo 62\nOccultamento e apparenza\nLezione 4 · Varianti e potenziamenti 64\nLa formula più lunga non è una scorciatoia\nTraguardo\nStudiare magia non verbale, immobilizzazione, occultamento e varianti senza confondere conoscenza e padronanza.\nLeggere la teoria, preparare il compito e confrontare il risultato. La quarta lezione chiude il ciclo e raccoglie il ripasso dell’annualità.",
+      "title": "Il programma dell’anno",
+      "folio": "57",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-58.svg",
+      "text": "ARS INCANTATIONUM\nAnno VI · Settimana I\nLa magia non verbale\nPensare la formula senza pronunciarla\nLa magia non verbale esegue un incanto senza pronunciarne ad alta voce la formula. Non consiste nell’assenza di intenzione, né nel muovere la bacchetta sperando che l’effetto si produca da solo.\nIl riferimento propone di partire da incanti semplici già conosciuti. La nuova difficoltà riguarda la disciplina mentale e la continuità del progetto: saper eseguire una formula verbalmente non dimostra subito la stessa padronanza senza voce.\nLa lezione usa un confronto su Lumos, se ritenuto adatto dal docente. Extinguo viene presentato come ulteriore esempio del riferimento, distinguendone l’effetto su fiamme ordinarie da qualunque pretesa di annullare fuochi maledetti.\nObiettivo\nLo studente distingue silenzio, progetto mentale e riuscita osservabile.\nRiferimento: pp. 40–41.",
+      "title": "La magia non verbale",
+      "folio": "58",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-59.svg",
+      "text": "ARS INCANTATIONUM\nAnno VI · Lectio 1\nL’esercizio e il giudizio\nLa magia non verbale · Scheda operativa\nPreparazione\nIncanto semplice già padroneggiato e scheda di confronto fra due esecuzioni.\n1. Ricostruisci intenzione e gesto di Lumos senza eseguire il tentativo.\n2. Confronta la dimostrazione verbale con quella non verbale.\n3. Indica quali elementi di controllo devono restare presenti anche senza voce.\nControllo\nLo studente distingue silenzio, progetto mentale e riuscita osservabile.\nDomanda di ripasso\nNon pronunciare parole rende un incantesimo automaticamente più potente?\nRagionamento\nNo. La magia non verbale introduce una difficoltà ulteriore e non garantisce un potenziamento.",
+      "title": "La magia non verbale · Esercizio e ripasso",
+      "folio": "59",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-60.svg",
+      "text": "ARS INCANTATIONUM\nAnno VI · Settimana I\nImmobulus ed Emancipare\nFermare, legare, liberare\nImmobulus riguarda l’arresto delle azioni del bersaglio. Un legamento magico interviene invece mediante un vincolo: due bersagli immobili possono trovarsi in condizioni differenti.\nEmancipare viene descritto come intervento sui legamenti. Non si sceglie quindi la formula dal solo fatto che qualcosa non si muova: occorre riconoscere la causa e individuare ciò sul quale intervenire.\nIl riferimento confronta varie corde magiche, fra cui Incarceramus, Fulgari e Brachiabindo. In aula il caso si affronta su un manichino o un oggetto predisposto; il confronto serve a evitare l’idea di una sola formula adatta a ogni impedimento.\nObiettivo\nLa scelta segue la natura dell’effetto e non una semplice somiglianza esterna.\nRiferimento: pp. 44–45.",
+      "title": "Immobulus ed Emancipare",
+      "folio": "60",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-61.svg",
+      "text": "ARS INCANTATIONUM\nAnno VI · Lectio 2\nL’esercizio e il giudizio\nImmobulus ed Emancipare · Scheda operativa\nPreparazione\nManichino o oggetto didattico e schede di effetti distinti.\n1. Distingui immobilizzazione e presenza di un vincolo osservabile.\n2. Analizza la dimostrazione indicata dal docente sul bersaglio inanimato.\n3. Motiva un possibile intervento di Emancipare soltanto nel caso di un legamento riconosciuto.\nControllo\nLa scelta segue la natura dell’effetto e non una semplice somiglianza esterna.\nDomanda di ripasso\nUn bersaglio è fermo: hai già dimostrato che sia legato da corde?\nRagionamento\nNo. L’immobilità può dipendere da effetti differenti, da identificare prima dell’intervento.",
+      "title": "Immobulus ed Emancipare · Esercizio e ripasso",
+      "folio": "61",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-62.svg",
+      "text": "ARS INCANTATIONUM\nAnno VI · Settimana II\nDisilludo e Dissimulo\nOccultamento e apparenza\nDisilludo viene descritto come mimetizzazione rispetto all’ambiente. Dissimulo mira invece a rendere ordinario l’aspetto di un bersaglio magico agli occhi dei Babbani. Le finalità non coincidono.\nConfondersi con lo sfondo non equivale a cancellare ogni traccia della propria presenza. Movimento, rumore ed effetti magici possono fornire indizi. L’osservazione deve separare il mascheramento visivo da altre forme di riconoscimento.\nLo studio rimane un confronto controllato su un manufatto e su casi scritti. La conoscenza del nome non conferisce invisibilità perfetta, né garantisce che un occultamento resista a ogni verifica.\nObiettivo\nL’allievo distingue i due effetti e non attribuisce loro invisibilità assoluta.\nRiferimento: p. 46.",
+      "title": "Disilludo e Dissimulo",
+      "folio": "62",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-63.svg",
+      "text": "ARS INCANTATIONUM\nAnno VI · Lectio 3\nL’esercizio e il giudizio\nDisilludo e Dissimulo · Scheda operativa\nPreparazione\nManufatto didattico e due descrizioni di mascheramento.\n1. Indica se il progetto richiede mimetizzazione o apparenza ordinaria.\n2. Osserva il caso predisposto e annota quali caratteristiche restano riconoscibili.\n3. Spiega perché nascondere l’aspetto non elimina necessariamente suoni e tracce.\nControllo\nL’allievo distingue i due effetti e non attribuisce loro invisibilità assoluta.\nDomanda di ripasso\nUn oggetto si confonde con lo sfondo: è dimostrato che non possa essere rilevato in altro modo?\nRagionamento\nNo. Il mascheramento visivo non annulla automaticamente gli altri indizi.",
+      "title": "Disilludo e Dissimulo · Esercizio e ripasso",
+      "folio": "63",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-64.svg",
+      "text": "ARS INCANTATIONUM\nAnno VI · Settimana II\nVarianti e potenziamenti\nLa formula più lunga non è una scorciatoia\nIl riferimento presenta modificatori e versioni ampliate di formule note. L’aggiunta di una parola non autorizza a inventare un effetto: la variante va conosciuta nelle sue condizioni, nel suo bersaglio e nei suoi limiti.\nLumos e Reparo offrono esempi di confronto fra un effetto elementare e un’applicazione più impegnativa. Aumentare estensione o complessità accresce anche ciò che deve essere osservato e governato.\nLa conclusione del sesto anno è un confronto ragionato. L’allievo prepara un compito semplice e spiega perché una variante avanzata sarebbe appropriata oppure superflua, senza ricorrervi per compensare una base incerta.\nObiettivo\nLa scelta è fondata su effetto e preparazione, non sul prestigio del nome.\nRiferimento: pp. 29–33.",
+      "title": "Varianti e potenziamenti",
+      "folio": "64",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-65.svg",
+      "text": "ARS INCANTATIONUM\nAnno VI · Lectio 4\nL’esercizio e il giudizio\nVarianti e potenziamenti · Scheda operativa\nPreparazione\nSchede di Lumos, Reparo e delle varianti descritte dal docente.\n1. Descrivi il limite del compito prima di scegliere la formula.\n2. Confronta la base con una variante effettivamente illustrata.\n3. Motiva la scelta più proporzionata e indica il controllo aggiuntivo richiesto.\nControllo\nLa scelta è fondata su effetto e preparazione, non sul prestigio del nome.\nDomanda di ripasso\nUna variante più complessa rende superfluo imparare la formula di base?\nRagionamento\nNo. Il controllo della base resta necessario per comprendere ciò che la variante modifica.\nFine del ciclo di due settimane. Si prosegue con il VII anno.",
+      "title": "Varianti e potenziamenti · Esercizio e ripasso",
+      "folio": "65",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-66.svg",
+      "text": "ARS INCANTATIONUM\nAnno VII\nIl giudizio dell’incantatore\nAnnus Septimus\nProgettare, osservare e motivare un intervento complesso, riconoscendo quando fermarsi o chiedere assistenza.\nIl ciclo dell’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri prima del passaggio all’anno successivo.",
+      "title": "Il giudizio dell’incantatore",
+      "folio": "66",
+      "kind": "divider"
+    },
+    {
+      "image": "pages/page-67.svg",
+      "text": "ARS INCANTATIONUM\nAnno VII\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · Progettare un incantamento 68\nMateriale, ordine e mantenimento\nLezione 2 · Homenum Revelio e Arresto Momentum 70\nLeggere una presenza, controllare un movimento\nSettimana II\nLezione 3 · Il Patronus 72\nStudio di un incanto eccezionale\nLezione 4 · Il giudizio dell’incantatore 74\nUna scelta motivata, dal principio alla conclusione\nTraguardo\nProgettare, osservare e motivare un intervento complesso, riconoscendo quando fermarsi o chiedere assistenza.\nLeggere la teoria, preparare il compito e confrontare il risultato. La quarta lezione chiude il ciclo e raccoglie il ripasso dell’annualità.",
+      "title": "Il programma dell’anno",
+      "folio": "67",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-68.svg",
+      "text": "ARS INCANTATIONUM\nAnno VII · Settimana I\nProgettare un incantamento\nMateriale, ordine e mantenimento\nUn oggetto incantato richiede un progetto che colleghi supporto, effetto e condizioni d’uso. Un singolo risultato momentaneo non dimostra che l’oggetto conserverà la stessa proprietà senza mantenimento.\nIl riferimento distingue gli incantesimi ordinari dagli incantamenti apposti sui manufatti. Quando si considera più di un effetto occorre esplicitarne l’ordine e il rapporto, senza assumere che la loro somma sia sempre compatibile.\nLa lezione è progettuale: si riprende una piuma autoscrivente e si descrive che cosa dovrebbe fare, quali materiali richiederebbe e come si riconoscerebbe un errore. Non si promettono manufatti permanenti al termine di un solo incontro.\nObiettivo\nIl progetto distingue effetto momentaneo, compito del manufatto e ipotesi ancora da verificare.\nRiferimento: p. 21; pp. 50–52.",
+      "title": "Progettare un incantamento",
+      "folio": "68",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-69.svg",
+      "text": "ARS INCANTATIONUM\nAnno VII · Lectio 1\nL’esercizio e il giudizio\nProgettare un incantamento · Scheda operativa\nPreparazione\nProgetto su pergamena di un semplice oggetto incantato.\n1. Definisci supporto, compito e circostanza d’impiego.\n2. Ordina gli effetti descritti senza aggiungere formule non conosciute.\n3. Indica come verificheresti funzionamento, durata osservata e necessità di manutenzione.\nControllo\nIl progetto distingue effetto momentaneo, compito del manufatto e ipotesi ancora da verificare.\nDomanda di ripasso\nUn oggetto funziona una volta: basta per definirlo permanentemente incantato?\nRagionamento\nNo. La persistenza e le condizioni di mantenimento richiedono verifiche distinte.",
+      "title": "Progettare un incantamento · Esercizio e ripasso",
+      "folio": "69",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-70.svg",
+      "text": "ARS INCANTATIONUM\nAnno VII · Settimana I\nHomenum Revelio e Arresto Momentum\nLeggere una presenza, controllare un movimento\nHomenum Revelio riguarda l’individuazione di persone nell’area. Un’indicazione di presenza non equivale alla conoscenza delle loro intenzioni o all’identificazione completa di ciò che sta accadendo.\nArresto Momentum interviene invece sulla velocità di un bersaglio. Il compito didattico usa un oggetto dal movimento prevedibile, distinguendo il rallentamento osservato da un arresto soltanto immaginato.\nLe formule vengono confrontate come esempi di giudizio avanzato: prima si riconosce quale informazione serve o quale movimento si deve controllare, poi si sceglie il tipo d’intervento. Non si presume una copertura infallibile dell’ambiente.\nObiettivo\nL’allievo separa rilevamento, interpretazione e modifica del movimento.\nRiferimento: p. 53.",
+      "title": "Homenum Revelio e Arresto Momentum",
+      "folio": "70",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-71.svg",
+      "text": "ARS INCANTATIONUM\nAnno VII · Lectio 2\nL’esercizio e il giudizio\nHomenum Revelio e Arresto Momentum · Scheda operativa\nPreparazione\nPercorso di un oggetto inanimato e schema di un’area di osservazione.\n1. Distingui un problema di presenza da uno di movimento.\n2. Osserva Arresto Momentum su un bersaglio predisposto dal docente.\n3. Risolvi un caso di Homenum Revelio dichiarando che cosa il rilevamento non dimostra.\nControllo\nL’allievo separa rilevamento, interpretazione e modifica del movimento.\nDomanda di ripasso\nRilevare una persona significa sapere automaticamente che sia un avversario?\nRagionamento\nNo. La presenza è un’informazione da interpretare insieme al contesto.",
+      "title": "Homenum Revelio e Arresto Momentum · Esercizio e ripasso",
+      "folio": "71",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-72.svg",
+      "text": "ARS INCANTATIONUM\nAnno VII · Settimana II\nIl Patronus\nStudio di un incanto eccezionale\nExpecto Patronum è presentato come incanto difensivo avanzato. Il suo studio richiede di collegare concentrazione, intenzione e una disposizione mentale particolarmente salda, senza ridurlo a una pronuncia corretta.\nIl riferimento distingue manifestazioni incorporee e forme corporee. Queste ultime non si ottengono per semplice scelta estetica e non costituiscono il risultato garantito di una lezione. L’analisi considera la funzione dell’incanto e i requisiti di preparazione.\nL’incontro è teorico e dimostrativo, se il docente dispone della competenza necessaria. Non si inscena un’esposizione a creature pericolose come prova della classe. La conoscenza del capitolo non viene confusa con l’acquisizione automatica dell’abilità.\nObiettivo\nLo studente comprende funzione e difficoltà senza rivendicare un’abilità non verificata.\nRiferimento: pp. 47–48.",
+      "title": "Il Patronus",
+      "folio": "72",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-73.svg",
+      "text": "ARS INCANTATIONUM\nAnno VII · Lectio 3\nL’esercizio e il giudizio\nIl Patronus · Scheda operativa\nPreparazione\nScheda dei requisiti e descrizione di manifestazioni differenti.\n1. Ricostruisci i fattori che distinguono il Patronus da un semplice effetto luminoso.\n2. Confronta le due manifestazioni senza attribuire una forma desiderata all’allievo.\n3. Spiega perché lo studio teorico non dimostra da solo la capacità di esecuzione.\nControllo\nLo studente comprende funzione e difficoltà senza rivendicare un’abilità non verificata.\nDomanda di ripasso\nUna manifestazione luminosa basta a dimostrare un Patronus corporeo?\nRagionamento\nNo. Luce, manifestazione incorporea e forma corporea devono essere distinte.",
+      "title": "Il Patronus · Esercizio e ripasso",
+      "folio": "73",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-74.svg",
+      "text": "ARS INCANTATIONUM\nAnno VII · Settimana II\nIl giudizio dell’incantatore\nUna scelta motivata, dal principio alla conclusione\nLa padronanza non consiste nel scegliere sempre la formula più complessa. Un intervento adeguato nasce dalla lettura della situazione, da un obiettivo limitato e da una previsione del modo in cui si controllerà l’esito.\nIl caso conclusivo presenta un ambiente con scarsa luce, un oggetto fuori posto e un compito di recupero. Lumos, un incanto di movimento e un eventuale ripristino devono essere scelti in ordine, distinguendo ciò che si sa da ciò che richiede l’intervento del docente.\nL’ultima lezione raccoglie sette annualità e ventotto incontri. È un ripasso ragionato, non un esame finale. Le schede restano disponibili per recuperare le lezioni e rivedere un metodo che accompagna ogni nuova formula.\nObiettivo\nLa soluzione è coerente, proporzionata e distingue conoscenza, esecuzione ed esito verificato.\nRiferimento: Sintesi didattica originale del percorso; fondamenti pp. 4–7 e 52.",
+      "title": "Il giudizio dell’incantatore",
+      "folio": "74",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-75.svg",
+      "text": "ARS INCANTATIONUM\nAnno VII · Lectio 4\nL’esercizio e il giudizio\nIl giudizio dell’incantatore · Scheda operativa\nPreparazione\nCaso scritto predisposto dal docente e schede degli incanti studiati.\n1. Individua il problema senza lanciare formule e scegli un solo obiettivo iniziale.\n2. Ordina gli interventi necessari e motiva perché gli altri sarebbero superflui.\n3. Descrivi il controllo finale e segnala esplicitamente ciò che non sei in grado di risolvere.\nControllo\nLa soluzione è coerente, proporzionata e distingue conoscenza, esecuzione ed esito verificato.\nDomanda di ripasso\nLa soluzione migliore è sempre quella che impiega più incantesimi?\nRagionamento\nNo. È quella che raggiunge il compito con interventi motivati, controllabili e commisurati alla preparazione.\nFine del ciclo di due settimane. Il percorso dei sette anni è concluso.",
+      "title": "Il giudizio dell’incantatore · Esercizio e ripasso",
+      "folio": "75",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-76.svg",
+      "text": "ARS INCANTATIONUM\nLexicon\nIl lessico dell’incantatore\nParole da usare con precisione\nBersaglio\nSoggetto identificato sul quale si intende intervenire.\nFormula e gesto\nElementi appresi dell’esecuzione, da distinguere dal risultato osservato.\nControincantesimo\nIntervento sull’effetto di un incanto. Non coincide con ogni effetto apparentemente opposto.\nIncantamento\nProgetto magico apposto a un oggetto, da verificare per compito e mantenimento.\nMagia non verbale\nEsecuzione senza formula pronunciata; richiede comunque intenzione e disciplina.\nRiuscita e potenza\nUn effetto più grande non è automaticamente più adatto. Conta la corrispondenza con il compito assegnato.",
+      "title": "Il lessico dell’incantatore",
+      "folio": "76",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-77.svg",
+      "text": "ARS INCANTATIONUM\nAppendice · Fonti\nL’ordine degli insegnamenti\nLe lezioni della scuola e il volume di riferimento\nIl primo anno\nIl percorso conserva Lumos, Ferio, Verdimilius e Wingardium Leviosa fra le formule già svolte. Periculum accompagna lo studio della segnalazione in un incontro condiviso con Difesa contro le Arti Oscure.\nIl libro madre\nLa base teorica è il «Manuale Ufficiale di Incantesimi» di bewitchedgdr. I contenuti sono rielaborati; l’organizzazione in quattro incontri annui è propria di questa edizione. Le pagine richiamate nelle schede consentono di ritrovare gli argomenti nel riferimento.\nEdizione e attribuzione\nArs Incantationum è il volume di Incantesimi di Edmund Valemont, preparato per NightFall. Gli esercizi sono proposte didattiche originali. Le assegnazioni della scuola prevalgono sull’ordine del riferimento; gli argomenti avanzati non conferiscono abilità automatiche.\nCreato per NightFall da Razor. Progetto amatoriale, non ufficiale.",
+      "title": "L’ordine degli insegnamenti",
+      "folio": "77",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-78.svg",
+      "text": "ARS INCANTATIONUM\nFinis\nLa volontà guida.\nIl metodo governa.\nSette annualità. Quattordici settimane. Ventotto lezioni per collegare conoscenza, intenzione e giudizio.\nEdmund Valemont\nHogwarts · MDCCCXC",
+      "title": "La volontà guida.",
+      "folio": "78",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-79.svg",
+      "text": "Controguardia posteriore marmorizzata.",
+      "title": "Controguardia posteriore",
+      "folio": "Controguardia",
+      "kind": "endpaper"
+    },
+    {
+      "image": "pages/page-80.svg",
+      "text": "ARS INCANTATIONUM\nQuarta di copertina\nEdmund Valemont\nHogwarts · 1890",
+      "title": "Quarta di copertina",
+      "folio": "Quarta di copertina",
+      "kind": "cover"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Copertina",
+      "page": 1
+    },
+    {
+      "title": "Praefatio",
+      "page": 2
+    },
+    {
+      "title": "Indice del volume",
+      "page": 3
+    },
+    {
+      "title": "Il percorso delle due settimane",
+      "page": 4
+    },
+    {
+      "title": "Fondamenti · Il controllo",
+      "page": 5
+    },
+    {
+      "title": "Anno I · I primi incanti",
+      "page": 6
+    },
+    {
+      "title": "I.1 · Lumos e Nox",
+      "page": 8
+    },
+    {
+      "title": "I.2 · Ferio",
+      "page": 10
+    },
+    {
+      "title": "I.3 · Verdimilius e Periculum",
+      "page": 12
+    },
+    {
+      "title": "I.4 · Wingardium Leviosa",
+      "page": 14
+    },
+    {
+      "title": "Anno II · L’ordine degli oggetti",
+      "page": 16
+    },
+    {
+      "title": "II.1 · Alohomora e Colloportus",
+      "page": 18
+    },
+    {
+      "title": "II.2 · Locomotor",
+      "page": 20
+    },
+    {
+      "title": "II.3 · Accio e Depulso",
+      "page": 22
+    },
+    {
+      "title": "II.4 · Reparo",
+      "page": 24
+    },
+    {
+      "title": "Anno III · Interrompere e riconoscere",
+      "page": 26
+    },
+    {
+      "title": "III.1 · Finite e Finite Incantatem",
+      "page": 28
+    },
+    {
+      "title": "III.2 · Aparecium",
+      "page": 30
+    },
+    {
+      "title": "III.3 · Tergeo e Skurge",
+      "page": 32
+    },
+    {
+      "title": "III.4 · Sonorus, Quietus e Silencio",
+      "page": 34
+    },
+    {
+      "title": "Anno IV · Il governo degli elementi",
+      "page": 36
+    },
+    {
+      "title": "IV.1 · Incendio e Inflamare",
+      "page": 38
+    },
+    {
+      "title": "IV.2 · Glacius e Impervius",
+      "page": 40
+    },
+    {
+      "title": "IV.3 · Ventus, Fumos e Nebulus",
+      "page": 42
+    },
+    {
+      "title": "IV.4 · Herbivicus",
+      "page": 44
+    },
+    {
+      "title": "Anno V · Precisione e indagine",
+      "page": 46
+    },
+    {
+      "title": "V.1 · Diffindo",
+      "page": 48
+    },
+    {
+      "title": "V.2 · Defodio e Circumrota",
+      "page": 50
+    },
+    {
+      "title": "V.3 · Revelio e Specialis Revelio",
+      "page": 52
+    },
+    {
+      "title": "V.4 · Autoscribo ed Erecto",
+      "page": 54
+    },
+    {
+      "title": "Anno VI · Disciplina avanzata",
+      "page": 56
+    },
+    {
+      "title": "VI.1 · La magia non verbale",
+      "page": 58
+    },
+    {
+      "title": "VI.2 · Immobulus ed Emancipare",
+      "page": 60
+    },
+    {
+      "title": "VI.3 · Disilludo e Dissimulo",
+      "page": 62
+    },
+    {
+      "title": "VI.4 · Varianti e potenziamenti",
+      "page": 64
+    },
+    {
+      "title": "Anno VII · Il giudizio dell’incantatore",
+      "page": 66
+    },
+    {
+      "title": "VII.1 · Progettare un incantamento",
+      "page": 68
+    },
+    {
+      "title": "VII.2 · Homenum Revelio e Arresto Momentum",
+      "page": 70
+    },
+    {
+      "title": "VII.3 · Il Patronus",
+      "page": 72
+    },
+    {
+      "title": "VII.4 · Il giudizio dell’incantatore",
+      "page": 74
+    },
+    {
+      "title": "Lessico essenziale",
+      "page": 76
+    },
+    {
+      "title": "Lezioni e fonti",
+      "page": 77
+    },
+    {
+      "title": "Finis",
+      "page": 78
+    }
+  ],
+  "sections": [
+    [
+      "Indice",
+      2
+    ],
+    [
+      "Fondamenti",
+      4
+    ],
+    [
+      "I",
+      5
+    ],
+    [
+      "II",
+      15
+    ],
+    [
+      "III",
+      25
+    ],
+    [
+      "IV",
+      35
+    ],
+    [
+      "V",
+      45
+    ],
+    [
+      "VI",
+      55
+    ],
+    [
+      "VII",
+      65
+    ],
+    [
+      "Lessico",
+      75
+    ],
+    [
+      "Appendice",
+      76
+    ]
+  ]
+}
