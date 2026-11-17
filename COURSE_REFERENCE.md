@@ -10,4 +10,4 @@ Primo anno di Incantesimi: Lumos, Verdimilius, Wingardium Leviosa. Primo anno di
 
 Le altre assegnazioni per anno e materia sono proposte didattiche, da adeguare alle indicazioni della scuola. Engorgio e Reducio sono tenuti in Trasfigurazione al quarto anno per continuità con quel volume. Incarcerous è il nome del catalogo corrente, distinto dalla grafia del riferimento precedente. Episkey è proposto per Medimagia. Blink resta da assegnare: nessun effetto o livello viene dedotto dalla sola icona. Le formule fuori dalla materia Incantesimi non hanno schede operative nel presente libro.
 
-Sette annualità di quattro incontri: due lezioni alla settimana per due settimane, poi l’anno successivo. Mantenere stile e lettore approvati; autore fittizio Edmund Valemont. Nessun esame finale.
+Sette annualità di quattro incontri: due lezioni alla settimana per due settimane, poi l’anno successivo. Mantenere stile e lettore approvati; autore fittizio Nathaniel Ashcombe. Nessun esame finale.

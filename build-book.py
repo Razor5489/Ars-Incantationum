@@ -76,14 +76,14 @@ def cover(back=False):
     body+=text(297.5,255,'Tractatus de Arte Incantatoria',15,'#d9cda8',anchor='middle',italic=True)+'<path d="M205 282H390" stroke="'+GOLD+'" stroke-width=".6"/>'
     body+='<g fill="none" stroke="'+GOLD+'" stroke-width=".8"><circle cx="297.5" cy="422" r="90"/><circle cx="297.5" cy="422" r="82"/><path d="M237 443v-47q30-9 60 6 30-15 60-6v47q-30-9-60 6-30-15-60-6zM297 402v47M245 409q22-4 42 3M245 421q22-4 42 3M309 412q22-8 40-3M309 424q22-8 40-3M253 482l89-126"/><path d="m343 347 4-17 5 13 14 5-15 3-5 14z"/></g>'
     if back:
-        body+=text(297.5,605,'La volontà guida. Il metodo governa.',16,'#e1d6b9',anchor='middle',italic=True)+text(297.5,669,'EDMUND VALEMONT',14,'#e1d6b9',anchor='middle')
+        body+=text(297.5,605,'La volontà guida. Il metodo governa.',16,'#e1d6b9',anchor='middle',italic=True)+text(297.5,669,'NATHANIEL ASHCOMBE',14,'#e1d6b9',anchor='middle')
     else:
-        body+=text(297.5,616,'AD USUM SCHOLASTICUM HOGVARTENSE',9,GOLD,anchor='middle')+text(297.5,683,'Professor Edmund Valemont',17,'#e1d6b9',anchor='middle')+text(297.5,753,'OSSERVAZIONE · PRECISIONE · CONTROLLO',9,GOLD,anchor='middle')
+        body+=text(297.5,616,'AD USUM SCHOLASTICUM HOGVARTENSE',9,GOLD,anchor='middle')+text(297.5,683,'Professor Nathaniel Ashcombe',17,'#e1d6b9',anchor='middle')+text(297.5,753,'OSSERVAZIONE · PRECISIONE · CONTROLLO',9,GOLD,anchor='middle')
     body+=text(297.5,790,'MDCCCXC',11,GOLD,anchor='middle')
-    name='page-'+f'{len(PAGES)+1:02}'+'.svg';(OUT/name).write_text(svg(body));PAGES.append({'image':'pages/'+name,'text':'ARS INCANTATIONUM\n'+('Quarta di copertina' if back else 'Tractatus de Arte Incantatoria')+'\nEdmund Valemont\nHogwarts · 1890','title':'Quarta di copertina' if back else 'Copertina','folio':'Quarta di copertina' if back else 'Copertina','kind':'cover'})
+    name='page-'+f'{len(PAGES)+1:02}'+'.svg';(OUT/name).write_text(svg(body));PAGES.append({'image':'pages/'+name,'text':'ARS INCANTATIONUM\n'+('Quarta di copertina' if back else 'Tractatus de Arte Incantatoria')+'\nNathaniel Ashcombe\nHogwarts · 1890','title':'Quarta di copertina' if back else 'Copertina','folio':'Quarta di copertina' if back else 'Copertina','kind':'cover'})
 
 cover();CHAPTERS.append({'title':'Copertina','page':1})
-p=Leaf('Praefatio','La volontà e il metodo','Prefazione di Edmund Valemont')
+p=Leaf('Praefatio','La volontà e il metodo','Prefazione di Nathaniel Ashcombe')
 p.paragraph('Un incantesimo comincia prima della formula. Il buon incantatore riconosce il bersaglio, definisce un risultato e prepara il controllo con cui potrà giudicarlo. La volontà dà direzione alla magia; il metodo rende leggibile il suo esito.')
 p.paragraph('Questo volume accompagna sette annualità. Ogni anno si svolge in due settimane, con due lezioni per settimana: quattro incontri prima di procedere all’anno successivo.')
 p.heading('Il metodo comune')
@@ -91,7 +91,7 @@ p.paragraph('Le pagine teoriche introducono principi e formule. La scheda succes
 p.box('La sequenza di lavoro','Osservare. Visualizzare. Eseguire con controllo. Confrontare. Correggere.')
 p.paragraph('Questa edizione distingue le formule di Incantesimi da quelle delle altre discipline. Per le assegnazioni non ancora stabilite, la tavola finale presenta una proposta didattica, non una regola già confermata.',10,MUTED)
 p.paragraph('La teoria non conferisce automaticamente abilità speciali. Gli argomenti avanzati si affrontano secondo la preparazione degli allievi e le indicazioni della scuola.')
-p.paragraph('Edmund Valemont',13,GREEN,True)
+p.paragraph('Nathaniel Ashcombe',13,GREEN,True)
 add(p,'Praefatio')
 
 p=Leaf('Tabula Materiarum','Indice del volume','Sette anni, un solo metodo.')
@@ -170,7 +170,7 @@ p.paragraph('Base teorica: Manuale Ufficiale di Incantesimi di bewitchedgdr. Cat
 add(p,'Altre materie e assegnazioni')
 p=Leaf('Finis','La volontà guida.','Il metodo governa.')
 p.y=370;p.paragraph('Sette annualità. Quattordici settimane. Ventotto lezioni per collegare conoscenza, intenzione e giudizio.',19,GREEN,True,29)
-p.y+=55;p.paragraph('Edmund Valemont',15,GREEN);p.paragraph('Hogwarts · MDCCCXC',10,GOLD)
+p.y+=55;p.paragraph('Nathaniel Ashcombe',15,GREEN);p.paragraph('Hogwarts · MDCCCXC',10,GOLD)
 add(p,'Finis')
 idx=len(PAGES);name=f'page-{idx+1:02}.svg';body='<rect width="595" height="842" fill="#0d3027"/>'
 for i in range(38):
@@ -178,7 +178,7 @@ for i in range(38):
 (OUT/name).write_text(svg(body));PAGES.append({'image':'pages/'+name,'text':'Controguardia posteriore marmorizzata.','title':'Controguardia posteriore','folio':'Controguardia','kind':'endpaper'})
 cover(True)
 assert len(PAGES)==82,len(PAGES)
-for item in PAGES:item['image']+='?v=20261117-catalog3'
+for item in PAGES:item['image']+='?v=20261117-author4'
 (ROOT/'book-data.json').write_text(json.dumps({'pages':PAGES,'chapters':CHAPTERS,'sections':SECTIONS},ensure_ascii=False,indent=2))
 index=ROOT/'index.html'
 if index.exists() and 'id="book-data"' in index.read_text():

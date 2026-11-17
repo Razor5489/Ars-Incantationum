@@ -1,6 +1,6 @@
 # Ars Incantationum · Edizione aggiornata
 
-Manuale di Incantesimi di Edmund Valemont per NightFall. Il catalogo nelle schermate del 17 novembre 2026 prevale sull’elenco generico del libro madre.
+Manuale di Incantesimi di Nathaniel Ashcombe per NightFall. Il catalogo nelle schermate del 17 novembre 2026 prevale sull’elenco generico del libro madre.
 
 82 pagine A4; 7 anni; 2 settimane per anno; 2 lezioni settimanali; 28 lezioni. Le revisioni approfondiscono formule già introdotte. Non è previsto un esame finale.
 
