@@ -89,12 +89,13 @@ p.paragraph('Questo volume accompagna sette annualità. Ogni anno si svolge in d
 p.heading('Il metodo comune')
 p.paragraph('Le pagine teoriche introducono principi e formule. La scheda successiva organizza preparazione, attività e controllo. Ogni incontro ha un obiettivo riconoscibile e termina con una domanda ragionata.')
 p.box('La sequenza di lavoro','Osservare. Visualizzare. Eseguire con controllo. Confrontare. Correggere.')
+p.paragraph('Questa edizione distingue le formule di Incantesimi da quelle delle altre discipline. Per le assegnazioni non ancora stabilite, la tavola finale presenta una proposta didattica, non una regola già confermata.',10,MUTED)
 p.paragraph('La teoria non conferisce automaticamente abilità speciali. Gli argomenti avanzati si affrontano secondo la preparazione degli allievi e le indicazioni della scuola.')
 p.paragraph('Edmund Valemont',13,GREEN,True)
 add(p,'Praefatio')
 
 p=Leaf('Tabula Materiarum','Indice del volume','Sette anni, un solo metodo.')
-for title,folio in [('Prefazione','02'),('Il percorso delle due settimane','04'),('Fondamenti degli Incantesimi','05')]+[(f'Anno {ROMAN[i]} · '+y['name'],f'{6+i*10:02}') for i,y in enumerate(DATA['years'])]+[('Lessico essenziale','76'),('Lezioni e formule della scuola','77'),('Finis','78')]:p.row(title,folio)
+for title,folio in [('Prefazione','02'),('Il percorso delle due settimane','04'),('Fondamenti degli Incantesimi','05')]+[(f'Anno {ROMAN[i]} · '+y['name'],f'{6+i*10:02}') for i,y in enumerate(DATA['years'])]+[('Lessico essenziale','76'),('Incantesimi · Tavola per anno','77'),('Difesa contro le Arti Oscure','78'),('Altre materie e assegnazioni','79'),('Finis','80')]:p.row(title,folio)
 p.paragraph('L’indice ricercabile permette di trovare anche una singola formula. Le linguette laterali aprono le annualità. Una pagina può essere segnata e ritrovata nello stesso browser.',10,MUTED)
 add(p,'Indice del volume');SECTIONS.append(['Indice',2])
 p=Leaf('Cursus Septem Annorum','Due settimane per anno','Il ritmo didattico del volume')
@@ -115,7 +116,7 @@ for yi,y in enumerate(DATA['years']):
     p.y+=36;p.parts.append(text(297.5,p.y,ROMAN[yi],100,GREEN,anchor='middle'));p.y+=60
     p.paragraph(y['goal'],16,GREEN,True,24)
     p.box('Il ciclo dell’annualità','Due settimane. Due lezioni ogni settimana. Quattro incontri prima del passaggio all’anno successivo.')
-    if year==1:p.paragraph('Le formule già svolte: Lumos, Ferio, Verdimilius, Periculum e Wingardium Leviosa.',13,GREEN)
+    if year==1:p.paragraph('Lumos, Verdimilius, Levioso e Wingardium Leviosa.',13,GREEN)
     add(p,'Anno '+ROMAN[yi]+' · '+y['name']);SECTIONS.append([ROMAN[yi],idx])
     p=Leaf('Anno '+ROMAN[yi],'Il programma dell’anno','Due settimane · Quattro lezioni')
     for li,l in enumerate(annual):
@@ -142,12 +143,31 @@ for yi,y in enumerate(DATA['years']):
 p=Leaf('Lexicon','Il lessico dell’incantatore','Parole da usare con precisione')
 for h,t in [('Bersaglio','Soggetto identificato sul quale si intende intervenire.'),('Formula e gesto','Elementi appresi dell’esecuzione, da distinguere dal risultato osservato.'),('Controincantesimo','Intervento sull’effetto di un incanto. Non coincide con ogni effetto apparentemente opposto.'),('Incantamento','Progetto magico apposto a un oggetto, da verificare per compito e mantenimento.'),('Magia non verbale','Esecuzione senza formula pronunciata; richiede comunque intenzione e disciplina.'),('Riuscita e potenza','Un effetto più grande non è automaticamente più adatto. Conta la corrispondenza con il compito assegnato.')]:p.heading(h);p.paragraph(t,11.5,leading=17)
 add(p,'Lessico essenziale');SECTIONS.append(['Lessico',75])
-p=Leaf('Appendice · Fonti','L’ordine degli insegnamenti','Le lezioni della scuola e il volume di riferimento')
-p.heading('Il primo anno');p.paragraph('Il percorso conserva Lumos, Ferio, Verdimilius e Wingardium Leviosa fra le formule già svolte. Periculum accompagna lo studio della segnalazione in un incontro condiviso con Difesa contro le Arti Oscure.')
-p.heading('Il libro madre');p.paragraph('La base teorica è il «Manuale Ufficiale di Incantesimi» di bewitchedgdr. I contenuti sono rielaborati; l’organizzazione in quattro incontri annui è propria di questa edizione. Le pagine richiamate nelle schede consentono di ritrovare gli argomenti nel riferimento.')
-p.heading('Edizione e attribuzione');p.paragraph('Ars Incantationum è il volume di Incantesimi di Edmund Valemont, preparato per NightFall. Gli esercizi sono proposte didattiche originali. Le assegnazioni della scuola prevalgono sull’ordine del riferimento; gli argomenti avanzati non conferiscono abilità automatiche.')
-p.paragraph('Creato per NightFall da Razor. Progetto amatoriale, non ufficiale.',10,MUTED)
-add(p,'Lezioni e fonti');SECTIONS.append(['Appendice',76])
+catalog=json.loads((ROOT/'catalog.json').read_text())
+p=Leaf('Tavola I · Incantesimi','Le formule per anno','Prima introduzione · Ordinamento della presente edizione')
+p.paragraph('Le revisioni negli anni successivi approfondiscono formule già introdotte. Le assegnazioni non già stabilite dalla scuola sono proposte didattiche di questo volume.',10,MUTED)
+for item in catalog:
+    if item['subject']=='Incantesimi':p.row(item['name'],ROMAN[item['year']-1])
+add(p,'Incantesimi · Tavola per anno');SECTIONS.append(['Materie',76])
+p=Leaf('Tavola II · D.C.A.O.','Difesa contro le Arti Oscure','Formule tenute fuori dal programma di Incantesimi')
+p.paragraph('Protego, Flipendo e Rictusempra conservano il primo anno già assegnato. Per le altre voci, anno e materia indicano una proposta didattica.',10,MUTED)
+for item in catalog:
+    if item['subject']=='DCAO':p.row(item['name'],ROMAN[item['year']-1])
+p.paragraph('La presenza in questa tavola non costituisce insegnamento operativo della formula. Le lezioni appartengono alla materia indicata.',10,MUTED)
+add(p,'DCAO · Tavola per anno')
+p=Leaf('Tavola III · Altre discipline','Materie e confini','La competenza precede l’esecuzione')
+p.heading('Trasfigurazione')
+for item in catalog:
+    if item['subject']=='Trasfigurazione':p.row(item['name'],ROMAN[item['year']-1])
+p.heading('Medimagia')
+for item in catalog:
+    if item['subject']=='Medimagia':p.row(item['name'],ROMAN[item['year']-1])
+p.heading('Formula da assegnare')
+p.paragraph('Blink: funzione e materia non sono determinate dalla documentazione ricevuta. Non viene attribuito un anno né predisposta una lezione pratica.',11)
+p.heading('Criterio editoriale')
+p.paragraph('Aguamenti conserva il primo anno di Trasfigurazione già stabilito. Gli altri anni non confermati sono proposte di ordinamento. Le denominazioni seguono il catalogo della scuola; le formule delle altre discipline non vengono impartite come Incantesimi.',10)
+p.paragraph('Base teorica: Manuale Ufficiale di Incantesimi di bewitchedgdr. Catalogo aggiornato delle formule fornito dalla scuola. Attività e piano didattico rielaborati per questa edizione.',9,MUTED,False,13)
+add(p,'Altre materie e assegnazioni')
 p=Leaf('Finis','La volontà guida.','Il metodo governa.')
 p.y=370;p.paragraph('Sette annualità. Quattordici settimane. Ventotto lezioni per collegare conoscenza, intenzione e giudizio.',19,GREEN,True,29)
 p.y+=55;p.paragraph('Edmund Valemont',15,GREEN);p.paragraph('Hogwarts · MDCCCXC',10,GOLD)
@@ -157,7 +177,7 @@ for i in range(38):
     yy=i*24;body+=f'<path d="M-40 {yy} Q130 {yy-80} 298 {yy+9}T650 {yy-5}" fill="none" stroke="{["#9a8659","#6c855d","#38584a"][i%3]}" stroke-width="{1+i%4}" opacity=".5"/>'
 (OUT/name).write_text(svg(body));PAGES.append({'image':'pages/'+name,'text':'Controguardia posteriore marmorizzata.','title':'Controguardia posteriore','folio':'Controguardia','kind':'endpaper'})
 cover(True)
-assert len(PAGES)==80,len(PAGES)
+assert len(PAGES)==82,len(PAGES)
 (ROOT/'book-data.json').write_text(json.dumps({'pages':PAGES,'chapters':CHAPTERS,'sections':SECTIONS},ensure_ascii=False,indent=2))
 index=ROOT/'index.html'
 if index.exists() and 'id="book-data"' in index.read_text():

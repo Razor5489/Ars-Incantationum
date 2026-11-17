@@ -1,21 +1,13 @@
-# Riferimento delle lezioni Nightfall
+# Riferimento aggiornato delle formule
 
-Aggiornamento fornito dall’utente il 15 novembre 2026 mediante due schermate del registro. Tutte le voci mostrate sono assegnate al **primo anno**. Per i libri futuri conservare la materia e l’anno documentati dal server, anche quando differiscono dalle classificazioni generali dei libri di partenza. Non usare contatori di recupero, costo o nomi dei docenti come contenuti del manuale scolastico.
+L’elenco autorevole per la disponibilità è quello delle due schermate fornite il 17 novembre 2026. Catalogazione completa in catalog.json. La lista precedente di lezioni resta utile solo per le assegnazioni già documentate e ancora presenti nel catalogo corrente. Le formule escluse dalla richiesta non devono comparire nei manuali, nei programmi o nelle tavole.
 
-| Materia mostrata | Lezioni / formule |
-| --- | --- |
-| Trasfigurazione | Aguamenti, Colovaria, Avis |
-| Incantesimi | Ferio, Lumos, Verdimilius, Wingardium Leviosa |
-| Difesa contro le Arti Oscure | Protego, Rictusempra, Flipendo |
-| Incantesimi / D.C.A.O | Periculum (voce condivisa nella schermata) |
-| Volo | Lezione di volo, con sblocco delle scope indicato nella schermata |
-| Storia della Magia | I Quattro Fondatori; Comunità magica antica, prima di Hogwarts |
-| Erbologia | Cavolo Carnivolo cinese (nome mostrato nella schermata) |
+## Assegnazioni confermate
 
-La tabella riporta la documentazione ricevuta; non dimostra l’esistenza di ulteriori lezioni o formule non visibili. Conservare la grafia di una voce documentata; correggere o normalizzare soltanto quando il significato è certo e senza cambiare la formula effettiva nel gioco.
+Primo anno di Incantesimi: Lumos, Verdimilius, Wingardium Leviosa. Primo anno di DCAO: Protego, Flipendo, Rictusempra. Primo anno di Trasfigurazione: Aguamenti.
 
-## Questo libro
+## Criteri della nuova edizione
 
-Ars Incantationum, autore fittizio Edmund Valemont. Primo anno: Lumos/Nox; Ferio; Verdimilius/Periculum; Wingardium Leviosa. L’incontro di segnalazione conserva l’assegnazione condivisa di Periculum. Le altre formule documentate non vengono riassegnate dalla rispettiva materia.
+Le altre assegnazioni per anno e materia sono proposte didattiche, da adeguare alle indicazioni della scuola. Engorgio e Reducio sono tenuti in Trasfigurazione al quarto anno per continuità con quel volume. Incarcerous è il nome del catalogo corrente, distinto dalla grafia del riferimento precedente. Episkey è proposto per Medimagia. Blink resta da assegnare: nessun effetto o livello viene dedotto dalla sola icona. Le formule fuori dalla materia Incantesimi non hanno schede operative nel presente libro.
 
-Ferio non è trattato dal PDF: il ripasso conserva l’insegnamento già svolto senza aggiungere una meccanica inventata. Gli anni successivi costituiscono un piano proposto; solo il primo anno è corroborato dalle schermate ricevute. Nessuna attribuzione automatica di abilità avanzate.
+Sette annualità di quattro incontri: due lezioni alla settimana per due settimane, poi l’anno successivo. Mantenere stile e lettore approvati; autore fittizio Edmund Valemont. Nessun esame finale.
