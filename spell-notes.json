@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Lumos",
+    "lesson": 0,
+    "effect": "Fa comparire una luce sulla punta della bacchetta, utile per illuminare uno spazio vicino e leggere o riconoscere un oggetto al buio.",
+    "notions": "Illuminare significa rendere visibile ciò che è presente: non rivela automaticamente informazioni nascoste. Direzione della bacchetta, ombre e contrasto influenzano ciò che si riesce a osservare.",
+    "example": "Mostrare una scritta poco illuminata. Far descrivere prima le difficoltà di lettura e poi quali dettagli diventano distinguibili grazie alla luce.",
+    "question": "Una bacchetta luminosa garantisce che tutta una stanza sia visibile?",
+    "answer": "No. Bisogna osservare quali zone ricevono luce e quali rimangono in ombra; la riuscita va riferita al compito concreto.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Verdimilius",
+    "lesson": 1,
+    "effect": "Produce scintille verdi: nella lezione elementare si riconoscono colore, origine e direzione della manifestazione.",
+    "notions": "Il colore descrive l’effetto visibile, ma non basta a stabilirne potenza o applicazioni ulteriori. La manifestazione luminosa va distinta dall’illuminazione continua di Lumos.",
+    "example": "Confrontare una luce mantenuta e un’emissione di scintille. Chiedere quale effetto permetta di osservare con continuità un testo e quale si riconosca per la sua manifestazione.",
+    "question": "Vedere scintille verdi prova che la formula abbia ogni proprietà descritta in altri testi?",
+    "answer": "No. La lezione accerta la manifestazione studiata; eventuali applicazioni aggiuntive richiedono un insegnamento specifico.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Levioso",
+    "lesson": 2,
+    "effect": "Solleva e mantiene sospeso il bersaglio secondo l’effetto mostrato dal docente. La sospensione lo separa dall’appoggio senza implicare una guida libera lungo un percorso.",
+    "notions": "Sollevamento, sospensione e spostamento sono momenti diversi. Osservare l’altezza non basta: conta anche riconoscere se il bersaglio rimane nella posizione prevista.",
+    "example": "Usare un oggetto leggero. Disegnare sulla scheda la posizione iniziale e quella sospesa, quindi confrontare l’effetto con Wingardium Leviosa.",
+    "question": "Un oggetto sospeso è necessariamente guidato verso una destinazione?",
+    "answer": "No. La sospensione descrive una condizione; la conduzione richiede il controllo di una traiettoria.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Wingardium Leviosa",
+    "lesson": 3,
+    "effect": "Fa levitare un oggetto e permette di guidarne lo spostamento nello spazio fino a una deposizione controllata.",
+    "notions": "La levitazione richiede di ragionare su altezza, traiettoria e appoggio finale. La precisione cresce scegliendo punti di passaggio chiari, senza confondere il sollevamento con la sola spinta.",
+    "example": "Spostare una piuma tra due appoggi, passando sopra un segno sul banco. Far spiegare perché la fase di deposizione appartenga alla riuscita quanto il decollo.",
+    "question": "Quali tre fasi devono essere controllate?",
+    "answer": "Sollevare, guidare e deporre. Una traiettoria corretta che termina con una caduta non completa il compito.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Alohomora",
+    "lesson": 4,
+    "effect": "Sblocca una serratura compatibile con il livello della formula; permette l’apertura di una chiusura che prima impediva l’accesso.",
+    "notions": "Sbloccare e spalancare non sono la stessa azione. Una porta può restare accostata dopo lo sblocco. Protezioni magiche e condizioni della serratura possono limitare il risultato.",
+    "example": "Preparare una scatola chiusa. Descrivere separatamente serratura, coperchio e stato di apertura, prima e dopo la dimostrazione.",
+    "question": "Se il coperchio non si solleva da solo, lo sblocco è necessariamente fallito?",
+    "answer": "No. Si controlla lo stato della serratura, distinguendolo dal movimento del coperchio.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Colloportus",
+    "lesson": 4,
+    "effect": "Sigilla magicamente una porta o una chiusura, rendendone più difficile l’apertura secondo le condizioni della dimostrazione.",
+    "notions": "La chiusura fisica accosta una superficie; il sigillo aggiunge un vincolo magico. Si confronta con Alohomora per capire la relazione tra stato del bersaglio e intervento richiesto.",
+    "example": "Confrontare una scatola semplicemente accostata con una sigillata. Far descrivere quale cambiamento sia attribuito alla formula senza promettere una chiusura inviolabile.",
+    "question": "Una porta accostata è già una porta sigillata?",
+    "answer": "No. Lo stato visibile può essere simile, ma il sigillo è un effetto ulteriore da verificare.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Accio",
+    "lesson": 5,
+    "effect": "Richiama verso l’incantatore un oggetto identificato. Il richiamo mette in movimento il bersaglio, che deve essere riconosciuto con precisione.",
+    "notions": "L’identificazione distingue il bersaglio da oggetti simili. Non è una ricerca onnisciente: conoscere ciò che si vuole richiamare e prevederne il percorso rende l’intenzione definita.",
+    "example": "Disporre due oggetti simili ma distinguibili. Far descrivere quale si intenda richiamare e perché un’indicazione vaga renda ambiguo il progetto.",
+    "question": "Perché dire soltanto “quell’oggetto” può essere insufficiente?",
+    "answer": "Perché non distingue necessariamente il bersaglio dagli altri. L’intenzione deve riferirsi a un oggetto riconoscibile.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Depulso",
+    "lesson": 6,
+    "effect": "Respinge il bersaglio, allontanandolo mediante una spinta magica. Il risultato è un movimento in direzione opposta al richiamo.",
+    "notions": "Direzione e intensità sono distinte: spingere nella direzione giusta può comunque far superare la destinazione. Depulso non è un annullamento universale degli effetti di movimento.",
+    "example": "Predisporre un oggetto e una zona di arrivo. Confrontare due progetti: spostarlo appena oltre una linea oppure liberare un passaggio.",
+    "question": "Una spinta maggiore risolve sempre meglio il compito?",
+    "answer": "No. L’effetto deve essere proporzionato allo spazio disponibile e al punto d’arrivo richiesto.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Reparo",
+    "lesson": 7,
+    "effect": "Ricompone un oggetto rotto, riunendo le parti rispetto alla sua forma originaria. È una riparazione materiale di un bersaglio riconoscibile.",
+    "notions": "L’aspetto ricostruito non dimostra automaticamente il recupero di ogni funzione, soprattutto nei manufatti magici. Riparare non equivale a curare una ferita o a creare parti arbitrarie.",
+    "example": "Mostrare un oggetto ordinario fotografato o disegnato prima del danno. Dopo la dimostrazione confrontare forma, giunzioni e funzione semplice.",
+    "question": "Perché una superficie integra non basta a certificare la riparazione di un manufatto complesso?",
+    "answer": "Perché alcune funzioni non sono visibili. Occorre distinguere la ricomposizione osservata dalle proprietà non verificate.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Descendo",
+    "lesson": 8,
+    "effect": "Induce il bersaglio a muoversi verso il basso. Nel laboratorio viene applicato a un oggetto inanimato predisposto.",
+    "notions": "La discesa riguarda la direzione; velocità e punto d’arrivo sono altri aspetti da osservare. Una formula orientata al basso si distingue dalla guida libera di una levitazione.",
+    "example": "Usare uno schema con un oggetto su un appoggio rialzato. Chiedere dove inizi la discesa, dove debba concludersi e quali superfici incontri.",
+    "question": "Descendo e Arresto Momentum descrivono lo stesso intervento?",
+    "answer": "No. Il primo riguarda la discesa; il secondo interviene sulla velocità del movimento.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Arresto Momentum",
+    "lesson": 9,
+    "effect": "Rallenta o arresta il movimento del bersaglio, secondo le condizioni e la padronanza dell’esecuzione.",
+    "notions": "Agire sulla velocità non equivale a riportare indietro l’oggetto. Conta il momento dell’intervento: osservare posizione e direzione permette di comprendere il risultato.",
+    "example": "Osservare un oggetto in movimento su un percorso predisposto. Confrontare il punto previsto per il rallentamento con quello nel quale l’effetto diventa osservabile.",
+    "question": "Un oggetto rallentato è stato automaticamente riportato al punto di partenza?",
+    "answer": "No. È cambiata la velocità; posizione e percorso devono essere descritti separatamente.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Silencio",
+    "lesson": 10,
+    "effect": "Sopprime la voce o l’emissione sonora del bersaglio interessato dalla formula, nei limiti della dimostrazione.",
+    "notions": "Silenziamento, sordità e magia non verbale sono concetti diversi. Agire su una fonte sonora non elimina necessariamente gli altri rumori presenti nell’ambiente.",
+    "example": "Presentare due fonti di suono in un caso descritto. Far individuare quale sia il bersaglio e quali rumori possano rimanere udibili.",
+    "question": "Silencio rende automaticamente silenziosa tutta un’aula?",
+    "answer": "No. Il risultato riguarda il bersaglio coinvolto; non si presume un effetto generale sull’ambiente.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Incendio",
+    "lesson": 12,
+    "effect": "Produce fuoco e può accendere un materiale idoneo colpito dall’effetto. La fiamma modifica le condizioni del bersaglio e dello spazio circostante.",
+    "notions": "La combustione è diversa dalla semplice illuminazione: può consumare materiale e diffondere calore. Occorre distinguere l’apparizione magica della fiamma dalle sue conseguenze sul supporto.",
+    "example": "Osservare una dimostrazione su un punto predisposto. Far distinguere luce, calore e alterazione del materiale, descrivendo ciascun fenomeno.",
+    "question": "Perché Lumos e Incendio non sono intercambiabili quando occorre soltanto leggere?",
+    "answer": "Perché la luce di Lumos risponde al compito senza richiedere una combustione; Incendio introduce anche calore e fiamma.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Glacius",
+    "lesson": 13,
+    "effect": "Raffredda e può congelare il bersaglio, producendo un effetto legato al freddo.",
+    "notions": "Una variazione di temperatura e un cambiamento di stato non sono identici. Una superficie ghiacciata non certifica da sola che tutto il bersaglio sia congelato uniformemente.",
+    "example": "Confrontare un campione prima e dopo la dimostrazione. Descrivere stato, superficie e mobilità senza attribuire proprietà curative al freddo.",
+    "question": "Un’apparenza ghiacciata dimostra ogni cambiamento interno del bersaglio?",
+    "answer": "No. Si descrivono gli effetti osservabili e si distingue ciò che non è stato verificato.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Ventus",
+    "lesson": 14,
+    "effect": "Genera un getto o una corrente di vento diretta, capace di muovere materiali leggeri lungo il percorso dell’effetto.",
+    "notions": "Il vento agisce sull’ambiente attraversato: direzione, ostacoli e oggetti vicini contribuiscono al risultato. Si distingue dalla spinta concentrata di Depulso su un bersaglio.",
+    "example": "Usare un indicatore leggero e mostrare come un ostacolo cambi ciò che si osserva. Chiedere quali elementi circostanti potrebbero muoversi insieme al bersaglio.",
+    "question": "Perché bisogna osservare anche ciò che sta accanto all’oggetto scelto?",
+    "answer": "Perché la corrente può coinvolgere altri materiali lungo il suo percorso.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Diffindo",
+    "lesson": 15,
+    "effect": "Recide o separa un materiale lungo la zona interessata dalla formula. La precisione del taglio dipende dal progetto e dal controllo.",
+    "notions": "Separare non significa distruggere indiscriminatamente. Occorre riconoscere materiale, linea e profondità richiesta, oltre alle parti che devono restare integre.",
+    "example": "Tracciare una linea su un campione inanimato. Confrontare il risultato con il segno iniziale e osservare i margini che dovevano restare invariati.",
+    "question": "Un taglio più esteso è necessariamente una riuscita migliore?",
+    "answer": "No. La riuscita coincide con la separazione prevista, conservando le altre parti.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Alohomora (livello 2)",
+    "lesson": 16,
+    "effect": "È la progressione intermedia della formula di sblocco prevista dal catalogo della scuola. Conserva il compito di aprire una chiusura compatibile.",
+    "notions": "Il livello indica una progressione dell’apprendimento, non un nuovo effetto universale. I requisiti delle serrature vengono chiariti dal docente attraverso i casi effettivamente disponibili.",
+    "example": "Confrontare la descrizione di una chiusura già affrontata con quella assegnata al secondo livello. Far spiegare quale risultato si cerchi e come verificarlo.",
+    "question": "Il livello 2 permette di superare qualsiasi protezione?",
+    "answer": "No. Il catalogo distingue i livelli, ma non afferma un potere illimitato su ogni sigillo.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Alohomora (livello 3)",
+    "lesson": 20,
+    "effect": "È il livello avanzato della formula di sblocco presente nel catalogo. Affronta le chiusure assegnate a questa progressione dal docente.",
+    "notions": "La maggiore preparazione non elimina la differenza tra una serratura e una protezione magica specifica. Si giudica l’apertura effettiva del bersaglio, non il solo nome del livello.",
+    "example": "Raccogliere tre schede di casi affrontati nei diversi livelli. Far descrivere che cosa rimane comune nell’effetto e quali condizioni siano cambiate.",
+    "question": "Che cosa rimane comune alle tre versioni di Alohomora?",
+    "answer": "Il compito di sblocco. La progressione riguarda le condizioni affrontate, senza trasformare la formula in una soluzione universale.",
+    "mode": "Lezione della materia"
+  },
+  {
+    "name": "Protego",
+    "lesson": null,
+    "effect": "Genera uno scudo magico difensivo, utile a contrastare effetti compatibili con la protezione.",
+    "notions": "Uno scudo non è una garanzia assoluta contro ogni magia. La protezione va distinta dall’attacco e dalla deviazione osservata di un singolo effetto.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 1 · Riconoscimento teorico"
+  },
+  {
+    "name": "Flipendo",
+    "lesson": null,
+    "effect": "Colpisce con un impulso capace di respingere o rovesciare il bersaglio.",
+    "notions": "L’impulso offensivo si distingue dal trasporto controllato di un oggetto. Nella classificazione della scuola la formula appartiene a D.C.A.O.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 1 · Riconoscimento teorico"
+  },
+  {
+    "name": "Rictusempra",
+    "lesson": null,
+    "effect": "Provoca solletico nel bersaglio, interferendo con la sua capacità di mantenere la concentrazione.",
+    "notions": "La distrazione è una conseguenza dell’effetto sul bersaglio; non equivale a controllarne la mente o a imporne ogni movimento.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 1 · Riconoscimento teorico"
+  },
+  {
+    "name": "Expelliarmus",
+    "lesson": null,
+    "effect": "Disarma il bersaglio, facendogli perdere la presa sulla bacchetta o sull’oggetto interessato dall’effetto.",
+    "notions": "Disarmare e ferire sono compiti distinti. Nel ragionamento difensivo conta interrompere l’azione avversaria e riconoscere la perdita della presa.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 2 · Riconoscimento teorico"
+  },
+  {
+    "name": "Everte Statum",
+    "lesson": null,
+    "effect": "Respinge e sbilancia il bersaglio, provocandone un arretramento o una caduta secondo l’esecuzione.",
+    "notions": "Sbilanciamento e immobilizzazione non coincidono. Un bersaglio spostato può conservare capacità di movimento.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 2 · Riconoscimento teorico"
+  },
+  {
+    "name": "Tarantallegra",
+    "lesson": null,
+    "effect": "Costringe le gambe del bersaglio a un movimento incontrollato simile a una danza.",
+    "notions": "L’effetto riguarda il movimento imposto degli arti; si distingue dal semplice sbilanciamento e non implica il controllo generale della persona.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 2 · Riconoscimento teorico"
+  },
+  {
+    "name": "Petrificus",
+    "lesson": null,
+    "effect": "Nel catalogo indica la formula di immobilizzazione del corpo. Il bersaglio viene irrigidito e limitato nei movimenti.",
+    "notions": "Si conserva il nome mostrato dalla scuola. Immobilizzazione, perdita di coscienza e trasformazione in pietra sono concetti diversi.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 3 · Riconoscimento teorico"
+  },
+  {
+    "name": "Colloshoo",
+    "lesson": null,
+    "effect": "Incolla o fissa le scarpe del bersaglio al terreno, ostacolandone lo spostamento.",
+    "notions": "Un vincolo agli appoggi non equivale all’immobilizzazione di tutto il corpo. Il punto sul quale agisce l’effetto aiuta a classificarlo.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 3 · Riconoscimento teorico"
+  },
+  {
+    "name": "Riddikulus",
+    "lesson": null,
+    "effect": "Contrasta un Molliccio trasformandone l’apparenza in qualcosa di comico, sostenuto dall’immaginazione di chi lo affronta.",
+    "notions": "Il rapporto fra paura, immagine mentale e comicità è centrale. La formula non è una trasformazione universale di qualunque creatura.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 3 · Riconoscimento teorico"
+  },
+  {
+    "name": "Expulso",
+    "lesson": null,
+    "effect": "Produce un effetto esplosivo sul bersaglio o nel punto colpito.",
+    "notions": "Esplosione e spinta direzionale non sono equivalenti. La descrizione generale non stabilisce raggio, danno o materiali coinvolti nella versione della scuola.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 4 · Riconoscimento teorico"
+  },
+  {
+    "name": "Confringo",
+    "lesson": null,
+    "effect": "Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula.",
+    "notions": "Va distinto da Incendio, studiato per la produzione di fuoco. La classificazione offensiva e le condizioni d’impiego appartengono alla lezione di D.C.A.O.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 4 · Riconoscimento teorico"
+  },
+  {
+    "name": "Confundo",
+    "lesson": null,
+    "effect": "Confonde il bersaglio, alterandone temporaneamente la lucidità o la valutazione della situazione.",
+    "notions": "Confusione, cancellazione della memoria e controllo delle azioni non sono lo stesso effetto. Occorre descrivere il cambiamento effettivamente osservato.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 5 · Riconoscimento teorico"
+  },
+  {
+    "name": "Fireball",
+    "lesson": null,
+    "effect": "Il catalogo riporta il nome Fireball, associabile a una sfera di fuoco; la schermata non ne documenta però il funzionamento preciso.",
+    "notions": "La denominazione non basta a fissare traiettoria, impatto o differenze da Incendio. Prima di insegnarne l’uso il docente deve confermare la descrizione della versione disponibile.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 5 · Riconoscimento teorico"
+  },
+  {
+    "name": "Obliviate",
+    "lesson": null,
+    "effect": "Interviene sui ricordi del bersaglio, cancellando o alterando la memoria interessata dall’effetto.",
+    "notions": "La memoria si distingue dall’attenzione momentanea. È una materia avanzata: la semplice confusione non dimostra che un ricordo sia stato rimosso.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 6 · Riconoscimento teorico"
+  },
+  {
+    "name": "Expecto Patronum",
+    "lesson": null,
+    "effect": "Evoca un Patronus, manifestazione protettiva usata contro i Dissennatori. Una forma corporea può assumere un aspetto animale.",
+    "notions": "Il Patronus non è un animale naturale evocato con Avis. Il suo studio collega concentrazione e richiamo di un ricordo felice, senza garantire una forma corporea a ogni tentativo.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "DCAO · Anno 7 · Riconoscimento teorico"
+  },
+  {
+    "name": "Aguamenti",
+    "lesson": null,
+    "effect": "Fa scaturire acqua dalla bacchetta. Nel programma della scuola è una formula di Trasfigurazione del primo anno.",
+    "notions": "La comparsa dell’acqua si distingue dalla trasformazione di un oggetto visibile. Il docente collega origine, direzione e destinazione dell’effetto al tema dell’evocazione.",
+    "example": "Predisporre un recipiente. Chiedere quale sia la destinazione dell’acqua e perché la quantità debba rispondere al compito, anziché essere aumentata per esibizione.",
+    "question": "Produrre acqua dimostra che un oggetto sia stato trasformato?",
+    "answer": "No. Bisogna ricostruire l’origine dell’effetto; la sola presenza finale dell’acqua non dimostra una trasformazione di materia individuata.",
+    "mode": "Trasfigurazione · Anno 1 · Riconoscimento teorico"
+  },
+  {
+    "name": "Engorgio",
+    "lesson": null,
+    "effect": "Ingrandisce il bersaglio. Nel progetto si osservano soprattutto dimensioni e proporzioni.",
+    "notions": "Un aumento di spazio può rendere inadatto l’appoggio iniziale. Ingrandire non significa acquisire nuove proprietà magiche o cambiare automaticamente materiale.",
+    "example": "Disegnare un oggetto sul suo supporto e una versione ingrandita. Chiedere quali ingombri debbano essere previsti prima della prova.",
+    "question": "Un oggetto più grande ha automaticamente nuovi poteri?",
+    "answer": "No. Il cambiamento di dimensione non dimostra proprietà ulteriori.",
+    "mode": "Trasfigurazione · Anno 4 · Riconoscimento teorico"
+  },
+  {
+    "name": "Reducio",
+    "lesson": null,
+    "effect": "Riduce le dimensioni del bersaglio; viene confrontato con Engorgio e con il ritorno alle proporzioni previste.",
+    "notions": "Rimpicciolire riguarda lo spazio occupato. La riduzione va distinta dalla trasformazione in un materiale diverso o dalla scomparsa del bersaglio.",
+    "example": "Confrontare misure iniziali, ingrandite e ridotte di un oggetto. Far descrivere il risultato desiderato senza usare soltanto “più piccolo”.",
+    "question": "Ridurre significa far scomparire?",
+    "answer": "No. Il bersaglio rimane presente con dimensioni modificate.",
+    "mode": "Trasfigurazione · Anno 4 · Riconoscimento teorico"
+  },
+  {
+    "name": "Incarcerous",
+    "lesson": null,
+    "effect": "Fa apparire funi destinate a legare o contenere il bersaglio. Il catalogo della scuola usa la denominazione Incarcerous.",
+    "notions": "Il libro di riferimento usa anche la variante Incarceramus. Qui la voce viene normalizzata al catalogo; si distingue da Incarcifors, che trasforma un oggetto in una gabbia.",
+    "example": "Confrontare su disegno una gabbia ottenuta da un oggetto e funi apparse attorno a un manichino. Ricostruire l’origine dei due effetti.",
+    "question": "Incarcerous e Incarcifors producono lo stesso tipo di intervento?",
+    "answer": "No. Il primo evoca funi; il secondo trasforma materia presente in una gabbia.",
+    "mode": "Trasfigurazione · Anno 5 · Riconoscimento teorico"
+  },
+  {
+    "name": "Episkey",
+    "lesson": null,
+    "effect": "Cura lesioni lievi secondo le condizioni trattate in Medimagia.",
+    "notions": "La valutazione della lesione precede la formula. Non sostituisce la diagnosi né dimostra la capacità di trattare ogni ferita.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "Medimagia · Anno 3 · Riconoscimento teorico"
+  },
+  {
+    "name": "Blink",
+    "lesson": null,
+    "effect": "Il catalogo mostra questa denominazione ma non fornisce una descrizione dell’effetto. Funzione, materia e anno rimangono da confermare.",
+    "notions": "Non si identifica automaticamente la voce con teletrasporto o altre capacità. La scheda resta documentale finché la scuola non ne precisa il funzionamento.",
+    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
+    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
+    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "mode": "Da assegnare · anno da assegnare · Riconoscimento teorico"
+  }
+]

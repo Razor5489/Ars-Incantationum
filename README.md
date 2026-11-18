@@ -19,3 +19,8 @@ Base teorica: Manuale Ufficiale di Incantesimi - bewitchedgdr.pdf, fornito dallâ
 Modificare content.js e catalog.json; eseguire python3 build-book.py con Python/reportlab e Node. La generazione sincronizza pages/, book-data.json e il blocco dati incorporato in index.html. Pubblicazione statica GitHub Pages dalla radice di main.
 
 Creato per NightFall da Razor. Progetto amatoriale non ufficiale.
+
+
+### Schede delle formule
+
+Revisione del 18 novembre 2026: spiegazioni individuali in `spell-notes.json`, integrate nelle lezioni dal generatore. Ogni scheda include effetto, nozioni da spiegare, esempio e domanda con risposta. Numerazione, indice e programmi annuali sono ricalcolati automaticamente. Restano quattro lezioni per anno.

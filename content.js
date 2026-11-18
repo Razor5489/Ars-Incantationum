@@ -107,7 +107,7 @@ const LESSONS=[
     "subtitle": "Sollevare, guidare, deporre",
     "theory": [
       "Wingardium Leviosa permette di far levitare un oggetto e guidarlo nello spazio. Il primo bersaglio deve essere semplice e leggero: una traiettoria breve e verificabile è più utile di un sollevamento appariscente ma poco controllato.",
-      "La levitazione non coincide con qualunque movimento. Locomotor verrà studiato per lo spostamento degli oggetti; Wingardium Leviosa richiede invece di governare sospensione, direzione e deposizione. Il percorso si prepara prima dell’esecuzione.",
+      "La levitazione non coincide con qualunque movimento. Wingardium Leviosa richiede di governare sospensione, direzione e deposizione. Il percorso si prepara prima dell’esecuzione.",
       "La quarta lezione riunisce Lumos, Verdimilius, Levioso e Wingardium Leviosa. Sono effetti diversi che richiedono un’intenzione riconoscibile. La conclusione delle due settimane prepara al secondo anno, conservando le schede del primo per il ripasso."
     ],
     "materials": "Piuma o oggetto leggero, due punti di appoggio e percorso libero.",
