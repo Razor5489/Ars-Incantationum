@@ -1,11 +1,11 @@
 const YEARS=[
   {
     "name": "Luce, intenzione e levitazione",
-    "goal": "Consolidare Lumos e Verdimilius, il riconoscimento del bersaglio e Wingardium Leviosa. Levioso sarà affrontato nel secondo anno."
+    "goal": "Consolidare Lumos, Verdimilius, Levioso e Wingardium Leviosa, distinguendo luce, sospensione e guida del bersaglio."
   },
   {
     "name": "Richiamo, sospensione e accesso",
-    "goal": "Prima settimana: Accio, Levioso, Alohomora e Colloportus. Seconda settimana: Depulso e Puncheck, distinguendo spinta e colpo magico."
+    "goal": "Prima settimana: Accio, Alohomora e Colloportus. Seconda settimana: Depulso e Puncheck, distinguendo richiamo, spinta e colpo magico."
   },
   {
     "name": "Direzione, velocità e vento",
@@ -76,22 +76,22 @@ const LESSONS=[
     "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
-    "title": "Il controllo del bersaglio",
-    "subtitle": "Consolidamento di luce, intenzione e osservazione",
+    "title": "Levioso",
+    "subtitle": "Sospendere e riconoscere il bersaglio",
     "theory": [
-      "Prima di studiare nuove formule di movimento, l’incantatore deve riconoscere il bersaglio e descrivere ciò che intende ottenere. Un oggetto indicato vagamente non costituisce un progetto preciso. La lezione usa le formule luminose già affrontate per distinguere la direzione dell’attenzione dalla riuscita osservata.",
-      "Lumos e Verdimilius producono manifestazioni differenti. L’allievo descrive l’effetto appreso senza attribuirgli capacità di ricerca o di rivelazione universale. La presenza di luce e la comprensione di ciò che si osserva sono due risultati distinti.",
-      "La scheda raccoglie posizione iniziale, compito e riscontro. Questo metodo prepara anche il successivo studio del movimento. Levioso sarà introdotto nel secondo anno; qui non si richiedono né si attribuiscono capacità di sospensione."
+      "Levioso solleva e mantiene sospeso il bersaglio. La sospensione lo separa dal suo appoggio, senza implicare una guida libera lungo un percorso. L’allievo identifica l’oggetto e descrive la condizione che intende ottenere prima di pronunciare la formula.",
+      "Sollevamento, sospensione e spostamento sono momenti diversi. Osservare l’altezza non basta: conta anche riconoscere se il bersaglio rimane nella posizione prevista. Il confronto con Wingardium Leviosa, affrontato nella lezione successiva, chiarirà la differenza fra sospensione e conduzione.",
+      "Il docente predispone un oggetto leggero e uno spazio sgombro. La classe confronta posizione iniziale e posizione sospesa, annotando soltanto ciò che osserva. Un risultato più alto o vistoso non sostituisce la corrispondenza con il compito assegnato."
     ],
-    "materials": "Tavole con oggetti distinguibili e scheda di osservazione.",
+    "materials": "Oggetto leggero, appoggio stabile e spazio sgombro.",
     "steps": [
-      "Identificare il bersaglio e il risultato richiesto.",
-      "Confrontare una descrizione vaga con una precisa.",
-      "Annotare quale osservazione permetta di verificare il risultato."
+      "Identificare il bersaglio e descriverne la posizione iniziale.",
+      "Osservare o eseguire Levioso secondo la dimostrazione del docente.",
+      "Confrontare la sospensione ottenuta con il risultato previsto."
     ],
-    "check": "Descrivere bersaglio, intenzione e risultato senza confonderli.",
-    "question": "Basta nominare un oggetto per aver descritto il compito?",
-    "answer": "No. Occorre indicare che cosa si vuole ottenere e come riconoscere il cambiamento.",
+    "check": "Distinguere sollevamento, sospensione e guida nello spazio.",
+    "question": "Un oggetto sospeso è necessariamente guidato verso una destinazione?",
+    "answer": "No. La sospensione descrive una condizione; la conduzione richiede il controllo di una traiettoria.",
     "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 3,
     "year": 1,
@@ -108,7 +108,7 @@ const LESSONS=[
     "theory": [
       "Wingardium Leviosa permette di far levitare un oggetto e guidarlo nello spazio. Il primo bersaglio deve essere semplice e leggero: una traiettoria breve e verificabile è più utile di un sollevamento appariscente ma poco controllato.",
       "La levitazione non coincide con qualunque movimento. Wingardium Leviosa richiede di governare sospensione, direzione e deposizione. Il percorso si prepara prima dell’esecuzione.",
-      "La quarta lezione riunisce Lumos, Verdimilius, il controllo del bersaglio e Wingardium Leviosa. Sono effetti diversi che richiedono un’intenzione riconoscibile. La conclusione delle due settimane prepara al secondo anno, conservando le schede del primo per il ripasso."
+      "La quarta lezione riunisce Lumos, Verdimilius, Levioso e Wingardium Leviosa. Sono effetti diversi che richiedono un’intenzione riconoscibile. La conclusione delle due settimane prepara al secondo anno, conservando le schede del primo per il ripasso."
     ],
     "materials": "Piuma o oggetto leggero, due punti di appoggio e percorso libero.",
     "steps": [
@@ -122,22 +122,22 @@ const LESSONS=[
     "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
-    "title": "Accio e Levioso",
-    "subtitle": "Richiamare e sospendere: due effetti distinti",
+    "title": "Accio",
+    "subtitle": "Il richiamo e il percorso del bersaglio",
     "theory": [
-      "Accio richiama verso l’incantatore l’oggetto identificato; Levioso lo solleva e lo mantiene sospeso secondo le condizioni dell’esecuzione. Il primo riguarda un movimento verso una destinazione, il secondo una condizione di sospensione. Una formula non diventa automaticamente l’altra.",
-      "Prima si descrivono i due effetti separatamente. Il richiamo richiede un bersaglio riconoscibile e un percorso considerato; la sospensione va distinta dalla conduzione libera di Wingardium Leviosa. La posizione visibile non permette da sola di capire quale intervento sia stato compiuto.",
-      "Le due schede di formula appartengono a questo stesso incontro della prima settimana. Il docente mostra i risultati su oggetti preparati. La classe confronta posizione iniziale, direzione e posizione finale, senza concatenare automaticamente le formule come se fossero una nuova magia."
+      "Accio richiama verso l’incantatore un oggetto identificato. Il bersaglio deve essere riconoscibile: un’intenzione vaga non distingue necessariamente l’oggetto scelto da altri simili. Il richiamo viene preparato indicando che cosa debba arrivare e dove.",
+      "Richiamare non equivale a sospendere. Levioso, studiato nel primo anno, riguarda la condizione del bersaglio sollevato; Accio riguarda invece il suo movimento verso l’incantatore. Anche Wingardium Leviosa conserva un compito diverso, legato alla guida dell’oggetto nello spazio.",
+      "La dimostrazione usa oggetti leggeri e distinguibili. Prima della prova si considera il percorso e si rimuovono gli ingombri predisposti per il confronto. La riuscita va valutata attraverso l’identificazione dell’oggetto, il movimento osservato e la corrispondenza con la destinazione prevista."
     ],
-    "materials": "Due oggetti leggeri distinguibili, spazio predisposto e schede separate.",
+    "materials": "Due oggetti leggeri distinguibili e percorso libero.",
     "steps": [
-      "Descrivere il risultato atteso da Accio.",
-      "Confrontarlo con una dimostrazione di Levioso.",
-      "Indicare che cosa prova il richiamo e che cosa prova la sospensione."
+      "Indicare l’oggetto da richiamare e motivarne l’identificazione.",
+      "Osservare o eseguire Accio nella dimostrazione guidata.",
+      "Confrontare il percorso ottenuto con la sospensione già studiata con Levioso."
     ],
-    "check": "Distinguere richiamo, sospensione e guida del bersaglio.",
-    "question": "Un oggetto sospeso è stato necessariamente richiamato?",
-    "answer": "No. La sospensione e il movimento verso l’incantatore sono effetti distinti.",
+    "check": "Richiamare il bersaglio riconosciuto e distinguerne il movimento dalla sospensione.",
+    "question": "Un oggetto richiamato con Accio è stato soltanto mantenuto sospeso?",
+    "answer": "No. Accio lo richiama verso l’incantatore; la sospensione di Levioso è un effetto distinto.",
     "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 5,
     "year": 2,

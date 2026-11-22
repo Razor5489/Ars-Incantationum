@@ -128,7 +128,7 @@ for yi,y in enumerate(DATA['years']):
     p.y+=36;p.parts.append(text(297.5,p.y,ROMAN[yi],100,GREEN,anchor='middle'));p.y+=60
     p.paragraph(y['goal'],16,GREEN,True,24)
     p.box('Il ciclo dell’annualità','Due settimane. Due lezioni ogni settimana. Quattro incontri. Le schede delle formule sono letture della stessa lezione, non incontri aggiuntivi.')
-    if year==1:p.paragraph('Lumos, Verdimilius, controllo del bersaglio e Wingardium Leviosa. Levioso è introdotto nel secondo anno.',13,GREEN)
+    if year==1:p.paragraph('Lumos, Verdimilius, Levioso e Wingardium Leviosa.',13,GREEN)
     add(p,'Anno '+ROMAN[yi]+' · '+y['name']);SECTIONS.append([ROMAN[yi],idx])
     p=Leaf('Anno '+ROMAN[yi],'Il programma dell’anno','Due settimane · Quattro lezioni')
     for li,l in enumerate(annual):
@@ -242,8 +242,8 @@ if supplement_start:p.row('Repertorio delle formule · Schede distinte',str(supp
 p.row('Finis',str(chapter_pages['Finis']))
 p.paragraph('Le schede delle formule si trovano nelle rispettive lezioni. Il repertorio raccoglie le voci complementari. L’indice ricercabile permette di trovare ogni incantesimo per nome.',10,MUTED)
 replace_leaf(2,p)
-for item in PAGES:item['image']+='?v=20261122-inrole4'
-for cover_index in (0,len(PAGES)-1):PAGES[cover_index]['image']=PAGES[cover_index]['image'].split('?')[0]+'?v=20261122-inrole4'
+for item in PAGES:item['image']+='?v=20261123-levioso1'
+for cover_index in (0,len(PAGES)-1):PAGES[cover_index]['image']=PAGES[cover_index]['image'].split('?')[0]+'?v=20261123-levioso1'
 (ROOT/'book-data.json').write_text(json.dumps({'pages':PAGES,'chapters':CHAPTERS,'sections':SECTIONS},ensure_ascii=False,indent=2))
 index=ROOT/'index.html'
 if index.exists() and 'id="book-data"' in index.read_text():

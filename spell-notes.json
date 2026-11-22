@@ -21,13 +21,13 @@
   },
   {
     "name": "Levioso",
-    "lesson": 4,
+    "lesson": 2,
     "effect": "Solleva e mantiene sospeso il bersaglio secondo l’effetto mostrato dal docente. La sospensione lo separa dall’appoggio senza implicare una guida libera lungo un percorso.",
     "notions": "Sollevamento, sospensione e spostamento sono momenti diversi. Osservare l’altezza non basta: conta anche riconoscere se il bersaglio rimane nella posizione prevista.",
     "example": "Usare un oggetto leggero. Disegnare sulla scheda la posizione iniziale e quella sospesa, quindi confrontare l’effetto con Wingardium Leviosa.",
     "question": "Un oggetto sospeso è necessariamente guidato verso una destinazione?",
     "answer": "No. La sospensione descrive una condizione; la conduzione richiede il controllo di una traiettoria.",
-    "mode": "Incantesimi · Anno 2 · Settimana 1"
+    "mode": "Incantesimi · Anno 1 · Settimana 2"
   },
   {
     "name": "Wingardium Leviosa",

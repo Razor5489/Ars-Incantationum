@@ -8,8 +8,8 @@ Libro scolastico di Nathaniel Ashcombe, autore fittizio, per Hogwarts nel 1890.
 
 | Anno | Settimana I · Due incontri | Settimana II · Due incontri |
 |---|---|---|
-| 1 | Lumos; Verdimilius | Il controllo del bersaglio; Wingardium Leviosa |
-| 2 | Accio e Levioso; Alohomora e Colloportus | Depulso; Puncheck |
+| 1 | Lumos; Verdimilius | Levioso; Wingardium Leviosa |
+| 2 | Accio; Alohomora e Colloportus | Depulso; Puncheck |
 | 3 | Descendo; Arresto Momentum | Ventus; Movimento e controllo · Ripasso |
 | 4 | Incendio; Glacius | Reparo; Diffindo |
 | 5 | Alohomora · livello 2; Accio e Depulso · revisione | Diffindo e Reparo · revisione; Silencio |
@@ -18,7 +18,7 @@ Libro scolastico di Nathaniel Ashcombe, autore fittizio, per Hogwarts nel 1890.
 
 ## Collocazioni e limiti
 
-Incantesimi: al secondo anno Accio, Levioso, Alohomora e Colloportus nella prima settimana; Depulso e Puncheck nella seconda. Al terzo anno Descendo, Arresto Momentum e Ventus, seguiti da ripasso.
+Incantesimi: al primo anno Levioso; al secondo anno Accio, Alohomora e Colloportus nella prima settimana; Depulso e Puncheck nella seconda. Al terzo anno Descendo, Arresto Momentum e Ventus, seguiti da ripasso.
 
 D.C.A.O.: Tarantallegra e Vermilius nella seconda settimana del secondo anno; Fireball e Confundo al terzo; Confringo al quarto. La ripresa di Confringo al sesto è un approfondimento, non una nuova introduzione. Verdimilius resta distinto da Vermilius e conserva il primo anno di Incantesimi.
 
