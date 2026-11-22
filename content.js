@@ -5,7 +5,7 @@ const YEARS=[
   },
   {
     "name": "Richiamo, sospensione e accesso",
-    "goal": "Prima settimana: Accio, Levioso, Alohomora e Colloportus. Seconda settimana: Depulso e Puncheck, con i dati mancanti dichiarati."
+    "goal": "Prima settimana: Accio, Levioso, Alohomora e Colloportus. Seconda settimana: Depulso e Puncheck, distinguendo spinta e colpo magico."
   },
   {
     "name": "Direzione, velocità e vento",
@@ -50,7 +50,7 @@ const LESSONS=[
     "check": "La luce rende riconoscibile il bersaglio e rimane adeguata al compito.",
     "question": "La massima luminosità è sempre il risultato migliore?",
     "answer": "No. La riuscita dipende dall’illuminazione necessaria e dal controllo, non dalla sola intensità.",
-    "source": "Libro madre, pp. 7–8; formula già svolta nel primo anno."
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
     "id": 2,
@@ -73,7 +73,7 @@ const LESSONS=[
     "check": "Lo studente controlla la direzione senza attribuire proprietà ulteriori a una manifestazione luminosa.",
     "question": "Il colore verde basta a dimostrare una capacità di rivelazione?",
     "answer": "No. Colore e applicazione devono essere distinti; una proprietà ulteriore richiede un riscontro.",
-    "source": "Libro madre, p. 22; grafia e collocazione seguono le lezioni della scuola."
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
     "title": "Il controllo del bersaglio",
@@ -92,7 +92,7 @@ const LESSONS=[
     "check": "Descrivere bersaglio, intenzione e risultato senza confonderli.",
     "question": "Basta nominare un oggetto per aver descritto il compito?",
     "answer": "No. Occorre indicare che cosa si vuole ottenere e come riconoscere il cambiamento.",
-    "source": "Ordinamento didattico concordato della scuola · Hogwarts · 1890",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 3,
     "year": 1,
     "meeting": 3,
@@ -119,7 +119,7 @@ const LESSONS=[
     "check": "Il bersaglio viene sollevato, guidato e deposto senza perdere la corrispondenza con il progetto.",
     "question": "Il bersaglio sale molto in alto ma non arriva dove previsto: il risultato è efficace?",
     "answer": "Non rispetto al compito assegnato. L’altezza non sostituisce direzione e controllo della deposizione.",
-    "source": "pp. 9–10; formula già svolta nel primo anno della scuola."
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
     "title": "Accio e Levioso",
@@ -138,7 +138,7 @@ const LESSONS=[
     "check": "Distinguere richiamo, sospensione e guida del bersaglio.",
     "question": "Un oggetto sospeso è stato necessariamente richiamato?",
     "answer": "No. La sospensione e il movimento verso l’incantatore sono effetti distinti.",
-    "source": "Ordinamento didattico concordato della scuola · Hogwarts · 1890",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 5,
     "year": 2,
     "meeting": 1,
@@ -165,7 +165,7 @@ const LESSONS=[
     "check": "Lo studente confronta gli stati del bersaglio e riconosce che l’apertura può incontrare limiti specifici.",
     "question": "Alohomora non apre una chiusura protetta: sai già quale sia la causa?",
     "answer": "No. Bisogna verificare protezione, bersaglio e condizioni dell’esercizio prima di attribuire l’esito alla formula.",
-    "source": "Libro madre, pp. 8–9; Alohomora di base nel catalogo della scuola."
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
     "title": "Depulso",
@@ -184,7 +184,7 @@ const LESSONS=[
     "check": "La spinta rispetta la destinazione concordata.",
     "question": "Un movimento opposto è sempre un controincantesimo?",
     "answer": "No. Muovere in senso contrario non equivale ad annullare l’effetto magico.",
-    "source": "Libro madre, pp. 13–14.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 7,
     "year": 2,
     "week": 2,
@@ -192,22 +192,22 @@ const LESSONS=[
   },
   {
     "title": "Puncheck",
-    "subtitle": "Una voce del repertorio da descrivere prima della pratica",
+    "subtitle": "Il pugno magico · Impulso e precisione",
     "theory": [
-      "Puncheck appartiene a Incantesimi nell’ordinamento della scuola ed è collocato nella seconda settimana del secondo anno. I materiali disponibili non documentano ancora che cosa produca la versione presente sul server. La materia e il calendario sono stabiliti; l’effetto non viene inventato.",
-      "Senza una descrizione confermata non si assegnano alla formula bersaglio, movimento di bacchetta, durata, intensità o proprietà particolari. Una somiglianza del nome con altre parole non basta a ricostruire il funzionamento. Si distingue ciò che il programma stabilisce da ciò che richiede un chiarimento.",
-      "L’incontro è teorico: si prepara una scheda con le informazioni necessarie al docente per completare la spiegazione. Una successiva dimostrazione dovrà essere preceduta dalla descrizione effettiva della formula. Non vengono proposti esperimenti per scoprirne gli effetti sui compagni."
+      "Puncheck simula un pugno mediante la magia. L’incantesimo produce un colpo sul bersaglio senza che la mano dell’incantatore debba raggiungerlo. La somiglianza con un pugno descrive la natura dell’effetto, non un cambiamento della forma o delle dimensioni della mano.",
+      "Il punto essenziale è distinguere il colpo dal trasporto. Accio richiama, Depulso respinge, Puncheck imprime un impatto simile a quello di un pugno. Non si deve presumere che il bersaglio venga guidato lungo una traiettoria o spostato sempre nello stesso modo.",
+      "L’esercizio si svolge su un bersaglio inanimato predisposto dal docente. Prima di eseguire la formula, l’allievo identifica il punto da colpire e controlla lo spazio vicino. Precisione e misura valgono più della ricerca di un impatto vistoso: una buona esecuzione corrisponde al compito assegnato."
     ],
-    "materials": "Scheda della formula con campi per effetto, bersaglio, condizioni e riscontro.",
+    "materials": "Bersaglio inanimato imbottito, sostegno stabile e spazio sgombro.",
     "steps": [
-      "Registrare nome, materia e collocazione confermati.",
-      "Indicare i dati mancanti senza completarli per supposizione.",
-      "Spiegare quale conferma sia necessaria prima di predisporre una pratica."
+      "Identificare il punto d’impatto e descrivere l’effetto atteso.",
+      "Osservare o eseguire Puncheck secondo la dimostrazione del docente.",
+      "Confrontare il colpo con il richiamo di Accio e la spinta di Depulso."
     ],
-    "check": "Distinguere assegnazione didattica ed effetto ancora da confermare.",
-    "question": "Il nome di una formula basta a dedurne il funzionamento?",
-    "answer": "No. Prima della pratica serve la descrizione confermata della versione in uso.",
-    "source": "Ordinamento didattico concordato della scuola · Hogwarts · 1890",
+    "check": "Riconoscere Puncheck come colpo magico e distinguerlo dalle formule di movimento.",
+    "question": "Puncheck fa crescere un pugno reale dalla bacchetta?",
+    "answer": "No. Simula un pugno attraverso un colpo magico; non trasfigura la mano dell’incantatore.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 8,
     "year": 2,
     "meeting": 4,
@@ -219,7 +219,7 @@ const LESSONS=[
     "theory": [
       "Descendo viene studiato per governare un movimento verso il basso. La direzione generale non basta: l’allievo deve indicare quale bersaglio coinvolgere e dove il suo movimento debba terminare.",
       "Il confronto con Wingardium Leviosa distingue una guida nello spazio da un effetto orientato alla discesa. Il risultato va valutato rispetto al compito, senza dedurre dal nome dettagli non appresi.",
-      "La dimostrazione usa un oggetto inanimato e un punto di arrivo predisposto. Non si attribuiscono alla formula danni, altezze o intensità numeriche non documentate dal suo impiego in aula."
+      "La dimostrazione usa un oggetto inanimato e un punto di arrivo predisposto. Si osserva il movimento ottenuto senza confondere altezza, velocità e precisione."
     ],
     "materials": "Oggetto didattico e superficie di arrivo predisposta.",
     "steps": [
@@ -230,7 +230,7 @@ const LESSONS=[
     "check": "Il bersaglio e la direzione corrispondono al progetto.",
     "question": "Dire “verso il basso” descrive già tutto il compito?",
     "answer": "No. Servono anche bersaglio, punto di arrivo e limite dell’effetto.",
-    "source": "Catalogo della scuola; confronto con il libro madre, p. 10.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 9,
     "year": 3,
     "week": 1,
@@ -257,7 +257,7 @@ const LESSONS=[
     "check": "Lo studente distingue rallentamento e arresto effettivo.",
     "question": "Un bersaglio più lento è necessariamente fermo?",
     "answer": "No. Rallentamento e arresto completo sono risultati distinti.",
-    "source": "Libro madre, p. 53; collocazione annuale proposta."
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
     "id": 11,
@@ -280,7 +280,7 @@ const LESSONS=[
     "check": "La direzione rispetta il progetto senza coinvolgere bersagli estranei.",
     "question": "Muovere il bersaglio basta se vengono spostati anche oggetti non previsti?",
     "answer": "No. Il controllo include il rispetto dei limiti del progetto.",
-    "source": "Libro madre, p. 26."
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
     "title": "Movimento e controllo · Ripasso",
@@ -299,7 +299,7 @@ const LESSONS=[
     "check": "La sequenza è proporzionata al compito e usa soltanto formule già studiate.",
     "question": "Più formule rendono sempre migliore un percorso?",
     "answer": "No. Conta una scelta motivata, controllabile e sufficiente al compito.",
-    "source": "Catalogo delle formule della scuola; attività didattica proposta.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 12,
     "year": 3,
     "week": 2,
@@ -326,7 +326,7 @@ const LESSONS=[
     "check": "Il giudizio riguarda direzione, estensione e controllo, senza equiparare grandezza e riuscita.",
     "question": "Una fiamma più grande del previsto è per questo un risultato migliore?",
     "answer": "No. Superare il limite assegnato costituisce una deviazione dal compito.",
-    "source": "Libro madre, p. 27; programma di Incantesimi proposto per questa edizione."
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
     "id": 14,
@@ -349,7 +349,7 @@ const LESSONS=[
     "check": "Lo studente distingue il cambiamento osservato dalle proprietà soltanto supposte.",
     "question": "L’apparenza di una superficie basta a descriverne ogni proprietà?",
     "answer": "No. Il giudizio deve precisare quali condizioni sono state verificate.",
-    "source": "Libro madre, p. 26."
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
     "id": 15,
@@ -372,7 +372,7 @@ const LESSONS=[
     "check": "La ricostruzione corrisponde al riferimento e il giudizio non promette il recupero di poteri non osservabili.",
     "question": "Un oggetto incantato torna integro alla vista: hai dimostrato che ogni suo incanto funziona?",
     "answer": "No. La ricomposizione visibile non dimostra il ripristino di tutte le proprietà magiche.",
-    "source": "pp. 15–16."
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
     "id": 16,
@@ -395,13 +395,13 @@ const LESSONS=[
     "check": "Il taglio segue il compito assegnato e non modifica le parti da conservare.",
     "question": "Il materiale è stato separato, ma lungo una linea diversa: il compito è riuscito?",
     "answer": "Non pienamente. La separazione deve corrispondere anche al percorso previsto.",
-    "source": "p. 36."
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
     "title": "Alohomora · livello 2",
-    "subtitle": "Una progressione documentata, non un effetto inventato",
+    "subtitle": "Lo sblocco delle chiusure più complesse",
     "theory": [
-      "Il catalogo distingue Alohomora di base dal livello 2. Questa lezione tratta il secondo livello come progressione della formula d’apertura, senza dedurre dal nome un successo garantito su qualsiasi chiusura.",
+      "Il secondo grado di Alohomora approfondisce lo studio delle serrature. Questa lezione tratta il secondo livello come progressione della formula d’apertura, senza dedurre dal nome un successo garantito su qualsiasi chiusura.",
       "Il bersaglio viene scelto dal docente in base alle condizioni effettivamente previste per il livello. L’allievo descrive l’apertura richiesta e confronta il caso con una chiusura già affrontata.",
       "Non si inventano tempi, costi o caratteristiche della serratura. La riuscita riguarda il compito predisposto e non dimostra che l’incantatore possa superare ogni protezione."
     ],
@@ -411,10 +411,10 @@ const LESSONS=[
       "Osserva o esegui il livello 2 sul bersaglio autorizzato.",
       "Indica il risultato e ciò che non puoi estendere ad altre protezioni."
     ],
-    "check": "La verifica riguarda la progressione documentata, senza promesse universali.",
+    "check": "La verifica riguarda l’apertura della chiusura assegnata e il riconoscimento delle protezioni presenti.",
     "question": "Il livello 2 garantisce l’apertura di qualsiasi protezione?",
     "answer": "No. Il livello non elimina le condizioni del bersaglio.",
-    "source": "Catalogo della scuola, Alohomora (livello 2); teoria d’apertura nel libro madre, pp. 8–9.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 17,
     "year": 5,
     "week": 1,
@@ -437,7 +437,7 @@ const LESSONS=[
     "check": "La scelta è motivata dal percorso e dalla destinazione.",
     "question": "Una formula più energica è necessariamente più adeguata?",
     "answer": "No. L’adeguatezza dipende dal compito.",
-    "source": "Revisione di Accio e Depulso; libro madre, pp. 13–14.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 18,
     "year": 5,
     "week": 1,
@@ -460,7 +460,7 @@ const LESSONS=[
     "check": "Il giudizio distingue taglio, ricostruzione e proprietà non verificate.",
     "question": "Reparo è automaticamente la soluzione a ogni danno?",
     "answer": "No. Il tipo di oggetto e la natura del danno restano determinanti.",
-    "source": "Libro madre, pp. 15–16 e 36.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 19,
     "year": 5,
     "week": 2,
@@ -487,13 +487,13 @@ const LESSONS=[
     "check": "L’allievo distingue effetto sul bersaglio e silenzio generale.",
     "question": "Silenziare un bersaglio significa eliminare tutti i rumori dell’ambiente?",
     "answer": "No. L’effetto studiato deve essere riferito al bersaglio designato.",
-    "source": "Libro madre, p. 22."
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
     "title": "Alohomora · livello 3",
     "subtitle": "Confrontare i tre livelli di apertura",
     "theory": [
-      "Il livello 3 è la terza voce di Alohomora presente nel catalogo. Il suo studio riprende la distinzione fra formula, condizioni della chiusura e risultato osservabile.",
+      "Il terzo grado di Alohomora affronta chiusure più impegnative. Il suo studio riprende la distinzione fra formula, condizioni della chiusura e risultato osservabile.",
       "L’allievo ricostruisce i casi già affrontati prima di passare al bersaglio avanzato indicato dal docente. La progressione non autorizza a definire ogni protezione equivalente a una serratura ordinaria.",
       "La lezione conserva le condizioni effettivamente insegnate per il livello 3 e non aggiunge caratteristiche mancanti. Anche un risultato positivo va riferito al bersaglio sul quale è stato verificato."
     ],
@@ -506,7 +506,7 @@ const LESSONS=[
     "check": "Lo studente distingue i livelli senza estenderli a ogni protezione.",
     "question": "Il terzo livello elimina la necessità di riconoscere il bersaglio?",
     "answer": "No. L’identificazione della chiusura resta parte del compito.",
-    "source": "Catalogo della scuola, Alohomora (livello 3); libro madre, pp. 8–9.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 21,
     "year": 6,
     "week": 1,
@@ -529,7 +529,7 @@ const LESSONS=[
     "check": "Il giudizio delimita bersaglio e portata dell’osservazione.",
     "question": "Un ambiente quieto dimostra che ogni soggetto sia silenziato?",
     "answer": "No. La quiete generale non prova l’effetto su ogni bersaglio.",
-    "source": "Revisione di Silencio; libro madre, p. 22.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 22,
     "year": 6,
     "week": 1,
@@ -552,7 +552,7 @@ const LESSONS=[
     "check": "L’allievo non attribuisce proprietà nuove alla semplice successione di incanti.",
     "question": "Combinare due elementi garantisce un effetto migliore?",
     "answer": "No. Ogni combinazione deve essere conosciuta e verificata.",
-    "source": "Revisione degli elementi; libro madre, pp. 26–27.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 23,
     "year": 6,
     "week": 2,
@@ -579,7 +579,7 @@ const LESSONS=[
     "check": "Lo studente distingue silenzio, progetto mentale e riuscita osservabile.",
     "question": "Non pronunciare parole rende un incantesimo automaticamente più potente?",
     "answer": "No. La magia non verbale introduce una difficoltà ulteriore e non garantisce un potenziamento.",
-    "source": "pp. 40–41."
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
     "title": "Arresto Momentum · revisione avanzata",
@@ -598,7 +598,7 @@ const LESSONS=[
     "check": "La previsione del movimento è coerente e verificabile.",
     "question": "Un tentativo riuscito su un oggetto dimostra padronanza su ogni bersaglio?",
     "answer": "No. Bersagli e condizioni differenti richiedono verifiche proprie.",
-    "source": "Libro madre, p. 53.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 25,
     "year": 7,
     "week": 1,
@@ -621,7 +621,7 @@ const LESSONS=[
     "check": "Il percorso è rispettato e le correzioni mantengono il controllo.",
     "question": "Un oggetto più pesante dimostra da solo maggiore precisione?",
     "answer": "No. Precisione e peso non sono lo stesso criterio.",
-    "source": "Libro madre, pp. 9–10; approfondimento didattico.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 26,
     "year": 7,
     "week": 1,
@@ -644,7 +644,7 @@ const LESSONS=[
     "check": "Il progetto distingue sequenza, formula e competenza delle altre materie.",
     "question": "Conoscere molti incanti elimina i confini fra le materie?",
     "answer": "No. Ogni intervento deve rispettare competenze e assegnazioni.",
-    "source": "Catalogo delle formule della scuola; attività didattica proposta.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 27,
     "year": 7,
     "week": 2,
@@ -671,6 +671,6 @@ const LESSONS=[
     "check": "La soluzione è coerente, proporzionata e distingue conoscenza, esecuzione ed esito verificato.",
     "question": "La soluzione migliore è sempre quella che impiega più incantesimi?",
     "answer": "No. È quella che raggiunge il compito con interventi motivati, controllabili e commisurati alla preparazione.",
-    "source": "Sintesi didattica originale del percorso; fondamenti pp. 4–7 e 52."
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   }
 ];

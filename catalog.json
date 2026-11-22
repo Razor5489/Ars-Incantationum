@@ -270,7 +270,8 @@
     "subject": "Incantesimi",
     "year": 2,
     "week": 2,
-    "status": "ordinamento concordato; effetto da confermare"
+    "status": "ordinamento concordato",
+    "effect": "Simula un pugno attraverso un colpo magico sul bersaglio."
   },
   {
     "name": "Vermilius",

@@ -103,7 +103,7 @@ p.paragraph('Questo volume accompagna sette annualità. Ogni anno si svolge in d
 p.heading('Il metodo comune')
 p.paragraph('Le pagine teoriche introducono principi e formule. La scheda successiva organizza preparazione, attività e controllo. Ogni incontro ha un obiettivo riconoscibile e termina con una domanda ragionata.')
 p.box('La sequenza di lavoro','Osservare. Visualizzare. Eseguire con controllo. Confrontare. Correggere.')
-p.paragraph('Questa edizione distingue le formule di Incantesimi da quelle delle altre discipline. Gli aggiornamenti concordati fissano anni e settimane; le voci il cui effetto non è ancora documentato restano teoriche.',10,MUTED)
+p.paragraph('Questa edizione distingue le formule di Incantesimi da quelle delle altre discipline. Ogni materia segue il proprio percorso; l’esecuzione pratica richiede sempre la preparazione e il giudizio del docente.',10,MUTED)
 p.paragraph('La teoria non conferisce automaticamente abilità speciali. Gli argomenti avanzati si affrontano secondo la preparazione degli allievi e le indicazioni della scuola.')
 p.paragraph('Nathaniel Ashcombe',13,GREEN,True)
 add(p,'Praefatio')
@@ -114,7 +114,7 @@ p=Leaf('Cursus Septem Annorum','Due settimane per anno','Il ritmo didattico del 
 p.heading('Settimana I');p.paragraph('Lezione 1: principi e osservazione. Lezione 2: sviluppo e confronto. Ogni incontro presenta una pratica centrale o un caso da interpretare.')
 p.heading('Settimana II');p.paragraph('Lezione 3: applicazione guidata. Lezione 4: sintesi e ripasso. Concluso il quarto incontro, si prosegue con la prima lezione dell’anno successivo.')
 p.box('Quindici minuti','2 minuti per obiettivo e preparazione; 3 per la lettura guidata; 7 per attività o dimostrazione; 3 per confronto e ripasso.')
-p.heading('Conoscenza e applicazione');p.paragraph('Il programma conserva nome, materia e anno delle formule documentate dalla scuola. Le attività del libro accompagnano l’insegnamento senza inventare meccaniche, durate o potenziamenti.')
+p.heading('Conoscenza e applicazione');p.paragraph('Il programma accompagna lo studio delle formule attraverso osservazione e pratica guidata. Ogni esercizio richiede uno scopo definito e un controllo del risultato.')
 p.paragraph('Recuperi e verifiche seguono le disposizioni della scuola. Teoria e scheda operativa permettono di preparare il confronto con il docente.',11)
 add(p,'Il percorso delle due settimane')
 p=Leaf('Fondamenti','Quattro elementi del controllo','Preparare prima di eseguire')
@@ -162,7 +162,7 @@ for h,t in [('Bersaglio','Soggetto identificato sul quale si intende intervenire
 add(p,'Lessico essenziale');SECTIONS.append(['Lessico',75])
 catalog=json.loads((ROOT/'catalog.json').read_text())
 p=Leaf('Tavola I · Incantesimi','Le formule per anno','Prima introduzione · Ordinamento della presente edizione')
-p.paragraph('Le revisioni approfondiscono formule già introdotte. Gli aggiornamenti concordati prevalgono sulle precedenti assegnazioni di anno; le settimane sono indicate nei programmi annuali.',10,MUTED)
+p.paragraph('Le revisioni approfondiscono formule già introdotte. I programmi annuali indicano le settimane e gli incontri dedicati a ogni argomento.',10,MUTED)
 for item in catalog:
     if item['subject']=='Incantesimi':p.row(item['name'],ROMAN[item['year']-1])
 add(p,'Incantesimi · Tavola per anno');SECTIONS.append(['Materie',76])
@@ -180,10 +180,10 @@ p.heading('Medimagia')
 for item in catalog:
     if item['subject']=='Medimagia':p.row(item['name'],ROMAN[item['year']-1])
 p.heading('Formula da assegnare')
-p.paragraph('Blink: funzione e materia non sono determinate dalla documentazione ricevuta. Non viene attribuito un anno né predisposta una lezione pratica.',11)
-p.heading('Criterio editoriale')
-p.paragraph('Aguamenti conserva il primo anno di Trasfigurazione già stabilito. Gli altri anni non confermati sono proposte di ordinamento. Le denominazioni seguono il catalogo della scuola; le formule delle altre discipline non vengono impartite come Incantesimi.',10)
-p.paragraph('Base teorica: Manuale Ufficiale di Incantesimi di bewitchedgdr. Catalogo aggiornato delle formule fornito dalla scuola. Attività e piano didattico rielaborati per questa edizione.',9,MUTED,False,13)
+p.paragraph('Blink non appartiene alle esercitazioni pratiche di questo corso. Il nome di una formula, da solo, non autorizza a sperimentarla.',11)
+p.heading('Il percorso dello studente')
+p.paragraph('Aguamenti viene affrontato nel primo anno di Trasfigurazione. Le tavole aiutano a riconoscere i collegamenti tra le discipline, rispettando gli insegnamenti dei diversi professori.',10)
+p.paragraph('Nathaniel Ashcombe · Hogwarts · MDCCCXC',9,MUTED,False,13)
 add(p,'Altre materie e assegnazioni')
 supplements=[n for n in NOTES if n['lesson'] is None]
 if supplements:
@@ -242,8 +242,8 @@ if supplement_start:p.row('Repertorio delle formule · Schede distinte',str(supp
 p.row('Finis',str(chapter_pages['Finis']))
 p.paragraph('Le schede delle formule si trovano nelle rispettive lezioni. Il repertorio raccoglie le voci complementari. L’indice ricercabile permette di trovare ogni incantesimo per nome.',10,MUTED)
 replace_leaf(2,p)
-for item in PAGES:item['image']+='?v=20261122-programma3'
-for cover_index in (0,len(PAGES)-1):PAGES[cover_index]['image']=PAGES[cover_index]['image'].split('?')[0]+'?v=20261122-programma3'
+for item in PAGES:item['image']+='?v=20261122-inrole4'
+for cover_index in (0,len(PAGES)-1):PAGES[cover_index]['image']=PAGES[cover_index]['image'].split('?')[0]+'?v=20261122-inrole4'
 (ROOT/'book-data.json').write_text(json.dumps({'pages':PAGES,'chapters':CHAPTERS,'sections':SECTIONS},ensure_ascii=False,indent=2))
 index=ROOT/'index.html'
 if index.exists() and 'id="book-data"' in index.read_text():

@@ -162,17 +162,17 @@
   {
     "name": "Alohomora (livello 2)",
     "lesson": 16,
-    "effect": "È la progressione intermedia della formula di sblocco prevista dal catalogo della scuola. Conserva il compito di aprire una chiusura compatibile.",
+    "effect": "È la progressione intermedia della formula di sblocco prevista dal repertorio delle formule. Conserva il compito di aprire una chiusura compatibile.",
     "notions": "Il livello indica una progressione dell’apprendimento, non un nuovo effetto universale. I requisiti delle serrature vengono chiariti dal docente attraverso i casi effettivamente disponibili.",
     "example": "Confrontare la descrizione di una chiusura già affrontata con quella assegnata al secondo livello. Far spiegare quale risultato si cerchi e come verificarlo.",
     "question": "Il livello 2 permette di superare qualsiasi protezione?",
-    "answer": "No. Il catalogo distingue i livelli, ma non afferma un potere illimitato su ogni sigillo.",
+    "answer": "No. Il repertorio distingue i livelli, ma non afferma un potere illimitato su ogni sigillo.",
     "mode": "Incantesimi · Anno 5 · Settimana 1"
   },
   {
     "name": "Alohomora (livello 3)",
     "lesson": 20,
-    "effect": "È il livello avanzato della formula di sblocco presente nel catalogo. Affronta le chiusure assegnate a questa progressione dal docente.",
+    "effect": "È il livello avanzato della formula di sblocco presente nel repertorio. Affronta le chiusure assegnate a questa progressione dal docente.",
     "notions": "La maggiore preparazione non elimina la differenza tra una serratura e una protezione magica specifica. Si giudica l’apertura effettiva del bersaglio, non il solo nome del livello.",
     "example": "Raccogliere tre schede di casi affrontati nei diversi livelli. Far descrivere che cosa rimane comune nell’effetto e quali condizioni siano cambiate.",
     "question": "Che cosa rimane comune alle tre versioni di Alohomora?",
@@ -242,7 +242,7 @@
   {
     "name": "Petrificus",
     "lesson": null,
-    "effect": "Nel catalogo indica la formula di immobilizzazione del corpo.",
+    "effect": "Petrificus immobilizza il corpo del bersaglio.",
     "notions": "Un corpo che non può muoversi non è per questo diventato pietra.",
     "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
     "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
@@ -302,11 +302,11 @@
   {
     "name": "Fireball",
     "lesson": null,
-    "effect": "Nome associabile a una sfera di fuoco; il funzionamento della versione in gioco resta da confermare.",
-    "notions": "Trattazione teorica: non si inventano bersaglio, danno, portata o differenze da Incendio.",
+    "effect": "Manifestazione associata a una sfera di fuoco, studiata per il riconoscimento e il giudizio difensivo.",
+    "notions": "Considerare materiali e persone vicine. La dimostrazione è affidata al docente; non confondere Fireball con Incendio.",
     "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
-    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
-    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
+    "question": "Perché distinguere il nome di una formula dal risultato osservato?",
+    "answer": "Perché l’osservazione permette di riconoscere l’effetto e le condizioni in cui si manifesta.",
     "mode": "DCAO · Anno 3 · Settimana 1 · Riconoscimento teorico"
   },
   {
@@ -382,31 +382,31 @@
   {
     "name": "Blink",
     "lesson": null,
-    "effect": "Il catalogo mostra questa denominazione ma non fornisce una descrizione dell’effetto. Funzione, materia e anno rimangono da confermare.",
-    "notions": "Non si identifica automaticamente la voce con teletrasporto o altre capacità. La scheda resta documentale finché la scuola non ne precisa il funzionamento.",
-    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
-    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
-    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
-    "mode": "Da assegnare · anno da assegnare · Riconoscimento teorico"
+    "effect": "Questa voce non appartiene agli esercizi pratici del presente corso.",
+    "notions": "Il docente ne affronta l’eventuale studio soltanto dopo aver chiarito natura, bersaglio e condizioni.",
+    "example": "Discutere perché una formula non compresa non debba essere sperimentata sui compagni.",
+    "question": "La conoscenza del nome basta per tentare una formula?",
+    "answer": "No. Occorre comprenderne l’effetto e seguire l’insegnamento del docente.",
+    "mode": "Consultazione · Fuori dal programma pratico"
   },
   {
     "name": "Puncheck",
     "lesson": 7,
-    "effect": "L’effetto della versione in uso non è ancora documentato nei materiali ricevuti.",
-    "notions": "Materia e calendario sono confermati; bersaglio, effetto e condizioni richiedono la descrizione del docente.",
-    "example": "Compilare i soli campi confermati della scheda e individuare le informazioni mancanti.",
-    "question": "Il nome di una formula basta a dedurne il funzionamento?",
-    "answer": "No. Prima della pratica serve la descrizione confermata della versione in uso.",
+    "effect": "Simula un pugno attraverso un colpo magico sul bersaglio.",
+    "notions": "Il colpo non è una trasformazione della mano. Distinguere impatto, richiamo e spinta; mirare al punto assegnato con misura.",
+    "example": "Osservare la dimostrazione su un bersaglio inanimato imbottito e confrontarla con Accio e Depulso.",
+    "question": "Puncheck trasfigura la mano dell’incantatore?",
+    "answer": "No. L’effetto simula un pugno mediante la magia, senza trasformare la mano.",
     "mode": "Incantesimi · Anno 2 · Settimana 2"
   },
   {
     "name": "Vermilius",
     "lesson": null,
-    "effect": "Nome assegnato dalla scuola a D.C.A.O.; la corrispondenza con il repertorio delle scintille rosse richiede conferma in gioco.",
-    "notions": "Voce distinta da Verdimilius. Nessun valore tecnico o effetto offensivo è presunto.",
+    "effect": "Formula associata nei trattati a scintille rosse.",
+    "notions": "Distinguere Vermilius da Verdimilius e descrivere la manifestazione prima di interpretarne lo scopo.",
     "example": "Confrontare la voce con Verdimilius senza trasferire proprietà da una formula all’altra.",
-    "question": "Nomi simili dimostrano un effetto identico?",
-    "answer": "No. Serve la descrizione della versione in uso.",
+    "question": "Perché distinguere il nome di una formula dal risultato osservato?",
+    "answer": "Perché l’osservazione permette di riconoscere l’effetto e le condizioni in cui si manifesta.",
     "mode": "DCAO · Anno 2 · Settimana 2 · Riconoscimento teorico"
   }
 ]
