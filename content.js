@@ -1,23 +1,23 @@
 const YEARS=[
   {
-    "name": "Luce e sospensione",
-    "goal": "Consolidare Lumos, Verdimilius, Levioso e Wingardium Leviosa: effetti distinti, un solo metodo di controllo."
+    "name": "Luce, intenzione e levitazione",
+    "goal": "Consolidare Lumos e Verdimilius, il riconoscimento del bersaglio e Wingardium Leviosa. Levioso sarà affrontato nel secondo anno."
   },
   {
-    "name": "Accesso e recupero",
-    "goal": "Studiare apertura, chiusura, richiamo, allontanamento e riparazione su bersagli ordinari."
+    "name": "Richiamo, sospensione e accesso",
+    "goal": "Prima settimana: Accio, Levioso, Alohomora e Colloportus. Seconda settimana: Depulso e Puncheck, con i dati mancanti dichiarati."
   },
   {
-    "name": "Direzione, velocità e suono",
-    "goal": "Governare Descendo, Arresto Momentum e Silencio, collegandoli agli incanti di movimento già conosciuti."
+    "name": "Direzione, velocità e vento",
+    "goal": "Distinguere Descendo, Arresto Momentum e Ventus, poi consolidarne il controllo nel quarto incontro."
   },
   {
     "name": "Gli elementi e la precisione",
-    "goal": "Confrontare Incendio, Glacius, Ventus e Diffindo senza confondere intensità e riuscita."
+    "goal": "Studiare Incendio, Glacius, Reparo e Diffindo senza confondere effetto, intensità e risultato."
   },
   {
     "name": "Controllo intermedio",
-    "goal": "Affrontare Alohomora di livello 2 e revisioni ragionate delle formule apprese."
+    "goal": "Approfondire sblocco, richiamo, riparazione e studio di Silencio, collegando formule e controllo del bersaglio."
   },
   {
     "name": "Controllo avanzato",
@@ -76,27 +76,27 @@ const LESSONS=[
     "source": "Libro madre, p. 22; grafia e collocazione seguono le lezioni della scuola."
   },
   {
-    "title": "Levioso",
-    "subtitle": "Sospensione e differenza dalla levitazione guidata",
+    "title": "Il controllo del bersaglio",
+    "subtitle": "Consolidamento di luce, intenzione e osservazione",
     "theory": [
-      "Levioso introduce la sospensione di un bersaglio. Il risultato va osservato prima di confrontarlo con altre formule: vedere un oggetto sollevato non significa averne governato anche una traiettoria.",
-      "Wingardium Leviosa verrà ripreso nell’incontro successivo per il movimento guidato. L’accostamento serve a distinguere il mantenimento in sospensione dalla conduzione verso una destinazione scelta.",
-      "La pratica usa un solo oggetto leggero e una posizione concordata. Le modalità effettive e i limiti della formula vengono appresi nella dimostrazione; non si inventano tempi, distanze o potenziamenti."
+      "Prima di studiare nuove formule di movimento, l’incantatore deve riconoscere il bersaglio e descrivere ciò che intende ottenere. Un oggetto indicato vagamente non costituisce un progetto preciso. La lezione usa le formule luminose già affrontate per distinguere la direzione dell’attenzione dalla riuscita osservata.",
+      "Lumos e Verdimilius producono manifestazioni differenti. L’allievo descrive l’effetto appreso senza attribuirgli capacità di ricerca o di rivelazione universale. La presenza di luce e la comprensione di ciò che si osserva sono due risultati distinti.",
+      "La scheda raccoglie posizione iniziale, compito e riscontro. Questo metodo prepara anche il successivo studio del movimento. Levioso sarà introdotto nel secondo anno; qui non si richiedono né si attribuiscono capacità di sospensione."
     ],
-    "materials": "Oggetto leggero e punto di osservazione predisposto.",
+    "materials": "Tavole con oggetti distinguibili e scheda di osservazione.",
     "steps": [
-      "Identifica il bersaglio e la posizione prevista.",
-      "Osserva o esegui Levioso sotto guida.",
-      "Descrivi ciò che resta sospeso e ciò che non hai ancora dimostrato di poter guidare."
+      "Identificare il bersaglio e il risultato richiesto.",
+      "Confrontare una descrizione vaga con una precisa.",
+      "Annotare quale osservazione permetta di verificare il risultato."
     ],
-    "check": "L’allievo distingue sospensione e movimento diretto.",
-    "question": "Un oggetto sospeso ha necessariamente seguito un percorso scelto da te?",
-    "answer": "No. Sollevamento, sospensione e guida sono aspetti da verificare separatamente.",
-    "source": "Catalogo della scuola; confronto teorico con il libro madre, pp. 9–10.",
+    "check": "Descrivere bersaglio, intenzione e risultato senza confonderli.",
+    "question": "Basta nominare un oggetto per aver descritto il compito?",
+    "answer": "No. Occorre indicare che cosa si vuole ottenere e come riconoscere il cambiamento.",
+    "source": "Ordinamento didattico concordato della scuola · Hogwarts · 1890",
     "id": 3,
     "year": 1,
-    "week": 2,
-    "meeting": 3
+    "meeting": 3,
+    "week": 2
   },
   {
     "id": 4,
@@ -108,7 +108,7 @@ const LESSONS=[
     "theory": [
       "Wingardium Leviosa permette di far levitare un oggetto e guidarlo nello spazio. Il primo bersaglio deve essere semplice e leggero: una traiettoria breve e verificabile è più utile di un sollevamento appariscente ma poco controllato.",
       "La levitazione non coincide con qualunque movimento. Wingardium Leviosa richiede di governare sospensione, direzione e deposizione. Il percorso si prepara prima dell’esecuzione.",
-      "La quarta lezione riunisce Lumos, Verdimilius, Levioso e Wingardium Leviosa. Sono effetti diversi che richiedono un’intenzione riconoscibile. La conclusione delle due settimane prepara al secondo anno, conservando le schede del primo per il ripasso."
+      "La quarta lezione riunisce Lumos, Verdimilius, il controllo del bersaglio e Wingardium Leviosa. Sono effetti diversi che richiedono un’intenzione riconoscibile. La conclusione delle due settimane prepara al secondo anno, conservando le schede del primo per il ripasso."
     ],
     "materials": "Piuma o oggetto leggero, due punti di appoggio e percorso libero.",
     "steps": [
@@ -122,10 +122,33 @@ const LESSONS=[
     "source": "pp. 9–10; formula già svolta nel primo anno della scuola."
   },
   {
+    "title": "Accio e Levioso",
+    "subtitle": "Richiamare e sospendere: due effetti distinti",
+    "theory": [
+      "Accio richiama verso l’incantatore l’oggetto identificato; Levioso lo solleva e lo mantiene sospeso secondo le condizioni dell’esecuzione. Il primo riguarda un movimento verso una destinazione, il secondo una condizione di sospensione. Una formula non diventa automaticamente l’altra.",
+      "Prima si descrivono i due effetti separatamente. Il richiamo richiede un bersaglio riconoscibile e un percorso considerato; la sospensione va distinta dalla conduzione libera di Wingardium Leviosa. La posizione visibile non permette da sola di capire quale intervento sia stato compiuto.",
+      "Le due schede di formula appartengono a questo stesso incontro della prima settimana. Il docente mostra i risultati su oggetti preparati. La classe confronta posizione iniziale, direzione e posizione finale, senza concatenare automaticamente le formule come se fossero una nuova magia."
+    ],
+    "materials": "Due oggetti leggeri distinguibili, spazio predisposto e schede separate.",
+    "steps": [
+      "Descrivere il risultato atteso da Accio.",
+      "Confrontarlo con una dimostrazione di Levioso.",
+      "Indicare che cosa prova il richiamo e che cosa prova la sospensione."
+    ],
+    "check": "Distinguere richiamo, sospensione e guida del bersaglio.",
+    "question": "Un oggetto sospeso è stato necessariamente richiamato?",
+    "answer": "No. La sospensione e il movimento verso l’incantatore sono effetti distinti.",
+    "source": "Ordinamento didattico concordato della scuola · Hogwarts · 1890",
     "id": 5,
     "year": 2,
-    "week": 1,
     "meeting": 1,
+    "week": 1
+  },
+  {
+    "id": 6,
+    "year": 2,
+    "week": 1,
+    "meeting": 2,
     "title": "Alohomora e Colloportus",
     "subtitle": "Apertura di base e chiusura",
     "theory": [
@@ -143,29 +166,6 @@ const LESSONS=[
     "question": "Alohomora non apre una chiusura protetta: sai già quale sia la causa?",
     "answer": "No. Bisogna verificare protezione, bersaglio e condizioni dell’esercizio prima di attribuire l’esito alla formula.",
     "source": "Libro madre, pp. 8–9; Alohomora di base nel catalogo della scuola."
-  },
-  {
-    "id": 6,
-    "year": 2,
-    "week": 1,
-    "meeting": 2,
-    "title": "Accio",
-    "subtitle": "Richiamo e destinazione",
-    "theory": [
-      "Accio richiama un oggetto identificato verso una destinazione. Il lavoro parte da un bersaglio visibile e da un percorso libero: conoscere il nome della formula non basta a riconoscere ciò che si intende richiamare.",
-      "La preparazione precisa oggetto, posizione iniziale e punto di arrivo. Il riferimento consiglia un’immagine mentale chiara; la prova di base mantiene il bersaglio osservabile per poter confrontare il percorso con il progetto.",
-      "Depulso sarà affrontato nell’incontro successivo per l’allontanamento. Prima si consolida il richiamo di un singolo oggetto, senza attribuire alla riuscita una capacità illimitata di ricerca."
-    ],
-    "materials": "Oggetto leggero, zona di raccolta e percorso sgombro.",
-    "steps": [
-      "Identifica un solo oggetto e il suo punto di partenza.",
-      "Richiamalo con Accio verso una zona concordata.",
-      "Confronta il punto raggiunto con quello previsto."
-    ],
-    "check": "Il richiamo corrisponde al bersaglio e alla destinazione scelti.",
-    "question": "Ricordare la formula basta a identificare un oggetto sconosciuto?",
-    "answer": "No. L’identificazione del bersaglio fa parte della preparazione.",
-    "source": "Libro madre, p. 13."
   },
   {
     "title": "Depulso",
@@ -191,27 +191,27 @@ const LESSONS=[
     "meeting": 3
   },
   {
+    "title": "Puncheck",
+    "subtitle": "Una voce del repertorio da descrivere prima della pratica",
+    "theory": [
+      "Puncheck appartiene a Incantesimi nell’ordinamento della scuola ed è collocato nella seconda settimana del secondo anno. I materiali disponibili non documentano ancora che cosa produca la versione presente sul server. La materia e il calendario sono stabiliti; l’effetto non viene inventato.",
+      "Senza una descrizione confermata non si assegnano alla formula bersaglio, movimento di bacchetta, durata, intensità o proprietà particolari. Una somiglianza del nome con altre parole non basta a ricostruire il funzionamento. Si distingue ciò che il programma stabilisce da ciò che richiede un chiarimento.",
+      "L’incontro è teorico: si prepara una scheda con le informazioni necessarie al docente per completare la spiegazione. Una successiva dimostrazione dovrà essere preceduta dalla descrizione effettiva della formula. Non vengono proposti esperimenti per scoprirne gli effetti sui compagni."
+    ],
+    "materials": "Scheda della formula con campi per effetto, bersaglio, condizioni e riscontro.",
+    "steps": [
+      "Registrare nome, materia e collocazione confermati.",
+      "Indicare i dati mancanti senza completarli per supposizione.",
+      "Spiegare quale conferma sia necessaria prima di predisporre una pratica."
+    ],
+    "check": "Distinguere assegnazione didattica ed effetto ancora da confermare.",
+    "question": "Il nome di una formula basta a dedurne il funzionamento?",
+    "answer": "No. Prima della pratica serve la descrizione confermata della versione in uso.",
+    "source": "Ordinamento didattico concordato della scuola · Hogwarts · 1890",
     "id": 8,
     "year": 2,
-    "week": 2,
     "meeting": 4,
-    "title": "Reparo",
-    "subtitle": "Ricostruire senza inventare",
-    "theory": [
-      "Reparo ricompone un oggetto danneggiato. La preparazione parte dal riconoscimento della sua struttura originaria: i frammenti presenti devono corrispondere a un insieme conoscibile, non a una forma immaginata senza riferimento.",
-      "Il manuale distingue la ricomposizione materiale dalla restituzione di ogni proprietà magica. Un manufatto complesso o una bacchetta non possono essere giudicati soltanto dall’aspetto esterno. Una superficie integra non dimostra il recupero delle funzioni nascoste.",
-      "L’esercizio conclude il secondo anno su un oggetto ordinario e documentato prima del danno. Reparo non viene presentato come cura per esseri viventi né come soluzione universale: il giudizio finale deve esplicitare ciò che è stato effettivamente verificato."
-    ],
-    "materials": "Oggetto semplice predisposto in frammenti e disegno della forma originaria.",
-    "steps": [
-      "Confronta i frammenti con il disegno e individua le parti da ricomporre.",
-      "Osserva o esegui Reparo secondo la dimostrazione.",
-      "Controlla forma e funzione ordinaria, separandole da proprietà che non hai verificato."
-    ],
-    "check": "La ricostruzione corrisponde al riferimento e il giudizio non promette il recupero di poteri non osservabili.",
-    "question": "Un oggetto incantato torna integro alla vista: hai dimostrato che ogni suo incanto funziona?",
-    "answer": "No. La ricomposizione visibile non dimostra il ripristino di tutte le proprietà magiche.",
-    "source": "pp. 15–16."
+    "week": 2
   },
   {
     "title": "Descendo",
@@ -264,31 +264,31 @@ const LESSONS=[
     "year": 3,
     "week": 2,
     "meeting": 3,
-    "title": "Silencio",
-    "subtitle": "Il silenziamento e il suo bersaglio",
+    "title": "Ventus",
+    "subtitle": "Direzione e limite del vento",
     "theory": [
-      "Silencio riguarda la soppressione temporanea della voce del bersaglio. Si distingue da una semplice diminuzione del volume e non equivale alla scelta dell’incantatore di eseguire una formula senza voce.",
-      "La prova deve avere un bersaglio noto e un esito osservabile. Una mancata emissione non dimostra da sola l’assenza di ogni suono nell’ambiente: il controllo resta legato al soggetto sul quale si è intervenuti.",
-      "La lezione si svolge come dimostrazione guidata e confronto teorico. Prima di attribuire al risultato un silenziamento riuscito, si ricostruiscono le condizioni iniziali e il compito stabilito dal docente."
+      "Ventus produce un effetto di vento governato dalla bacchetta. La prova definisce una direzione e un bersaglio che permettano di osservare il movimento senza coinvolgere l’intero ambiente.",
+      "L’intensità va riferita al compito: un indicatore che si muove nella direzione prevista offre un riscontro più chiaro di materiali dispersi senza controllo.",
+      "Il laboratorio usa un oggetto inanimato leggero. Prima dell’esecuzione si controlla quali altri elementi potrebbero essere coinvolti; l’esito va confrontato sia con il bersaglio sia con ciò che doveva restare fermo."
     ],
-    "materials": "Caso di dimostrazione e scheda delle condizioni iniziali.",
+    "materials": "Indicatore leggero e zona di lavoro sgombra.",
     "steps": [
-      "Descrivi il bersaglio e la voce che si intende influenzare.",
-      "Osserva Silencio nella dimostrazione guidata.",
-      "Distingui silenziamento del bersaglio, quiete dell’ambiente e magia non verbale."
+      "Definisci direzione e limite dell’effetto.",
+      "Osserva o esegui Ventus sul bersaglio predisposto.",
+      "Verifica anche gli oggetti che non dovevano essere coinvolti."
     ],
-    "check": "L’allievo distingue effetto sul bersaglio e silenzio generale.",
-    "question": "Silenziare un bersaglio significa eliminare tutti i rumori dell’ambiente?",
-    "answer": "No. L’effetto studiato deve essere riferito al bersaglio designato.",
-    "source": "Libro madre, p. 22."
+    "check": "La direzione rispetta il progetto senza coinvolgere bersagli estranei.",
+    "question": "Muovere il bersaglio basta se vengono spostati anche oggetti non previsti?",
+    "answer": "No. Il controllo include il rispetto dei limiti del progetto.",
+    "source": "Libro madre, p. 26."
   },
   {
-    "title": "Il percorso di un oggetto",
-    "subtitle": "Accio, Depulso, Descendo e Wingardium Leviosa",
+    "title": "Movimento e controllo · Ripasso",
+    "subtitle": "Descendo, Arresto Momentum e Ventus",
     "theory": [
-      "Una situazione di movimento può richiedere richiamo, allontanamento, discesa o guida. La scelta deve seguire il risultato necessario e non l’abitudine a usare sempre la stessa formula.",
-      "Il caso conclusivo presenta un oggetto fuori posto e una destinazione precisa. Prima di agire si individua il percorso più leggibile e si scartano gli interventi superflui.",
-      "La quarta lezione conclude il terzo anno con una sequenza breve. Ogni effetto viene osservato prima di passare al successivo; concatenare formule senza riscontro rende difficile capire dove nasca un errore."
+      "Descendo modifica il movimento verso il basso; Arresto Momentum interviene sulla velocità; Ventus produce una corrente di vento. Il ripasso confronta il risultato necessario prima di scegliere la formula. Le differenze non si riducono a una graduatoria di forza.",
+      "Una discesa richiede di considerare l’appoggio finale, un rallentamento il momento dell’intervento, una corrente gli oggetti vicini che può coinvolgere. La classe descrive ogni passaggio senza attribuire a una singola formula il controllo di tutte queste condizioni.",
+      "Su una tavola di lavoro gli studenti propongono una scelta e spiegano come verificarla. Un ordine diverso di azioni può produrre un risultato differente. L’attività non introduce un incantesimo combinato e non modifica gli effetti delle tre formule."
     ],
     "materials": "Oggetto leggero e schema con più posizioni.",
     "steps": [
@@ -356,23 +356,23 @@ const LESSONS=[
     "year": 4,
     "week": 2,
     "meeting": 3,
-    "title": "Ventus",
-    "subtitle": "Direzione e limite del vento",
+    "title": "Reparo",
+    "subtitle": "Ripristinare e riconoscere i limiti della riparazione",
     "theory": [
-      "Ventus produce un effetto di vento governato dalla bacchetta. La prova definisce una direzione e un bersaglio che permettano di osservare il movimento senza coinvolgere l’intero ambiente.",
-      "L’intensità va riferita al compito: un indicatore che si muove nella direzione prevista offre un riscontro più chiaro di materiali dispersi senza controllo.",
-      "Il laboratorio usa un oggetto inanimato leggero. Prima dell’esecuzione si controlla quali altri elementi potrebbero essere coinvolti; l’esito va confrontato sia con il bersaglio sia con ciò che doveva restare fermo."
+      "Reparo ricompone un oggetto danneggiato. La preparazione parte dal riconoscimento della sua struttura originaria: i frammenti presenti devono corrispondere a un insieme conoscibile, non a una forma immaginata senza riferimento.",
+      "Il manuale distingue la ricomposizione materiale dalla restituzione di ogni proprietà magica. Un manufatto complesso o una bacchetta non possono essere giudicati soltanto dall’aspetto esterno. Una superficie integra non dimostra il recupero delle funzioni nascoste.",
+      "L’esercizio del quarto anno usa un oggetto ordinario e documentato prima del danno. Reparo non viene presentato come cura per esseri viventi né come soluzione universale: il giudizio finale deve esplicitare ciò che è stato effettivamente verificato."
     ],
-    "materials": "Indicatore leggero e zona di lavoro sgombra.",
+    "materials": "Oggetto semplice predisposto in frammenti e disegno della forma originaria.",
     "steps": [
-      "Definisci direzione e limite dell’effetto.",
-      "Osserva o esegui Ventus sul bersaglio predisposto.",
-      "Verifica anche gli oggetti che non dovevano essere coinvolti."
+      "Confronta i frammenti con il disegno e individua le parti da ricomporre.",
+      "Osserva o esegui Reparo secondo la dimostrazione.",
+      "Controlla forma e funzione ordinaria, separandole da proprietà che non hai verificato."
     ],
-    "check": "La direzione rispetta il progetto senza coinvolgere bersagli estranei.",
-    "question": "Muovere il bersaglio basta se vengono spostati anche oggetti non previsti?",
-    "answer": "No. Il controllo include il rispetto dei limiti del progetto.",
-    "source": "Libro madre, p. 26."
+    "check": "La ricostruzione corrisponde al riferimento e il giudizio non promette il recupero di poteri non osservabili.",
+    "question": "Un oggetto incantato torna integro alla vista: hai dimostrato che ogni suo incanto funziona?",
+    "answer": "No. La ricomposizione visibile non dimostra il ripristino di tutte le proprietà magiche.",
+    "source": "pp. 15–16."
   },
   {
     "id": 16,
@@ -467,27 +467,27 @@ const LESSONS=[
     "meeting": 3
   },
   {
-    "title": "Lavorare nello spazio",
-    "subtitle": "Levioso, Wingardium Leviosa e Descendo",
-    "theory": [
-      "Le tre formule vengono confrontate per distinguere sospensione, guida e discesa. L’allievo deve descrivere la necessità prima di scegliere il nome dell’incanto.",
-      "Un percorso efficace non richiede necessariamente tutte e tre le formule. Lo studio riguarda anche gli interventi che si possono evitare perché il compito è già risolto.",
-      "La quarta lezione del quinto anno propone un caso nuovo su un oggetto noto. La soluzione viene motivata e verificata, senza attribuire capacità automatiche a bersagli più complessi."
-    ],
-    "materials": "Schema di un percorso e oggetto semplice.",
-    "steps": [
-      "Definisci l’unico problema da risolvere.",
-      "Scegli sospensione, guida o discesa motivando la scelta.",
-      "Descrivi un controllo che permetta al docente di giudicare il risultato."
-    ],
-    "check": "La formula scelta corrisponde al problema di movimento.",
-    "question": "Devi usare tutte le formule conosciute per dimostrare competenza?",
-    "answer": "No. La competenza comprende evitare gli interventi superflui.",
-    "source": "Catalogo delle formule della scuola; attività didattica proposta.",
     "id": 20,
     "year": 5,
     "week": 2,
-    "meeting": 4
+    "meeting": 4,
+    "title": "Silencio",
+    "subtitle": "Il suono e il limite del bersaglio",
+    "theory": [
+      "Silencio riguarda la soppressione temporanea della voce del bersaglio. Si distingue da una semplice diminuzione del volume e non equivale alla scelta dell’incantatore di eseguire una formula senza voce.",
+      "La prova deve avere un bersaglio noto e un esito osservabile. Una mancata emissione non dimostra da sola l’assenza di ogni suono nell’ambiente: il controllo resta legato al soggetto sul quale si è intervenuti.",
+      "La lezione si svolge come dimostrazione guidata e confronto teorico. Prima di attribuire al risultato un silenziamento riuscito, si ricostruiscono le condizioni iniziali e il compito stabilito dal docente."
+    ],
+    "materials": "Caso di dimostrazione e scheda delle condizioni iniziali.",
+    "steps": [
+      "Descrivi il bersaglio e la voce che si intende influenzare.",
+      "Osserva Silencio nella dimostrazione guidata.",
+      "Distingui silenziamento del bersaglio, quiete dell’ambiente e magia non verbale."
+    ],
+    "check": "L’allievo distingue effetto sul bersaglio e silenzio generale.",
+    "question": "Silenziare un bersaglio significa eliminare tutti i rumori dell’ambiente?",
+    "answer": "No. L’effetto studiato deve essere riferito al bersaglio designato.",
+    "source": "Libro madre, p. 22."
   },
   {
     "title": "Alohomora · livello 3",

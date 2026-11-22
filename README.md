@@ -1,26 +1,31 @@
-# Ars Incantationum · Edizione aggiornata
+# Ars Incantationum
 
-Manuale di Incantesimi di Nathaniel Ashcombe per NightFall. Il catalogo nelle schermate del 17 novembre 2026 prevale sull’elenco generico del libro madre.
+Libro scolastico di Nathaniel Ashcombe, autore fittizio, per Hogwarts nel 1890.
 
-82 pagine A4; 7 anni; 2 settimane per anno; 2 lezioni settimanali; 28 lezioni. Le revisioni approfondiscono formule già introdotte. Non è previsto un esame finale.
+[Apri il libro](https://razor5489.github.io/Ars-Incantationum/)
 
-## Assegnazioni
+124 pagine, sette anni, 28 incontri. Due lezioni a settimana per due settimane per ogni annualità. L’ordinamento concordato del 22 novembre 2026 prevale sulle precedenti collocazioni delle formule modificate. Più schede di formula possono appartenere a un solo incontro.
 
-Il file catalog.json contiene 39 voci ammesse delle schermate: 18 voci di Incantesimi (compresi i tre livelli di Alohomora), 15 di DCAO, 4 di Trasfigurazione, 1 di Medimagia, 1 da assegnare. Le assegnazioni già documentate sono marcate come confermate; le altre sono proposte didattiche. Blink non ha anno o materia accertati e non ha una lezione pratica. Le formule vietate dalla richiesta sono integralmente escluse dall’edizione e dalle tavole.
+| Anno | Settimana I · Due incontri | Settimana II · Due incontri |
+|---|---|---|
+| 1 | Lumos; Verdimilius | Il controllo del bersaglio; Wingardium Leviosa |
+| 2 | Accio e Levioso; Alohomora e Colloportus | Depulso; Puncheck |
+| 3 | Descendo; Arresto Momentum | Ventus; Movimento e controllo · Ripasso |
+| 4 | Incendio; Glacius | Reparo; Diffindo |
+| 5 | Alohomora · livello 2; Accio e Depulso · revisione | Diffindo e Reparo · revisione; Silencio |
+| 6 | Alohomora · livello 3; Silencio · revisione avanzata | Gli elementi · revisione; La magia non verbale |
+| 7 | Arresto Momentum · revisione avanzata; Wingardium Leviosa · revisione avanzata | Progettare una sequenza; Il giudizio dell’incantatore |
 
-Le formule del precedente programma non presenti nel nuovo catalogo sono rimosse dall’insegnamento operativo. Le altre materie compaiono soltanto in tavole separate.
+## Collocazioni e limiti
 
-## Fonti
+Incantesimi: al secondo anno Accio, Levioso, Alohomora e Colloportus nella prima settimana; Depulso e Puncheck nella seconda. Al terzo anno Descendo, Arresto Momentum e Ventus, seguiti da ripasso.
 
-Base teorica: Manuale Ufficiale di Incantesimi - bewitchedgdr.pdf, fornito dall’utente. Le schermate definiscono i nomi disponibili ma non confermano tutti gli effetti, le materie o gli anni; non vengono inventati danni, tempi, distanze, costi o effetti di Blink.
+D.C.A.O.: Tarantallegra e Vermilius nella seconda settimana del secondo anno; Fireball e Confundo al terzo; Confringo al quarto. La ripresa di Confringo al sesto è un approfondimento, non una nuova introduzione. Verdimilius resta distinto da Vermilius e conserva il primo anno di Incantesimi.
 
-## Generazione
+Puncheck, Fireball e la variante in gioco di Vermilius hanno una trattazione teorica con informazioni mancanti esplicite; non si inventano effetti, danni, durata, gittata o gesti. Diffindo, Incendio e Incarcerous nel programma DCAO della fonte sono applicazioni difensive di formule condivise con altre materie. Gli anni non ridefiniti mantengono il percorso precedente e i richiami vengono coordinati.
 
-Modificare content.js e catalog.json; eseguire python3 build-book.py con Python/reportlab e Node. La generazione sincronizza pages/, book-data.json e il blocco dati incorporato in index.html. Pubblicazione statica GitHub Pages dalla radice di main.
+## Fonti e generazione
 
-Creato per NightFall da Razor. Progetto amatoriale non ufficiale.
+Base teorica: Manuale Ufficiale di Incantesimi di bewitchedgdr e repertorio fornito dalla scuola. Modificare `content.js`, `spell-notes.json` e `catalog.json`, quindi eseguire `python build-book.py` con Python/ReportLab e Node.
 
-
-### Schede delle formule
-
-Revisione del 18 novembre 2026: spiegazioni individuali in `spell-notes.json`, integrate nelle lezioni dal generatore. Ogni scheda include effetto, nozioni da spiegare, esempio e domanda con risposta. Numerazione, indice e programmi annuali sono ricalcolati automaticamente. Restano quattro lezioni per anno.
+Il generatore sincronizza pagine SVG, indice, numerazione e dati incorporati. Lettore con ricerca, segnalibri e modalità a una o due pagine. Pubblicazione GitHub Pages da main, radice. Esclusioni richieste rispettate.

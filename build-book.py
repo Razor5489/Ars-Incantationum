@@ -103,7 +103,7 @@ p.paragraph('Questo volume accompagna sette annualità. Ogni anno si svolge in d
 p.heading('Il metodo comune')
 p.paragraph('Le pagine teoriche introducono principi e formule. La scheda successiva organizza preparazione, attività e controllo. Ogni incontro ha un obiettivo riconoscibile e termina con una domanda ragionata.')
 p.box('La sequenza di lavoro','Osservare. Visualizzare. Eseguire con controllo. Confrontare. Correggere.')
-p.paragraph('Questa edizione distingue le formule di Incantesimi da quelle delle altre discipline. Per le assegnazioni non ancora stabilite, la tavola finale presenta una proposta didattica, non una regola già confermata.',10,MUTED)
+p.paragraph('Questa edizione distingue le formule di Incantesimi da quelle delle altre discipline. Gli aggiornamenti concordati fissano anni e settimane; le voci il cui effetto non è ancora documentato restano teoriche.',10,MUTED)
 p.paragraph('La teoria non conferisce automaticamente abilità speciali. Gli argomenti avanzati si affrontano secondo la preparazione degli allievi e le indicazioni della scuola.')
 p.paragraph('Nathaniel Ashcombe',13,GREEN,True)
 add(p,'Praefatio')
@@ -115,7 +115,7 @@ p.heading('Settimana I');p.paragraph('Lezione 1: principi e osservazione. Lezion
 p.heading('Settimana II');p.paragraph('Lezione 3: applicazione guidata. Lezione 4: sintesi e ripasso. Concluso il quarto incontro, si prosegue con la prima lezione dell’anno successivo.')
 p.box('Quindici minuti','2 minuti per obiettivo e preparazione; 3 per la lettura guidata; 7 per attività o dimostrazione; 3 per confronto e ripasso.')
 p.heading('Conoscenza e applicazione');p.paragraph('Il programma conserva nome, materia e anno delle formule documentate dalla scuola. Le attività del libro accompagnano l’insegnamento senza inventare meccaniche, durate o potenziamenti.')
-p.paragraph('Le lezioni mancanti possono essere recuperate consultando teoria e scheda operativa. Non è previsto un esame finale.',11)
+p.paragraph('Recuperi e verifiche seguono le disposizioni della scuola. Teoria e scheda operativa permettono di preparare il confronto con il docente.',11)
 add(p,'Il percorso delle due settimane')
 p=Leaf('Fondamenti','Quattro elementi del controllo','Preparare prima di eseguire')
 for h,t in [('Concentrazione','Rivolgere l’attenzione al bersaglio e al risultato, riconoscendo ciò che può distrarre.'),('Volontà','Definire quale effetto si intende produrre, senza sostituire il progetto con una richiesta vaga di maggiore potenza.'),('Movimento e formula','Coordinare il gesto appreso con la formula pronunciata chiaramente. Una variazione non conosciuta non è un miglioramento dimostrato.'),('Predisposizione ed esercizio','L’affinità con una pratica può facilitare l’apprendimento; non sostituisce preparazione, costanza e riscontro del docente.')]:p.heading(h);p.paragraph(t)
@@ -128,7 +128,7 @@ for yi,y in enumerate(DATA['years']):
     p.y+=36;p.parts.append(text(297.5,p.y,ROMAN[yi],100,GREEN,anchor='middle'));p.y+=60
     p.paragraph(y['goal'],16,GREEN,True,24)
     p.box('Il ciclo dell’annualità','Due settimane. Due lezioni ogni settimana. Quattro incontri. Le schede delle formule sono letture della stessa lezione, non incontri aggiuntivi.')
-    if year==1:p.paragraph('Lumos, Verdimilius, Levioso e Wingardium Leviosa.',13,GREEN)
+    if year==1:p.paragraph('Lumos, Verdimilius, controllo del bersaglio e Wingardium Leviosa. Levioso è introdotto nel secondo anno.',13,GREEN)
     add(p,'Anno '+ROMAN[yi]+' · '+y['name']);SECTIONS.append([ROMAN[yi],idx])
     p=Leaf('Anno '+ROMAN[yi],'Il programma dell’anno','Due settimane · Quattro lezioni')
     for li,l in enumerate(annual):
@@ -162,12 +162,12 @@ for h,t in [('Bersaglio','Soggetto identificato sul quale si intende intervenire
 add(p,'Lessico essenziale');SECTIONS.append(['Lessico',75])
 catalog=json.loads((ROOT/'catalog.json').read_text())
 p=Leaf('Tavola I · Incantesimi','Le formule per anno','Prima introduzione · Ordinamento della presente edizione')
-p.paragraph('Le revisioni negli anni successivi approfondiscono formule già introdotte. Le assegnazioni non già stabilite dalla scuola sono proposte didattiche di questo volume.',10,MUTED)
+p.paragraph('Le revisioni approfondiscono formule già introdotte. Gli aggiornamenti concordati prevalgono sulle precedenti assegnazioni di anno; le settimane sono indicate nei programmi annuali.',10,MUTED)
 for item in catalog:
     if item['subject']=='Incantesimi':p.row(item['name'],ROMAN[item['year']-1])
 add(p,'Incantesimi · Tavola per anno');SECTIONS.append(['Materie',76])
 p=Leaf('Tavola II · D.C.A.O.','Difesa contro le Arti Oscure','Formule tenute fuori dal programma di Incantesimi')
-p.paragraph('Protego, Flipendo e Rictusempra conservano il primo anno già assegnato. Per le altre voci, anno e materia indicano una proposta didattica.',10,MUTED)
+p.paragraph('La tavola riporta la prima introduzione nel programma D.C.A.O. aggiornato. I rimandi alle formule condivise sono confronti teorici, non lezioni aggiuntive di Incantesimi.',10,MUTED)
 for item in catalog:
     if item['subject']=='DCAO':p.row(item['name'],ROMAN[item['year']-1])
 p.paragraph('La presenza in questa tavola non costituisce insegnamento operativo della formula. Le lezioni appartengono alla materia indicata.',10,MUTED)
@@ -191,7 +191,7 @@ if supplements:
     for note in supplements:spell_sheet(note,'Repertorio · '+note['mode'].split(' · ')[0])
 p=Leaf('Didattica','Dal testo alla lezione','Una formula, un effetto riconoscibile')
 p.heading('1 · Spiegare il risultato');p.paragraph('Leggere la sezione «Che cosa fa» e far identificare bersaglio ed effetto. Prima della formula, la classe deve saper dire quale cambiamento ci si aspetta.')
-p.heading('2 · Collegare una nozione');p.paragraph('Scegliere il confronto centrale della scheda: sospensione e guida, forma e consistenza, luce e combustione. Usare un esempio concreto per rendere visibile la differenza.')
+p.heading('2 · Collegare una nozione');p.paragraph('Scegliere il confronto centrale della scheda: sospensione e guida, forma e consistenza, luce e produzione del vento. Usare un esempio concreto per rendere visibile la differenza.')
 p.heading('3 · Osservare o discutere');p.paragraph('Svolgere l’attività prevista dalla lezione. Le voci delle altre materie e quelle di solo approfondimento restano confronti teorici, affidati al docente competente.')
 p.heading('4 · Chiedere una spiegazione');p.paragraph('Porre la domanda della scheda e chiedere una motivazione. La risposta ragionata aiuta a correggere un equivoco, senza sostituire la descrizione dello studente con la sola formula memorizzata.')
 p.box('Lo stesso calendario','Queste pagine sono materiali delle ventotto lezioni già previste: due incontri a settimana per due settimane in ciascuno dei sette anni.')
@@ -242,11 +242,14 @@ if supplement_start:p.row('Repertorio delle formule · Schede distinte',str(supp
 p.row('Finis',str(chapter_pages['Finis']))
 p.paragraph('Le schede delle formule si trovano nelle rispettive lezioni. Il repertorio raccoglie le voci complementari. L’indice ricercabile permette di trovare ogni incantesimo per nome.',10,MUTED)
 replace_leaf(2,p)
-for item in PAGES:item['image']+='?v=20261118-nozioni1'
-for cover_index in (0,len(PAGES)-1):PAGES[cover_index]['image']=PAGES[cover_index]['image'].split('?')[0]+'?v=20261121-cover2'
+for item in PAGES:item['image']+='?v=20261122-programma3'
+for cover_index in (0,len(PAGES)-1):PAGES[cover_index]['image']=PAGES[cover_index]['image'].split('?')[0]+'?v=20261122-programma3'
 (ROOT/'book-data.json').write_text(json.dumps({'pages':PAGES,'chapters':CHAPTERS,'sections':SECTIONS},ensure_ascii=False,indent=2))
 index=ROOT/'index.html'
 if index.exists() and 'id="book-data"' in index.read_text():
     packed=json.dumps({'pages':PAGES,'chapters':CHAPTERS,'sections':SECTIONS},ensure_ascii=False).replace('</','<\\/')
     index.write_text(re.sub(r'(<script id="book-data" type="application/json">).*?(</script>)',lambda m:m[1]+packed+m[2],index.read_text(),flags=re.S))
 print(f'{len(PAGES)} pagine A4, {len(DATA["lessons"])} lezioni. Nessun testo supera il margine inferiore.')
+
+# Il numero massimo segue il volume effettivamente generato.
+index.write_text(re.sub(r'max="[0-9]+"',f'max="{len(PAGES)}"',index.read_text()))
