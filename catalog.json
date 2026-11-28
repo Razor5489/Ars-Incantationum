@@ -58,9 +58,9 @@
   {
     "name": "Reparo",
     "subject": "Incantesimi",
-    "year": 4,
+    "year": 3,
     "status": "ordinamento concordato",
-    "week": 2
+    "week": 1
   },
   {
     "name": "Descendo",
@@ -72,7 +72,7 @@
   {
     "name": "Arresto Momentum",
     "subject": "Incantesimi",
-    "year": 3,
+    "year": 5,
     "status": "ordinamento concordato",
     "week": 1
   },
@@ -93,9 +93,9 @@
   {
     "name": "Glacius",
     "subject": "Incantesimi",
-    "year": 4,
+    "year": 5,
     "status": "ordinamento concordato",
-    "week": 1
+    "week": 2
   },
   {
     "name": "Ventus",
@@ -109,7 +109,7 @@
     "subject": "Incantesimi",
     "year": 4,
     "status": "ordinamento concordato",
-    "week": 2
+    "week": 1
   },
   {
     "name": "Alohomora (livello 2)",
@@ -151,14 +151,14 @@
     "subject": "DCAO",
     "year": 3,
     "status": "ordinamento concordato",
-    "week": 2
+    "week": 1
   },
   {
     "name": "Everte Statum",
     "subject": "DCAO",
     "year": 3,
     "status": "ordinamento concordato",
-    "week": 2
+    "week": 1
   },
   {
     "name": "Tarantallegra",
@@ -170,9 +170,9 @@
   {
     "name": "Petrificus",
     "subject": "DCAO",
-    "year": 4,
+    "year": 5,
     "status": "ordinamento concordato",
-    "week": 2
+    "week": 1
   },
   {
     "name": "Colloshoo",
@@ -198,29 +198,29 @@
   {
     "name": "Confringo",
     "subject": "DCAO",
-    "year": 4,
+    "year": 6,
     "status": "ordinamento concordato",
     "week": 2
   },
   {
     "name": "Confundo",
     "subject": "DCAO",
-    "year": 3,
+    "year": 5,
     "status": "ordinamento concordato",
     "week": 1
   },
   {
     "name": "Fireball",
     "subject": "DCAO",
-    "year": 3,
+    "year": 4,
     "status": "ordinamento concordato",
-    "week": 1
+    "week": 2
   },
   {
     "name": "Obliviate",
     "subject": "DCAO",
     "year": 6,
-    "status": "proposto"
+    "status": "Solo teoria · Anni VI–VII"
   },
   {
     "name": "Expecto Patronum",

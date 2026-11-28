@@ -8,16 +8,16 @@ const YEARS=[
     "goal": "Prima settimana: Accio, Alohomora e Colloportus. Seconda settimana: Depulso e Puncheck, distinguendo richiamo, spinta e colpo magico."
   },
   {
-    "name": "Direzione, velocità e vento",
-    "goal": "Distinguere Descendo, Arresto Momentum e Ventus, poi consolidarne il controllo nel quarto incontro."
+    "name": "Oggetti, movimento e riparazione",
+    "goal": "Studiare Descendo, Reparo e Ventus su oggetti comuni, quindi confrontare le scelte nel ripasso."
   },
   {
-    "name": "Gli elementi e la precisione",
-    "goal": "Studiare Incendio, Glacius, Reparo e Diffindo senza confondere effetto, intensità e risultato."
+    "name": "Materiali e controllo degli elementi",
+    "goal": "Studiare Incendio e Diffindo, riprendere la riparazione e preparare il giudizio sugli effetti elementali."
   },
   {
-    "name": "Controllo intermedio",
-    "goal": "Approfondire sblocco, richiamo, riparazione e studio di Silencio, collegando formule e controllo del bersaglio."
+    "name": "Accesso e controllo avanzato",
+    "goal": "Approfondire Alohomora, introdurre Arresto Momentum e Glacius, poi studiare Silencio."
   },
   {
     "name": "Controllo avanzato",
@@ -219,7 +219,7 @@ const LESSONS=[
     "theory": [
       "Descendo viene studiato per governare un movimento verso il basso. La direzione generale non basta: l’allievo deve indicare quale bersaglio coinvolgere e dove il suo movimento debba terminare.",
       "Il confronto con Wingardium Leviosa distingue una guida nello spazio da un effetto orientato alla discesa. Il risultato va valutato rispetto al compito, senza dedurre dal nome dettagli non appresi.",
-      "La dimostrazione usa un oggetto inanimato e un punto di arrivo predisposto. Si osserva il movimento ottenuto senza confondere altezza, velocità e precisione."
+      "La dimostrazione usa un oggetto inanimato e un punto di arrivo predisposto. Gli studenti osservano discesa, appoggio e stabilità finale; la lezione non comprende l’uso della formula per schiantare persone al suolo."
     ],
     "materials": "Oggetto didattico e superficie di arrivo predisposta.",
     "steps": [
@@ -241,22 +241,22 @@ const LESSONS=[
     "year": 3,
     "week": 1,
     "meeting": 2,
-    "title": "Arresto Momentum",
-    "subtitle": "Osservare un rallentamento",
+    "title": "Reparo",
+    "subtitle": "Ripristinare e riconoscere i limiti della riparazione",
     "theory": [
-      "Arresto Momentum interviene sulla velocità di un bersaglio. Il compito iniziale riguarda un oggetto dal percorso prevedibile e richiede di distinguere il rallentamento osservato dall’arresto soltanto immaginato.",
-      "Il movimento si descrive prima del tentativo: direzione, punto di partenza e zona nella quale verificare l’effetto rendono leggibile il confronto. La capacità di seguire il bersaglio conta quanto la formula.",
-      "Le applicazioni più complesse verranno riprese negli anni successivi. La prova di oggi non estende automaticamente il controllo a persone, creature o più oggetti in movimento."
+      "Reparo ricompone un oggetto danneggiato. La preparazione parte dal riconoscimento della sua struttura originaria: i frammenti presenti devono corrispondere a un insieme conoscibile, non a una forma immaginata senza riferimento.",
+      "Il manuale distingue la ricomposizione materiale dalla restituzione di ogni proprietà magica. Un manufatto complesso o una bacchetta non possono essere giudicati soltanto dall’aspetto esterno. Una superficie integra non dimostra il recupero delle funzioni nascoste.",
+      "L’esercizio del terzo anno usa un oggetto ordinario e documentato prima del danno. Reparo non viene presentato come cura per esseri viventi né come soluzione universale: il giudizio finale deve esplicitare ciò che è stato effettivamente verificato."
     ],
-    "materials": "Oggetto inanimato e percorso semplice predisposto.",
+    "materials": "Oggetto semplice predisposto in frammenti e disegno della forma originaria.",
     "steps": [
-      "Osserva il movimento iniziale senza intervenire.",
-      "Segui la dimostrazione di Arresto Momentum sul bersaglio.",
-      "Descrivi se e come la velocità è cambiata."
+      "Confronta i frammenti con il disegno e individua le parti da ricomporre.",
+      "Osserva o esegui Reparo secondo la dimostrazione.",
+      "Controlla forma e funzione ordinaria, separandole da proprietà che non hai verificato."
     ],
-    "check": "Lo studente distingue rallentamento e arresto effettivo.",
-    "question": "Un bersaglio più lento è necessariamente fermo?",
-    "answer": "No. Rallentamento e arresto completo sono risultati distinti.",
+    "check": "La ricostruzione corrisponde al riferimento e il giudizio non promette il recupero di poteri non osservabili.",
+    "question": "Un oggetto incantato torna integro alla vista: hai dimostrato che ogni suo incanto funziona?",
+    "answer": "No. La ricomposizione visibile non dimostra il ripristino di tutte le proprietà magiche.",
     "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
@@ -269,7 +269,7 @@ const LESSONS=[
     "theory": [
       "Ventus produce un effetto di vento governato dalla bacchetta. La prova definisce una direzione e un bersaglio che permettano di osservare il movimento senza coinvolgere l’intero ambiente.",
       "L’intensità va riferita al compito: un indicatore che si muove nella direzione prevista offre un riscontro più chiaro di materiali dispersi senza controllo.",
-      "Il laboratorio usa un oggetto inanimato leggero. Prima dell’esecuzione si controlla quali altri elementi potrebbero essere coinvolti; l’esito va confrontato sia con il bersaglio sia con ciò che doveva restare fermo."
+      "La pratica usa indicatori leggeri e una corrente contenuta. L’allievo descrive anche gli oggetti vicini e non impiega la dimostrazione per provocare cadute o impedire il movimento dei compagni."
     ],
     "materials": "Indicatore leggero e zona di lavoro sgombra.",
     "steps": [
@@ -283,27 +283,27 @@ const LESSONS=[
     "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
-    "title": "Movimento e controllo · Ripasso",
-    "subtitle": "Descendo, Arresto Momentum e Ventus",
+    "title": "Movimento e riparazione · Ripasso",
+    "subtitle": "Descendo, Reparo e Ventus",
     "theory": [
-      "Descendo modifica il movimento verso il basso; Arresto Momentum interviene sulla velocità; Ventus produce una corrente di vento. Il ripasso confronta il risultato necessario prima di scegliere la formula. Le differenze non si riducono a una graduatoria di forza.",
-      "Una discesa richiede di considerare l’appoggio finale, un rallentamento il momento dell’intervento, una corrente gli oggetti vicini che può coinvolgere. La classe descrive ogni passaggio senza attribuire a una singola formula il controllo di tutte queste condizioni.",
-      "Su una tavola di lavoro gli studenti propongono una scelta e spiegano come verificarla. Un ordine diverso di azioni può produrre un risultato differente. L’attività non introduce un incantesimo combinato e non modifica gli effetti delle tre formule."
+      "Il terzo anno collega discesa, corrente e ricomposizione: tre compiti distinti, da scegliere in rapporto a un oggetto concreto.",
+      "Una corrente può coinvolgere più materiali lungo il percorso; una discesa riguarda l’appoggio finale; una riparazione richiede di conoscere la struttura originaria. Queste differenze aiutano a evitare una sequenza di formule non necessarie.",
+      "Il caso su tavola usa soltanto oggetti comuni. Un percorso ostruito non giustifica l’aggiunta di formule sconosciute o di un’intensità maggiore del necessario."
     ],
-    "materials": "Oggetto leggero e schema con più posizioni.",
+    "materials": "Tavole del bersaglio, oggetti comuni predisposti e schede di osservazione.",
     "steps": [
-      "Individua una sola destinazione.",
-      "Scegli un incanto di movimento e motiva la scelta.",
-      "Verifica il risultato prima di proporre un secondo intervento."
+      "Descrivere il bersaglio e il risultato richiesto prima di scegliere la formula.",
+      "Confrontare le schede e la dimostrazione predisposta dal docente, rispettando i limiti della lezione.",
+      "Annotare il risultato e motivare quando interrompere l’esercizio."
     ],
-    "check": "La sequenza è proporzionata al compito e usa soltanto formule già studiate.",
-    "question": "Più formule rendono sempre migliore un percorso?",
-    "answer": "No. Conta una scelta motivata, controllabile e sufficiente al compito.",
+    "check": "Distinguere effetto, bersaglio e condizioni dell’esercizio; rispettare il limite fra studio e pratica.",
+    "question": "Che cosa deve essere definito prima dell’esercizio?",
+    "answer": "Bersaglio, risultato necessario e modo di verificare ciò che è accaduto.",
     "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 12,
     "year": 3,
-    "week": 2,
-    "meeting": 4
+    "meeting": 4,
+    "week": 2
   },
   {
     "id": 13,
@@ -333,58 +333,12 @@ const LESSONS=[
     "year": 4,
     "week": 1,
     "meeting": 2,
-    "title": "Glacius",
-    "subtitle": "Freddo e cambiamento di stato",
-    "theory": [
-      "Glacius riguarda il raffreddamento e il congelamento del bersaglio. Il compito comincia dalla descrizione dello stato iniziale, così che l’allievo possa riconoscere che cosa è effettivamente cambiato.",
-      "L’osservazione deve distinguere un cambiamento di stato dall’apparenza della superficie. Il confronto non attribuisce alla formula proprietà ulteriori soltanto perché il risultato sembra freddo.",
-      "Si utilizza un piccolo campione predisposto. La conoscenza di Aguamenti, collocato in Trasfigurazione, può offrire un collegamento teorico ma non trasferisce quella formula nel programma di Incantesimi."
-    ],
-    "materials": "Campione d’acqua, superficie didattica e scheda di confronto.",
-    "steps": [
-      "Descrivi lo stato iniziale del campione.",
-      "Osserva Glacius sul bersaglio predisposto dal docente.",
-      "Confronta il campione con il suo stato precedente e indica il cambiamento osservabile."
-    ],
-    "check": "Lo studente distingue il cambiamento osservato dalle proprietà soltanto supposte.",
-    "question": "L’apparenza di una superficie basta a descriverne ogni proprietà?",
-    "answer": "No. Il giudizio deve precisare quali condizioni sono state verificate.",
-    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
-  },
-  {
-    "id": 15,
-    "year": 4,
-    "week": 2,
-    "meeting": 3,
-    "title": "Reparo",
-    "subtitle": "Ripristinare e riconoscere i limiti della riparazione",
-    "theory": [
-      "Reparo ricompone un oggetto danneggiato. La preparazione parte dal riconoscimento della sua struttura originaria: i frammenti presenti devono corrispondere a un insieme conoscibile, non a una forma immaginata senza riferimento.",
-      "Il manuale distingue la ricomposizione materiale dalla restituzione di ogni proprietà magica. Un manufatto complesso o una bacchetta non possono essere giudicati soltanto dall’aspetto esterno. Una superficie integra non dimostra il recupero delle funzioni nascoste.",
-      "L’esercizio del quarto anno usa un oggetto ordinario e documentato prima del danno. Reparo non viene presentato come cura per esseri viventi né come soluzione universale: il giudizio finale deve esplicitare ciò che è stato effettivamente verificato."
-    ],
-    "materials": "Oggetto semplice predisposto in frammenti e disegno della forma originaria.",
-    "steps": [
-      "Confronta i frammenti con il disegno e individua le parti da ricomporre.",
-      "Osserva o esegui Reparo secondo la dimostrazione.",
-      "Controlla forma e funzione ordinaria, separandole da proprietà che non hai verificato."
-    ],
-    "check": "La ricostruzione corrisponde al riferimento e il giudizio non promette il recupero di poteri non osservabili.",
-    "question": "Un oggetto incantato torna integro alla vista: hai dimostrato che ogni suo incanto funziona?",
-    "answer": "No. La ricomposizione visibile non dimostra il ripristino di tutte le proprietà magiche.",
-    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
-  },
-  {
-    "id": 16,
-    "year": 4,
-    "week": 2,
-    "meeting": 4,
     "title": "Diffindo",
     "subtitle": "Il taglio come prova di precisione",
     "theory": [
       "Diffindo separa o taglia il materiale bersagliato. Il compito preparatorio non è la recitazione della formula, ma la definizione di una linea e di un limite oltre il quale l’effetto non deve proseguire.",
       "La precisione comprende il riconoscimento della superficie, il percorso del gesto e l’osservazione dell’esito. Un materiale separato in molti frammenti non dimostra una riuscita migliore se il progetto richiedeva una sola divisione.",
-      "Il laboratorio usa esclusivamente un campione inanimato predisposto. La valutazione confronta il bordo ottenuto con il disegno iniziale: le parti rimaste integre contano quanto quelle separate."
+      "Il campione è inanimato e predisposto dal docente. La linea scelta deve conservare le parti non interessate e tenere conto di ciò che sostiene il materiale. La precisione vale più dell’estensione del taglio."
     ],
     "materials": "Campione didattico e linea di taglio concordata.",
     "steps": [
@@ -396,6 +350,52 @@ const LESSONS=[
     "question": "Il materiale è stato separato, ma lungo una linea diversa: il compito è riuscito?",
     "answer": "Non pienamente. La separazione deve corrispondere anche al percorso previsto.",
     "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
+  },
+  {
+    "title": "Diffindo e Reparo · revisione",
+    "subtitle": "Separare e ricomporre non sono la stessa operazione",
+    "theory": [
+      "Diffindo e Reparo consentono di confrontare due compiti sul materiale: una separazione prevista e una ricomposizione rispetto a uno stato conosciuto.",
+      "Il progetto iniziale deve documentare la forma dell’oggetto. Una ricomposizione soltanto apparente non dimostra il ritorno di ogni funzione, soprattutto quando il supporto è complesso.",
+      "La classe lavora su un campione ordinario predisposto. Le due prove vengono confrontate senza presentare Reparo come rimedio universale a qualsiasi taglio o danno."
+    ],
+    "materials": "Campione ordinario e disegno della struttura iniziale.",
+    "steps": [
+      "Definisci una separazione e la forma da recuperare.",
+      "Osserva le due operazioni nelle condizioni stabilite dal docente.",
+      "Confrontare il risultato con lo stato iniziale e indicare perché Reparo non è un rimedio universale."
+    ],
+    "check": "Il giudizio distingue taglio, ricostruzione e proprietà non verificate.",
+    "question": "Reparo è automaticamente la soluzione a ogni danno?",
+    "answer": "No. Il tipo di oggetto e la natura del danno restano determinanti.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
+    "id": 15,
+    "year": 4,
+    "week": 2,
+    "meeting": 3
+  },
+  {
+    "title": "Preparare un incanto elementale",
+    "subtitle": "Materiali, ambiente e controllo",
+    "theory": [
+      "Il fuoco modifica il bersaglio e l’ambiente. Prima di una dimostrazione occorre conoscere ciò che può bruciare, dove si trovano gli osservatori e come interrompere la prova.",
+      "Il materiale, la vicinanza di altri oggetti e la possibilità di interrompere l’effetto fanno parte della preparazione. La visibilità di una fiamma non misura da sola il controllo dell’incantatore.",
+      "Si confrontano casi descritti e materiali predisposti dal docente. Il confronto teorico con il freddo prepara Glacius, che sarà esercitato nel quinto anno, senza anticiparne la pratica."
+    ],
+    "materials": "Tavole del bersaglio, oggetti comuni predisposti e schede di osservazione.",
+    "steps": [
+      "Descrivere il bersaglio e il risultato richiesto prima di scegliere la formula.",
+      "Confrontare le schede e la dimostrazione predisposta dal docente, rispettando i limiti della lezione.",
+      "Annotare il risultato e motivare quando interrompere l’esercizio."
+    ],
+    "check": "Distinguere effetto, bersaglio e condizioni dell’esercizio; rispettare il limite fra studio e pratica.",
+    "question": "Che cosa deve essere definito prima dell’esercizio?",
+    "answer": "Bersaglio, risultato necessario e modo di verificare ciò che è accaduto.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
+    "id": 16,
+    "year": 4,
+    "meeting": 4,
+    "week": 2
   },
   {
     "title": "Alohomora · livello 2",
@@ -421,50 +421,50 @@ const LESSONS=[
     "meeting": 1
   },
   {
-    "title": "Accio e Depulso · revisione",
-    "subtitle": "Scegliere il movimento più adatto",
-    "theory": [
-      "La revisione confronta richiamo e allontanamento sullo stesso oggetto in due prove distinte. Il progetto deve mantenere espliciti origine, percorso e destinazione.",
-      "La maggiore preparazione non richiede una maggiore intensità: permette invece di motivare meglio quale delle due formule sia sufficiente al compito.",
-      "I tentativi restano separati. Si attende il riscontro del primo prima di predisporre il secondo, così che una deviazione non venga nascosta da un intervento successivo."
-    ],
-    "materials": "Oggetto e due destinazioni segnate.",
-    "steps": [
-      "Progetta un richiamo e un allontanamento distinti.",
-      "Confronta le prove guidate di Accio e Depulso.",
-      "Spiega quale scegliere in un nuovo caso scritto."
-    ],
-    "check": "La scelta è motivata dal percorso e dalla destinazione.",
-    "question": "Una formula più energica è necessariamente più adeguata?",
-    "answer": "No. L’adeguatezza dipende dal compito.",
-    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 18,
     "year": 5,
     "week": 1,
-    "meeting": 2
+    "meeting": 2,
+    "title": "Arresto Momentum",
+    "subtitle": "Osservare un rallentamento",
+    "theory": [
+      "Arresto Momentum interviene sulla velocità di un bersaglio. Il compito iniziale riguarda un oggetto dal percorso prevedibile e richiede di distinguere il rallentamento osservato dall’arresto soltanto immaginato.",
+      "Il movimento si descrive prima del tentativo: direzione, punto di partenza e zona nella quale verificare l’effetto rendono leggibile il confronto. La capacità di seguire il bersaglio conta quanto la formula.",
+      "Nel quinto anno la dimostrazione comincia con un oggetto in movimento su un percorso predisposto. L’effetto non arresta il tempo. La lezione distingue una prova su oggetti da un’applicazione su persone, che richiede valutazione e supervisione del docente."
+    ],
+    "materials": "Oggetto inanimato e percorso semplice predisposto.",
+    "steps": [
+      "Osserva il movimento iniziale senza intervenire.",
+      "Segui la dimostrazione di Arresto Momentum sul bersaglio.",
+      "Descrivi se e come la velocità è cambiata."
+    ],
+    "check": "Lo studente distingue rallentamento e arresto effettivo.",
+    "question": "Un bersaglio più lento è necessariamente fermo?",
+    "answer": "No. Rallentamento e arresto completo sono risultati distinti.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
-    "title": "Diffindo e Reparo · revisione",
-    "subtitle": "Separare e ricomporre non sono la stessa operazione",
-    "theory": [
-      "Diffindo e Reparo consentono di confrontare due compiti sul materiale: una separazione prevista e una ricomposizione rispetto a uno stato conosciuto.",
-      "Il progetto iniziale deve documentare la forma dell’oggetto. Una ricomposizione soltanto apparente non dimostra il ritorno di ogni funzione, soprattutto quando il supporto è complesso.",
-      "La classe lavora su un campione ordinario predisposto. Le due prove vengono confrontate senza presentare Reparo come rimedio universale a qualsiasi taglio o danno."
-    ],
-    "materials": "Campione ordinario e disegno della struttura iniziale.",
-    "steps": [
-      "Definisci una separazione e la forma da recuperare.",
-      "Osserva le due operazioni nelle condizioni stabilite dal docente.",
-      "Confronta forma, parti conservate e funzione ordinaria."
-    ],
-    "check": "Il giudizio distingue taglio, ricostruzione e proprietà non verificate.",
-    "question": "Reparo è automaticamente la soluzione a ogni danno?",
-    "answer": "No. Il tipo di oggetto e la natura del danno restano determinanti.",
-    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 19,
     "year": 5,
     "week": 2,
-    "meeting": 3
+    "meeting": 3,
+    "title": "Glacius",
+    "subtitle": "Freddo e cambiamento di stato",
+    "theory": [
+      "Glacius riguarda il raffreddamento e il congelamento del bersaglio. Il compito comincia dalla descrizione dello stato iniziale, così che l’allievo possa riconoscere che cosa è effettivamente cambiato.",
+      "L’osservazione deve distinguere un cambiamento di stato dall’apparenza della superficie. Il confronto non attribuisce alla formula proprietà ulteriori soltanto perché il risultato sembra freddo.",
+      "La pratica del quinto anno riguarda campioni inanimati predisposti. Il loro raffreddamento non autorizza esperimenti di congelamento sui compagni. L’allievo osserva superficie, stato e mobilità senza attribuire al gelo capacità curative."
+    ],
+    "materials": "Campione d’acqua, superficie didattica e scheda di confronto.",
+    "steps": [
+      "Descrivi lo stato iniziale del campione.",
+      "Osserva Glacius sul bersaglio predisposto dal docente.",
+      "Confronta il campione con il suo stato precedente e indica il cambiamento osservabile."
+    ],
+    "check": "Lo studente distingue il cambiamento osservato dalle proprietà soltanto supposte.",
+    "question": "L’apparenza di una superficie basta a descriverne ogni proprietà?",
+    "answer": "No. Il giudizio deve precisare quali condizioni sono state verificate.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
     "id": 20,
@@ -541,7 +541,7 @@ const LESSONS=[
     "theory": [
       "Il confronto riguarda tre effetti distinti: fiamma, freddo e vento. La scelta nasce dal compito e non dall’idea che gli elementi possano sempre annullarsi fra loro.",
       "Il progetto deve specificare bersaglio e limite di ciascuna prova. Non si concatenano effetti sulla base della sola fantasia, né si inventano bonus risultanti dalla loro combinazione.",
-      "La classe analizza casi separati e una dimostrazione selezionata dal docente. Il riscontro più importante è la coerenza fra l’intervento scelto e ciò che doveva essere ottenuto."
+      "La revisione confronta Incendio, Ventus e Glacius già studiati, senza aggiungere bersagli o intensità non affrontati nelle lezioni precedenti. Le prove restano separate, ciascuna con un risultato verificabile."
     ],
     "materials": "Tre casi scritti e un bersaglio di dimostrazione.",
     "steps": [
@@ -568,7 +568,7 @@ const LESSONS=[
     "theory": [
       "La magia non verbale esegue un incanto senza pronunciarne ad alta voce la formula. Non consiste nell’assenza di intenzione, né nel muovere la bacchetta sperando che l’effetto si produca da solo.",
       "Il riferimento propone di partire da incanti semplici già conosciuti. La nuova difficoltà riguarda la disciplina mentale e la continuità del progetto: saper eseguire una formula verbalmente non dimostra subito la stessa padronanza senza voce.",
-      "La lezione usa Lumos come riferimento teorico, soltanto secondo la preparazione riconosciuta dal docente. Non introduce nuove formule: distingue il modo di esecuzione dalla padronanza effettivamente verificata."
+      "L’esecuzione non verbale si studia progressivamente su singole formule già padroneggiate. Riuscire in una prova non significa saper eseguire senza voce ogni incantesimo del proprio repertorio."
     ],
     "materials": "Incanto semplice già padroneggiato e scheda di confronto fra due esecuzioni.",
     "steps": [
