@@ -242,8 +242,8 @@ if supplement_start:p.row('Repertorio delle formule · Schede distinte',str(supp
 p.row('Finis',str(chapter_pages['Finis']))
 p.paragraph('Le schede delle formule si trovano nelle rispettive lezioni. Il repertorio raccoglie le voci complementari. L’indice ricercabile permette di trovare ogni incantesimo per nome.',10,MUTED)
 replace_leaf(2,p)
-for item in PAGES:item['image']+='?v=20261128-disarmo6'
-for cover_index in (0,len(PAGES)-1):PAGES[cover_index]['image']=PAGES[cover_index]['image'].split('?')[0]+'?v=20261128-disarmo6'
+for item in PAGES:item['image']+='?v=20261128-terzoanno'
+for cover_index in (0,len(PAGES)-1):PAGES[cover_index]['image']=PAGES[cover_index]['image'].split('?')[0]+'?v=20261128-terzoanno'
 (ROOT/'book-data.json').write_text(json.dumps({'pages':PAGES,'chapters':CHAPTERS,'sections':SECTIONS},ensure_ascii=False,indent=2))
 index=ROOT/'index.html'
 if index.exists() and 'id="book-data"' in index.read_text():

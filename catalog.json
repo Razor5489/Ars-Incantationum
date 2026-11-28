@@ -58,7 +58,7 @@
   {
     "name": "Reparo",
     "subject": "Incantesimi",
-    "year": 3,
+    "year": 4,
     "status": "ordinamento concordato",
     "week": 1
   },
@@ -72,9 +72,9 @@
   {
     "name": "Arresto Momentum",
     "subject": "Incantesimi",
-    "year": 5,
+    "year": 3,
     "status": "ordinamento concordato",
-    "week": 1
+    "week": 2
   },
   {
     "name": "Silencio",
@@ -99,7 +99,7 @@
   },
   {
     "name": "Ventus",
-    "subject": "Incantesimi",
+    "subject": "DCAO",
     "year": 3,
     "status": "ordinamento concordato",
     "week": 2
@@ -109,7 +109,7 @@
     "subject": "Incantesimi",
     "year": 4,
     "status": "ordinamento concordato",
-    "week": 1
+    "week": 2
   },
   {
     "name": "Alohomora (livello 2)",
@@ -135,9 +135,9 @@
   {
     "name": "Flipendo",
     "subject": "DCAO",
-    "year": 1,
+    "year": 3,
     "status": "ordinamento concordato",
-    "week": 2
+    "week": 1
   },
   {
     "name": "Rictusempra",
@@ -156,9 +156,9 @@
   {
     "name": "Everte Statum",
     "subject": "DCAO",
-    "year": 3,
+    "year": 4,
     "status": "ordinamento concordato",
-    "week": 1
+    "week": 2
   },
   {
     "name": "Tarantallegra",
@@ -197,10 +197,10 @@
   },
   {
     "name": "Confringo",
-    "subject": "DCAO",
-    "year": 6,
+    "subject": "Incantesimi",
+    "year": 3,
     "status": "ordinamento concordato",
-    "week": 2
+    "week": 1
   },
   {
     "name": "Confundo",
@@ -276,8 +276,8 @@
   {
     "name": "Vermilius",
     "subject": "DCAO",
-    "year": 2,
-    "week": 2,
+    "year": 3,
+    "week": 1,
     "status": "ordinamento concordato; effetto da confermare"
   }
 ]

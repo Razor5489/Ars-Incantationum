@@ -81,17 +81,17 @@
   },
   {
     "name": "Reparo",
-    "lesson": 9,
+    "lesson": 13,
     "effect": "Ricompone un oggetto rotto, riunendo le parti rispetto alla sua forma originaria. È una riparazione materiale di un bersaglio riconoscibile.",
     "notions": "L’aspetto ricostruito non dimostra automaticamente il recupero di ogni funzione, soprattutto nei manufatti magici. Riparare non equivale a curare una ferita o a creare parti arbitrarie.",
     "example": "Mostrare un oggetto ordinario fotografato o disegnato prima del danno. Dopo la dimostrazione confrontare forma, giunzioni e funzione semplice.",
     "question": "Perché una superficie integra non basta a certificare la riparazione di un manufatto complesso?",
     "answer": "Perché alcune funzioni non sono visibili. Occorre distinguere la ricomposizione osservata dalle proprietà non verificate.",
-    "mode": "Incantesimi · Anno 3 · Settimana 1"
+    "mode": "Incantesimi · Anno 4 · Settimana 1"
   },
   {
     "name": "Descendo",
-    "lesson": 8,
+    "lesson": 9,
     "effect": "Induce un oggetto inanimato a muoversi verso il basso. Il corso ne esercita il controllo su bersagli predisposti, non su persone.",
     "notions": "La discesa riguarda la direzione; velocità e punto d’arrivo sono altri aspetti da osservare. Una formula orientata al basso si distingue dalla guida libera di una levitazione.",
     "example": "Usare uno schema con un oggetto su un appoggio rialzato. Chiedere dove inizi la discesa, dove debba concludersi e quali superfici incontri.",
@@ -101,13 +101,13 @@
   },
   {
     "name": "Arresto Momentum",
-    "lesson": 17,
+    "lesson": 10,
     "effect": "Rallenta o arresta il movimento del bersaglio, secondo le condizioni e la padronanza dell’esecuzione.",
-    "notions": "Il rallentamento non ferma il tempo e non conferisce controllo generale del bersaglio. Il quinto anno comincia con oggetti in movimento; ogni applicazione di soccorso richiede preparazione e supervisione.",
+    "notions": "Il rallentamento non ferma il tempo e non conferisce controllo generale del bersaglio. Il terzo anno comincia con oggetti in movimento; ogni applicazione di soccorso richiede preparazione e supervisione.",
     "example": "Osservare un oggetto in movimento su un percorso predisposto. Confrontare il punto previsto per il rallentamento con quello nel quale l’effetto diventa osservabile.",
     "question": "Un oggetto rallentato è stato automaticamente riportato al punto di partenza?",
     "answer": "No. È cambiata la velocità; posizione e percorso devono essere descritti separatamente.",
-    "mode": "Incantesimi · Anno 5 · Settimana 1"
+    "mode": "Incantesimi · Anno 3 · Settimana 2"
   },
   {
     "name": "Silencio",
@@ -141,23 +141,23 @@
   },
   {
     "name": "Ventus",
-    "lesson": 10,
+    "lesson": null,
     "effect": "Genera una corrente di vento diretta, studiata su materiali leggeri e oggetti inanimati.",
     "notions": "Il vento agisce sull’ambiente attraversato: direzione, ostacoli e oggetti vicini contribuiscono al risultato. Si distingue dalla spinta concentrata di Depulso su un bersaglio.",
     "example": "Usare un indicatore leggero e mostrare come un ostacolo cambi ciò che si osserva. Chiedere quali elementi circostanti potrebbero muoversi insieme al bersaglio.",
     "question": "Perché bisogna osservare anche ciò che sta accanto all’oggetto scelto?",
     "answer": "Perché la corrente può coinvolgere altri materiali lungo il suo percorso.",
-    "mode": "Incantesimi · Anno 3 · Settimana 2"
+    "mode": "DCAO · Anno 3 · Settimana 2 · Riconoscimento teorico"
   },
   {
     "name": "Diffindo",
-    "lesson": 13,
+    "lesson": 14,
     "effect": "Recide o separa un materiale lungo la zona interessata dalla formula. La precisione del taglio dipende dal progetto e dal controllo.",
     "notions": "La pratica riguarda materiali inanimati preparati e una linea di taglio definita. Non conferisce un diritto a sperimentare il taglio sui corpi o su sostegni di cui si ignora la funzione.",
     "example": "Tracciare una linea su un campione inanimato. Confrontare il risultato con il segno iniziale e osservare i margini che dovevano restare invariati.",
     "question": "Un taglio più esteso è necessariamente una riuscita migliore?",
     "answer": "No. La riuscita coincide con la separazione prevista, conservando le altre parti.",
-    "mode": "Incantesimi · Anno 4 · Settimana 1"
+    "mode": "Incantesimi · Anno 4 · Settimana 2"
   },
   {
     "name": "Alohomora (livello 2)",
@@ -197,7 +197,7 @@
     "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
     "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
     "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
-    "mode": "DCAO · Anno 1 · Settimana 2 · Riconoscimento teorico"
+    "mode": "DCAO · Anno 3 · Settimana 1 · Riconoscimento teorico"
   },
   {
     "name": "Rictusempra",
@@ -227,7 +227,7 @@
     "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
     "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
     "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
-    "mode": "DCAO · Anno 3 · Settimana 1 · Riconoscimento teorico"
+    "mode": "DCAO · Anno 4 · Settimana 2 · Riconoscimento teorico"
   },
   {
     "name": "Tarantallegra",
@@ -281,13 +281,13 @@
   },
   {
     "name": "Confringo",
-    "lesson": null,
+    "lesson": 8,
     "effect": "Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula.",
-    "notions": "Il punto dell’impatto e gli effetti sull’ambiente vanno descritti separatamente.",
-    "example": "Confrontare la descrizione con una formula di Incantesimi già studiata. Individuare il bersaglio e la differenza tra i due effetti. La voce serve al riconoscimento e non introduce un’esercitazione di questa materia.",
-    "question": "Quale informazione bisogna conoscere prima di classificare o scegliere la formula?",
-    "answer": "Il suo effetto e il bersaglio; quando la descrizione manca, occorre prima ottenerne conferma dal docente.",
-    "mode": "DCAO · Anno 6 · Settimana 2 · Riconoscimento teorico"
+    "notions": "Distinguere punto colpito e conseguenze nell’ambiente. La dimostrazione usa un bersaglio isolato e non autorizza prove sulle strutture della scuola.",
+    "example": "Osservare la dimostrazione e confrontare scopo, bersaglio e materiali vicini.",
+    "question": "Un’esplosione più vistosa dimostra un’esecuzione migliore?",
+    "answer": "No. Si giudicano corrispondenza con lo scopo, precisione e conseguenze, non la sola intensità.",
+    "mode": "Incantesimi · Anno 3 · Settimana 1"
   },
   {
     "name": "Confundo",
@@ -407,6 +407,6 @@
     "example": "Confrontare la voce con Verdimilius senza trasferire proprietà da una formula all’altra.",
     "question": "Perché distinguere il nome di una formula dal risultato osservato?",
     "answer": "Perché l’osservazione permette di riconoscere l’effetto e le condizioni in cui si manifesta.",
-    "mode": "DCAO · Anno 2 · Settimana 2 · Riconoscimento teorico"
+    "mode": "DCAO · Anno 3 · Settimana 1 · Riconoscimento teorico"
   }
 ]
