@@ -20,7 +20,7 @@ Edizione scolastica ambientata a Hogwarts nel 1890. 124 pagine; sette annualità
 
 Incantesimi: Arresto Momentum e Glacius al V anno; Reparo al III. Descendo e Ventus al III con pratica su oggetti. Diffindo al IV su materiali predisposti; magia non verbale dal VI in modo progressivo.
 
-DCAO: disarmo e sbilanciamento al III; Fireball al IV come studio e dimostrazione circoscritta; Confundo, Petrificus e Incarcerous al V; Bombarda e Confringo al VI; Expulso e Patronus al VII. Obliviate è solo teoria degli ultimi due anni, senza esercizi sui ricordi. Diffindo e Incendio sono letture complementari di applicazione, senza doppio sblocco.
+DCAO: distanza, lettura del duello e sbilanciamento al III; Fireball al IV come studio e dimostrazione circoscritta; Confundo, Petrificus e Incarcerous al V; Bombarda, Confringo ed Expelliarmus al VI; Expulso e Patronus al VII. Obliviate è solo teoria degli ultimi due anni, senza esercizi sui ricordi. Diffindo e Incendio sono letture complementari di applicazione, senza doppio sblocco.
 
 Trasfigurazione: Crinus Muto e Orchideus al III; Glisseo ed Epoximise al IV; Piertotum Locomotor al VII. Engorgio e Reducio al IV sugli oggetti. Draconifors al VI su modello circoscritto. Trasformazioni umane complete al VII come studio specialistico e supervisione; le lezioni non concedono doti innate o abilità Animagus. Geminio al VI su copie di oggetti comuni non incantati, senza valuta o oggetti speciali.
 
