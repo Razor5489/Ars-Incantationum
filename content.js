@@ -8,8 +8,8 @@ const YEARS=[
     "goal": "Prima settimana: Accio, Alohomora e Colloportus. Seconda settimana: Depulso e Puncheck, distinguendo richiamo, spinta e colpo magico."
   },
   {
-    "name": "Esplosione, discesa e rallentamento",
-    "goal": "Prima settimana: Confringo e Descendo. Seconda settimana: Arresto Momentum e ripasso delle tre formule."
+    "name": "Esplosione e discesa",
+    "goal": "Prima settimana: Confringo e Descendo. Seconda settimana: applicazione guidata e ripasso delle due formule."
   },
   {
     "name": "Fuoco, riparazione e taglio",
@@ -17,11 +17,11 @@ const YEARS=[
   },
   {
     "name": "Accesso e controllo avanzato",
-    "goal": "Approfondire Alohomora e Arresto Momentum, introdurre Glacius e studiare Silencio."
+    "goal": "Approfondire Alohomora, Accio e Depulso, introdurre Glacius e studiare Silencio."
   },
   {
-    "name": "Controllo avanzato",
-    "goal": "Studiare Alohomora di livello 3, precisione, continuità e preparazione non verbale."
+    "name": "Controllo avanzato del movimento",
+    "goal": "Approfondire Alohomora e Silencio, introdurre Arresto Momentum e studiare progressivamente la magia non verbale."
   },
   {
     "name": "Il giudizio dell’incantatore",
@@ -260,44 +260,44 @@ const LESSONS=[
     "meeting": 2
   },
   {
+    "title": "Confringo e Descendo · Applicazione guidata",
+    "subtitle": "Due effetti, due risultati distinti",
+    "theory": [
+      "Il terzo incontro applica soltanto le due formule già affrontate: Confringo e Descendo. Un effetto esplosivo e una discesa rispondono a compiti differenti; la scelta deve partire dal risultato necessario, non dalla ricerca della manifestazione più vistosa.",
+      "La classe confronta un ostacolo da valutare e un oggetto da deporre su un appoggio. Si descrivono bersaglio, persone esposte e conseguenze prima della dimostrazione. La possibilità di scegliere una formula non dimostra che sia necessario usarla.",
+      "La prova usa oggetti inanimati e condizioni predisposte dal docente. Si esamina un effetto alla volta e si confronta il risultato con il progetto. L’incontro non introduce formule nuove o combinazioni con capacità aggiuntive."
+    ],
+    "materials": "Oggetti inanimati predisposti, tavole del luogo e schede di osservazione.",
+    "steps": [
+      "Descrivere lo scopo del caso predisposto dal docente.",
+      "Confrontare Confringo e Descendo e motivare una scelta.",
+      "Osservare il risultato e indicare quando interrompere la prova."
+    ],
+    "check": "Riconoscere bersaglio, effetto e risultato necessario, rispettando le indicazioni del docente.",
+    "question": "La formula più vistosa è necessariamente la più adatta?",
+    "answer": "No. Occorre scegliere in rapporto al bersaglio, allo scopo e alle conseguenze.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 11,
     "year": 3,
-    "week": 2,
     "meeting": 3,
-    "title": "Arresto Momentum",
-    "subtitle": "Osservare un rallentamento",
-    "theory": [
-      "Arresto Momentum interviene sulla velocità di un bersaglio. Il compito iniziale riguarda un oggetto dal percorso prevedibile e richiede di distinguere il rallentamento osservato dall’arresto soltanto immaginato.",
-      "Il movimento si descrive prima del tentativo: direzione, punto di partenza e zona nella quale verificare l’effetto rendono leggibile il confronto. La capacità di seguire il bersaglio conta quanto la formula.",
-      "Nel terzo anno la dimostrazione comincia con un oggetto in movimento su un percorso predisposto. L’effetto non arresta il tempo. La lezione distingue una prova su oggetti da un’applicazione su persone, che richiede valutazione e supervisione del docente."
-    ],
-    "materials": "Oggetto inanimato e percorso semplice predisposto.",
-    "steps": [
-      "Osserva il movimento iniziale senza intervenire.",
-      "Segui la dimostrazione di Arresto Momentum sul bersaglio.",
-      "Descrivi se e come la velocità è cambiata."
-    ],
-    "check": "Lo studente distingue rallentamento e arresto effettivo.",
-    "question": "Un bersaglio più lento è necessariamente fermo?",
-    "answer": "No. Rallentamento e arresto completo sono risultati distinti.",
-    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
+    "week": 2
   },
   {
     "title": "Confronto e ripasso del terzo anno",
-    "subtitle": "Confringo, Descendo e Arresto Momentum",
+    "subtitle": "Confringo e Descendo",
     "theory": [
-      "Confringo produce un effetto esplosivo; Descendo induce un movimento verso il basso; Arresto Momentum rallenta o arresta un movimento. Il quarto incontro confronta i tre risultati senza trasformarli in una nuova formula combinata.",
-      "Il medesimo problema può richiedere decisioni differenti secondo bersaglio e ambiente. Un ostacolo non va distrutto soltanto perché può essere colpito; una discesa richiede un appoggio e un rallentamento va valutato nel momento in cui diventa necessario.",
+      "Confringo produce un effetto esplosivo; Descendo induce un movimento verso il basso. Il quarto incontro confronta questi due risultati senza trasformarli in una nuova formula combinata.",
+      "Un ostacolo non va distrutto soltanto perché può essere colpito. Una discesa richiede invece un punto d’arrivo adatto. Il confronto considera bersaglio, appoggi e persone esposte prima di scegliere come intervenire.",
       "Gli studenti lavorano su un caso scritto e scelgono una sola risposta motivata prima di proporre una sequenza. Il docente verifica che siano stati considerati gli altri presenti e che non vengano attribuite alla formula capacità non osservate."
     ],
     "materials": "Oggetti inanimati predisposti, tavole del luogo e schede di osservazione.",
     "steps": [
       "Descrivere il problema senza scegliere subito una formula.",
-      "Confrontare le tre schede e motivare una scelta.",
+      "Confrontare le due schede e motivare una scelta.",
       "Indicare un limite della scelta e il momento in cui fermarsi."
     ],
     "check": "Riconoscere bersaglio, effetto e risultato necessario, rispettando le indicazioni del docente.",
-    "question": "Le tre formule sono intercambiabili perché possono modificare una situazione?",
+    "question": "Le due formule sono intercambiabili perché possono modificare una situazione?",
     "answer": "No. Effetto, bersaglio e conseguenze sono differenti e vanno confrontati con il risultato necessario.",
     "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 12,
@@ -425,22 +425,22 @@ const LESSONS=[
     "year": 5,
     "week": 1,
     "meeting": 2,
-    "title": "Arresto Momentum · Controllo avanzato",
-    "subtitle": "Ripresa della formula introdotta al terzo anno",
+    "title": "Accio e Depulso · Controllo",
+    "subtitle": "Richiamo e spinta su un percorso definito",
     "theory": [
-      "Il quinto anno approfondisce Arresto Momentum già introdotto nel terzo. Lo studio non aggiunge un nuovo potere: confronta momento dell’intervento, movimento del bersaglio e precisione del risultato.",
-      "Il movimento si descrive prima del tentativo: direzione, punto di partenza e zona nella quale verificare l’effetto rendono leggibile il confronto. La capacità di seguire il bersaglio conta quanto la formula.",
-      "La revisione usa casi più articolati e oggetti in movimento predisposti. L’esperienza precedente non rende superflue preparazione e supervisione. Il rallentamento non equivale ad arrestare il tempo o a controllare ogni azione della persona."
+      "Il quinto anno riprende Accio e Depulso già studiati nel secondo. Richiamare e respingere sono compiti distinti: la revisione considera scelta del bersaglio, direzione e spazio disponibile senza aggiungere nuove proprietà alle formule.",
+      "La classe confronta posizione iniziale, percorso e punto d’arrivo. Una spinta più intensa non garantisce maggiore precisione; un richiamo richiede di riconoscere l’oggetto fra quelli presenti e di considerare ciò che si trova lungo il movimento.",
+      "La dimostrazione usa oggetti comuni predisposti dal docente. Si procede con un effetto alla volta e si verifica il risultato prima di proporre una seconda azione. Il controllo consiste nella corrispondenza con il compito, non nella sola intensità."
     ],
-    "materials": "Oggetto inanimato e percorso semplice predisposto.",
+    "materials": "Oggetti leggeri distinguibili, appoggi stabili e percorso predisposto.",
     "steps": [
-      "Osserva il movimento iniziale senza intervenire.",
-      "Segui la dimostrazione di Arresto Momentum sul bersaglio.",
-      "Descrivi se e come la velocità è cambiata."
+      "Descrivere oggetto e destinazione.",
+      "Confrontare un richiamo e una spinta sul percorso predisposto.",
+      "Annotare quale risultato corrisponda al compito."
     ],
-    "check": "Lo studente distingue rallentamento e arresto effettivo.",
-    "question": "Un bersaglio più lento è necessariamente fermo?",
-    "answer": "No. Rallentamento e arresto completo sono risultati distinti.",
+    "check": "Distinguere richiamo, spinta e precisione del punto d’arrivo.",
+    "question": "Una spinta più intensa è sempre una scelta migliore?",
+    "answer": "No. Conta il risultato richiesto nello spazio disponibile.",
     "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
@@ -536,27 +536,27 @@ const LESSONS=[
     "meeting": 2
   },
   {
-    "title": "Gli elementi · Revisione",
-    "subtitle": "Incendio e Glacius",
-    "theory": [
-      "La revisione confronta la produzione del fuoco e il raffreddamento, collegando risultato e condizioni del materiale. Un effetto apparentemente opposto non è un annullamento universale.",
-      "Incendio e Glacius possono cambiare le condizioni del luogo. La scelta considera materiali vicini, persone presenti e possibilità di interrompere la dimostrazione, senza attribuire ai due effetti le stesse proprietà.",
-      "La pratica usa oggetti e campioni predisposti dal docente. Gli allievi descrivono ciò che osservano, distinguendo variazioni superficiali e proprietà non verificate."
-    ],
-    "materials": "Tre casi scritti e un bersaglio di dimostrazione.",
-    "steps": [
-      "Identifica quale effetto richiede ogni caso.",
-      "Scegli una formula fra quelle studiate.",
-      "Descrivi i limiti e scarta combinazioni prive di riscontro."
-    ],
-    "check": "L’allievo non attribuisce proprietà nuove alla semplice successione di incanti.",
-    "question": "Combinare due elementi garantisce un effetto migliore?",
-    "answer": "No. Ogni combinazione deve essere conosciuta e verificata.",
-    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi",
     "id": 23,
     "year": 6,
     "week": 2,
-    "meeting": 3
+    "meeting": 3,
+    "title": "Arresto Momentum",
+    "subtitle": "Osservare un rallentamento",
+    "theory": [
+      "Arresto Momentum interviene sulla velocità di un bersaglio. Il compito iniziale riguarda un oggetto dal percorso prevedibile e richiede di distinguere il rallentamento osservato dall’arresto soltanto immaginato.",
+      "Il movimento si descrive prima del tentativo: direzione, punto di partenza e zona nella quale verificare l’effetto rendono leggibile il confronto. La capacità di seguire il bersaglio conta quanto la formula.",
+      "Nel sesto anno la dimostrazione comincia con un oggetto in movimento su un percorso predisposto. L’effetto non arresta il tempo. La lezione distingue una prova su oggetti da un’applicazione su persone, che richiede valutazione e supervisione del docente."
+    ],
+    "materials": "Oggetto inanimato e percorso semplice predisposto.",
+    "steps": [
+      "Osserva il movimento iniziale senza intervenire.",
+      "Segui la dimostrazione di Arresto Momentum sul bersaglio.",
+      "Descrivi se e come la velocità è cambiata."
+    ],
+    "check": "Lo studente distingue rallentamento e arresto effettivo.",
+    "question": "Un bersaglio più lento è necessariamente fermo?",
+    "answer": "No. Rallentamento e arresto completo sono risultati distinti.",
+    "source": "Nathaniel Ashcombe · Appunti per il corso di Incantesimi"
   },
   {
     "id": 24,

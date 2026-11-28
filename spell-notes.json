@@ -101,13 +101,13 @@
   },
   {
     "name": "Arresto Momentum",
-    "lesson": 10,
+    "lesson": 22,
     "effect": "Rallenta o arresta il movimento del bersaglio, secondo le condizioni e la padronanza dell’esecuzione.",
-    "notions": "Il rallentamento non ferma il tempo e non conferisce controllo generale del bersaglio. Il terzo anno comincia con oggetti in movimento; ogni applicazione di soccorso richiede preparazione e supervisione.",
+    "notions": "Il rallentamento non ferma il tempo e non conferisce controllo generale del bersaglio. Il sesto anno comincia con oggetti in movimento; ogni applicazione di soccorso richiede preparazione e supervisione.",
     "example": "Osservare un oggetto in movimento su un percorso predisposto. Confrontare il punto previsto per il rallentamento con quello nel quale l’effetto diventa osservabile.",
     "question": "Un oggetto rallentato è stato automaticamente riportato al punto di partenza?",
     "answer": "No. È cambiata la velocità; posizione e percorso devono essere descritti separatamente.",
-    "mode": "Incantesimi · Anno 3 · Settimana 2"
+    "mode": "Incantesimi · Anno 6 · Settimana 2"
   },
   {
     "name": "Silencio",
